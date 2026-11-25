@@ -7,6 +7,9 @@
 <link rel="stylesheet" href="../assets/atlas.css">
 <style>
   .req td:first-child { white-space: nowrap; font-weight: 600; }
+  .datalinks a.card { text-decoration: none; color: var(--ink); display: block; }
+  .datalinks a.card:hover { border-color: var(--accent); }
+  .datalinks h3 { color: var(--accent); }
   ol.ten { columns: 2; column-gap: 32px; padding-left: 20px; margin: 0; }
   @media (max-width: 600px) { ol.ten { columns: 1; } }
 </style>
@@ -70,6 +73,13 @@
   </table>
   </div>
   <p class="src">Source: <a data-ref="swrcb2024"></a>.</p>
+
+  <h2>See the data</h2>
+  <p>Everything SWAMP collects is public. Two places to start:</p>
+  <div class="two datalinks">
+    <a class="card" href="https://gispublic.waterboards.ca.gov/swamp-data/"><h3>SWAMP Data Dashboard</h3><p>An interactive map and table of SWAMP monitoring stations and results from 2000 to today. Filter by pollutant or species, statewide program, or region.</p><p class="src">gispublic.waterboards.ca.gov/swamp-data</p></a>
+    <a class="card" href="https://data.ca.gov/@california-state-water-resources-control-board/surface-water-ambient-monitoring-program"><h3>SWAMP on California Open Data</h3><p>The dataset behind the dashboard, free to download and reuse, on the state's open data portal.</p><p class="src">data.ca.gov</p></a>
+  </div>
 
   <h2>The federal yardstick</h2>
   <p>U.S. EPA judges every state monitoring program against ten elements. Several need steady funding more than new ideas.</p>
