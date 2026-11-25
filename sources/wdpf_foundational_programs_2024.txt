@@ -1,0 +1,493 @@
+      Summary of Foundational Water Board Programs
+        Funded by the Waste Discharge Permit Fund
+
+The State Water Board refers to the following programs as “foundational programs”
+because they are the foundation for many regulatory programs that are supported by fee
+payers: Basin Planning, Total Maximum Daily Load (TMDL), Enforcement, Groundwater
+Ambient Monitoring Assessment (GAMA), Surface Water Assessment and Monitoring
+Program (SWAMP), and Beach Monitoring. Except for the Beach Monitoring Program,
+these programs were at one time supported, either in full or partially, by the General
+Fund. General Fund support for many of these programs has been eliminated over the
+years. In FY 2011­12, all General Fund support for these programs was eliminated and
+their budget authority (revenue source) was replaced with the Waste Discharge Permit
+Fund (WDPF), which is funded by fees paid by dischargers in water quality programs.
+The fee support was distributed among WDPF fee­paying programs proportional to each
+program’s distribution of budgeted expenditures. Water Code section 13260(d) directs the
+State Water Board to collect fees that reflect all of these costs. The Beach Monitoring
+program was implemented through the budget change proposal process to provide local
+assistance, the funding for which was to be provided by water quality fees. The fee
+support was distributed to all water quality fee payers. Note that the Irrigated Lands
+Program fee payers do not pay fund any monitoring programs and therefore does not
+contribute to the financial support of GAMA or SWAMP.
+The attachment summarizes the fund sources (including WDPF and other sources), the
+number and costs of staff supported, and the contracts funded for these foundational
+programs. Summaries of each of these programs is presented below.
+
+
+Basin Planning
+Program Description
+Water quality control plans, often called basin plans, are the Water Boards’ primary water
+quality control planning resource for protecting the state’s waters. They are the basis for
+requirements included in National Pollutant Discharge Elimination System (NPDES)
+permits, waste discharge requirements, and cleanup orders. They are also used by
+outside agencies for their permitting and resource activities. Basin plans designate
+beneficial uses of surface water and groundwater, establish water quality objectives to
+protect the uses, and describe programs of implementation for achieving the objectives.
+The Water Boards prioritize amendments to basin plans during a periodic review ranking
+process. Amendments are rule making actions that involve scientific research and often
+independent scientific peer review, environmental analysis, economic analysis, a written
+public comment period, board consideration (each Regional Water Board amendment is
+also subject to State Water Board approval), review by the Office of Administrative Law,
+and often review by the U.S. Environmental Protection Agency.
+
+Value of the Program
+Basin plans are foundational to every water quality program within the Water Board. For
+example, water quality objectives are used when conducting reasonable potential
+analyses and setting effluent limitations in NPDES permits. Waste discharge
+requirements for nonpoint sources are developed to ensure objectives are attained.
+Water data is compared to water quality objectives to determine if there is risk to public
+health, aquatic life, or other beneficial uses, and to determine if a waterbody is impaired.
+Programs of implementation provide standardized approaches for permitting discharges
+of toxic substances, trash, desalination brine, and other pollutants. Basin plans also
+include prohibitions on certain discharges, total maximum daily loads, and monitoring
+requirements.
+
+
+In recognition of the importance of basin plans, each amendment process includes many
+opportunities for public input. Regulations require notice, a public comment period, a
+public hearing, and board consideration with opportunity for public comment. Basin
+planning staff often work directly with stakeholders across many sectors and host
+discussion forums and workshops. Many complex amendments include formalized
+stakeholder advisory groups and science advisory panels.
+All the regions’ basin plans and the statewide water quality control plans are available
+online at: https://www.waterboards.ca.gov/plans_policies/. This webpage also includes
+links to information on active basin plan amendment projects, including staff contacts.
+
+
+Total Maximum Daily Load (TMDL)
+Program Description
+When the State or a Regional Water Board determines that a water body is not meeting
+water quality objectives, the water is listed as impaired per section 303(d) of the Federal
+Clean Water Act. The Water Boards are required to develop a Total Maximum Daily Load
+(TMDL) to address the impairment and restore the water body to attain water quality
+objectives. A TMDL is a planning and management tool that identifies, quantifies, and
+controls the sources of a pollutant to restore the health of a polluted or impaired surface
+waterbody.
+The term TMDL is used in two ways. First, the TMDL number is the maximum pollutant
+load that a waterbody can receive and still achieve acceptable water quality. It is the sum
+of the waste load allocations from point sources, load allocations from nonpoint sources,
+natural background loads, and a margin of safety. Second, the TMDL document contains
+the supporting information, including a quantitative assessment of the water quality
+problem, contributing sources, and the pollutant load reductions or control actions needed
+to restore and protect the beneficial uses.
+Generally, TMDLs are incorporated into water quality control plans as a program of
+implementation. As with other basin plan amendments, these are rule making actions that
+include independent scientific peer review, environmental analysis, economic analysis, a
+written public comment period, board consideration, review by the Office of Administrative
+Law, and review by the U.S. Environmental Protection Agency.
+
+
+
+                                               2
+Value of the Program
+TMDLs are an important tool used to restore impaired waterbodies that do not currently
+attain water quality standards, especially where the cause and solution are not well
+understood.
+As of July 2024, the Water Boards have restored more than 1,741 waterbody pollutant
+impairments through a TMDL1. As of July 2024, there are 4,023 waterbody pollutant
+impairments still needing a TMDL2. Many of the high priority impairments across the state
+now have TMDLs in place.
+As more TMDLs are adopted, many Water Board staff have transitioned from developing
+TMDLs to implementing them. TMDL program staff work directly with permittees, other
+responsible parties, and Water Board permitting staff to execute TMDL implementation
+requirements. This includes watershed stewardship duties, reviewing compliance reports,
+and assessing watershed­wide monitoring data. As the program continues to mature,
+Water Board staff are also amending older TMDLs based on better data and compliance
+efforts.
+Adopted TMDLs and statewide policy and guidance are available online at:
+https://www.waterboards.ca.gov/water_issues/programs/tmdl/.
+TMDL report cards are available on the Water Boards’ performance report website at:
+https://waterboards.ca.gov/about_us/performance_report_2223/plan_assess/111_tmdl_pr
+ojects.html.
+Under the umbrella of the TMDL program, waste discharge permit fees also support
+Water Board efforts to assess surface water monitoring data and develop the Clean
+Water Act Section 303(d) List of Impaired Waters in accordance with federal
+requirements and statewide policy.
+Information on impaired waters is available at:
+https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/#impai
+red.
+
+
+Enforcement Program
+Program Description
+The Water Boards enforce the pollution control and cleanup requirements that are
+established for discharges and contaminated sites. Where violations of regulatory
+requirements are detected, the Water Boards take enforcement actions of varying types
+and levels of stringency.
+
+The Water Boards address violations by using progressive levels of enforcement,
+considering actual or potential impact to the State’s waters, as needed to achieve
+compliance. Water Board enforcement actions can be informal or formal and are outlined in
+the State Water Board' Water Quality Enforcement Policy. This policy describes the
+
+1 This count is taken from Appendix B1 of the Integrated Report. Number includes waterbody pollutant
+
+combinations covered by a TMDL that have been removed from the 303(d) list of impaired waterbodies.
+2 This count is taken from Appendix B1 of the Integrated Report.
+
+                                                     3
+framework for identifying and investigating instances of noncompliance, for taking
+enforcement actions that are appropriate in relation to the nature and severity of the
+violation, and for prioritizing enforcement resources to achieve maximum environmental
+benefit.
+
+Informal enforcement actions are intended to bring an actual, threatened, or potential
+violation to the discharger’s attention to provide an opportunity to return to compliance as
+soon as possible. Informal actions include phone calls, e­mails, staff enforcement letters,
+and notices of violation. Formal enforcement actions are administrative or judicial actions
+that seek to impose sanctions where an adjudicative hearing is available to contest the
+allegations. The actions can include Investigatory Orders, Cleanup and Abatement Orders,
+Cease and Desist Orders, and orders imposing Administrative Civil Liability (ACL), which
+involves monetary penalties. For formal actions, a hearing before the Regional Water Board
+may be necessary.
+
+Value of Program
+A strong and fair enforcement program is essential to the success of any regulatory
+program. Timely and consistent enforcement by the Regional Water Boards is critical to
+the success of the water quality program and to ensure that the people of the State have
+clean water.
+Enforcement is necessary to create the deterrence needed to encourage the regulated
+community to anticipate, identify, and correct violations. Additionally, appropriate penalties
+and other consequences for violations offer some assurance of equity between those who
+choose to comply with requirements and those who violate them. Enforcement also
+provides the public confidence that government is ready, willing, and able to back up
+regulatory requirements with action.
+Violation and enforcement information is available on the Water Boards’ website at
+https://www.waterboards.ca.gov/resources/data_databases/compliance_enforcement.ht
+ml and a summary of enforcement data is found in the Annual Performance Report at
+https://www.waterboards.ca.gov/about_us/performance_report_2223/index.html.
+The Water Quality Enforcement Policy is revised approximately every five years and
+undergoes a public process to receive input from stakeholders. Enforcement priorities are
+generally discussed at the Regional Boards on an annual basis and at the State Board
+every two years. Additionally, many enforcement efforts aimed at increasing enrollment or
+compliance in a specific program involve stakeholder outreach and education prior to
+taking enforcement.
+Formal enforcement actions include a public process, which provides opportunities for
+stakeholders to comment.
+
+
+Ocean Beach Monitoring
+Program Description
+As part of the Safe to Swim Network, the Water Boards distribute funds to 17 local
+
+
+                                                4
+agencies3 to conduct water quality monitoring of ocean beaches along the coast of
+California. The funds provide public notification of swimming safety at ocean beaches
+through ambient bacteria sampling, reporting, and, if needed, posting warning signs or
+closing beaches.
+
+Local agencies are required to monitor for, and report on, the bacteria water quality of
+ocean waters along public beaches that are visited by more than 50,000 people each year
+and located adjacent to one or more storm drains that flow in the summer. Beaches are
+sampled at least weekly between April 1 and October 31.
+
+The bacteria sampling, data reporting, and sign posting requirements were established by
+California Assembly Bill 411 (statutes of 1997) and codified in Title 17 of the California Code
+of Regulations. In 2011, Senate Bill 482 initiated the authorization of up to $1,800,000
+annually from the waste discharge permit fund to implement the program.
+
+Value of the Program
+California has some of the most popular beaches in the country. More than 15 million
+people visit each year to swim, wade, surf, and dive in the water. Beach visitors spend over
+$10 billion each year in California. Beach water quality monitoring and pollution prevention
+measures are critical for protecting beach users from waterborne diseases.
+
+With the help of the funds distributed through the Water Boards, the local agencies sample
+656 monitoring stations at 291 beaches along 515 miles of beach each year. Approximately
+28,000 samples are collected annually.
+
+The data are used to provide swimming safety information directly to beach users through
+signs, the Water Boards’ safe to swim interactive map, and applications developed by
+outside entities such as the Beach Report Cards and the NowCast predictive model. The
+data are also used to determine if the ocean along each beach is impaired in accordance
+with the Clean Water Act section 303(d) assessment process.
+
+The U.S. Environmental Protection Agency grants the Water Boards approximately
+$500,000 annually to supplement beach monitoring and maintain the statewide database.
+These funds plus the $1,800,000 provided by the waste discharge permit fund cover only a
+portion of the monitoring costs. The seventeen local agencies spend more than $10 million
+a year administering their beach monitoring programs, which are only focused on monitoring
+and do not include remediation of the causes of the pollution.
+
+Monitoring data are available for direct download from the California Environmental Data
+Exchange Network at http://ceden.org/. The Water Boards’ interactive maps are available
+on the Safe to Swim Portal at https://mywaterquality.ca.gov/safe_to_swim/. Summary
+graphs, links to Heal The Bay’s weekly report cards, staff contacts, and other information
+
+3
+    The seventeen local agencies are the counties of Humboldt, Los Angeles, Marin, Mendocino, Monterey,
+     Orange, San Diego, San Francisco, San Luis Obsipo, San Mateo, Santa Barbara, Santa Cruz, Sonoma,
+     and Ventura; the East Bay Regional Park District, which includes the counties of Alameda and Contra
+     Costa; and the City of Long Beach.
+
+                                                      5
+are available at
+https://www.waterboards.ca.gov/water_issues/programs/beaches/beach_water_quality/.
+
+
+
+GAMA Program
+Program Description
+The Groundwater Ambient Monitoring and Assessment (GAMA) Program conducts
+comprehensive monitoring of California’s groundwater quality, compiles and integrates
+groundwater quality data from several different sources and regulatory programs, and
+makes that data readily accessible to the public. In addition, GAMA conducts groundwater
+studies related to groundwater vulnerability, groundwater quality in domestic wells, and
+groundwater impacts associated with non­point sources of contamination.
+
+Comprehensive Groundwater Monitoring ­ The primary objective of the GAMA Program is to
+assess statewide groundwater quality on a comprehensive basis and gain an understanding
+about contamination risk to groundwater resources. GAMA meets this objective through
+collaboration with the United States Geological Survey, who provides the technical lead for
+the design and implementation of statewide monitoring and assessment of trends in
+groundwater quality. In addition, GAMA contracts with national laboratories and Universities
+to conduct special studies related to groundwater vulnerability and threats from non­point
+sources.
+
+Data Availability to the Public ­ GAMA contracts with a specialized vendor to run a user
+interface that provides easy public access to the groundwater quality data compiled in the
+GAMA program (the GAMA Groundwater Information System). GAMA staff work directly
+with the public and stakeholders to upload data, conduct searches of water quality data, and
+create on­line tools to facilitate access to the water quality data and scientific findings
+throughout the state.
+
+Value of the Program
+The GAMA program provides Californians with a one­stop location to access a
+comprehensive dataset and understanding of California’s groundwater quality. California
+relies on groundwater for approximately 40% to 60% of its water supply. For many
+populations, groundwater represents the sole source of water supply. The quality of this
+water is threatened by industrial and agricultural pollutants and naturally­occurring
+constituents. GAMA program data and the results from scientific studies give the public tools
+to assess and understand the threats to water quality statewide, and in their area of interest.
+
+General Public ­ All members of the public have access to the GAMA Groundwater
+Information System. The GAMA Groundwater Information system is an interactive database
+tool that integrates groundwater quality data from several different regulatory and other
+programs into one place where users can easily access over 83 million analytical records
+collected from over 286,000 groundwater wells. In addition, GAMA staff develop online web
+tools to provide the public with easily accessible tools to answer their specific questions
+
+                                               6
+regarding groundwater quality.
+
+Recent use statistics for the GAMA Groundwater Information System reflect this benefit to
+the public: during 2018, 97% of GAMA users accessed GAMA through the public (non
+regulatory) interface. Unique site visits to the GAMA Groundwater Information System
+during 2018 averaged approximately 85 users per workday, including approximately 64 data
+exports per workday.
+
+Public Served by Municipal Water Systems ­ From 2003 to 2012, the GAMA program
+completed comprehensive monitoring and developed a scientific understanding of
+groundwater quality for the groundwater that supplies 99% of California’s population that
+relies on groundwater as part of their municipal supply. As a result, the vast majority of
+Californians can access very detailed data and a scientific assessment of the quality of the
+groundwater that they rely upon.
+
+Public Served by Individual Domestic Wells ­ Since 2013, the GAMA program also has
+completed comprehensive monitoring and developed a scientific understanding of
+groundwater quality for the shallow groundwater that supplies water for approximately 25%
+of the population that relies on shallow groundwater for their domestic supply. GAMA’s
+shallow groundwater monitoring and assessment program is in progress.
+
+Groundwater Managers, Including Groundwater Sustainability Agencies ­ The GAMA
+groundwater studies and database support Groundwater Sustainability Agencies comply
+with the requirements of the Sustainable Groundwater Management Act. The GAMA
+program is embedded within the Department of Water Resources SGMA toolkit to allow
+water managers to quickly and easily access groundwater quality data for their GSA to
+establish a baseline of water quality, assess trends, and develop water quality criteria for
+their Groundwater Sustainability Plan. GAMAs groundwater age data allows groundwater
+managers to assess areas of potential groundwater vulnerability, and areas that may be
+favorable for enhanced recharge.
+
+Applications for Implementing the Human Right to Water ­ The shallow groundwater quality
+studies conducted by GAMA, combined with data from other sources, provide people
+working on the Human Right to Water initiative with a unique set of data to assess the water
+quality for people that rely on domestic wells for their supply.
+
+Academic Community ­ The scientific studies published by the USGS, Lawrence Livermore
+National Laboratories, UC Davis, and others provide the academic community with high
+quality data and well substantiated findings to pursue high level scientific inquiries regarding
+California’s groundwater quality.
+
+Regulated Community ­ Water quality data collected through regulatory programs (e.g., the
+Irrigated Lands Program) is integrated into the entire State’s groundwater quality data
+through the GAMA Groundwater Information System. This allows the regulated community
+to leverage existing data to help minimize potentially duplicative monitoring. Data collected
+and compiled by the GAMA program also helps the regulator community by understanding
+the state of knowledge of groundwater quality surrounding the sites they are regulating.
+                                               7
+Surface Water Ambient Monitoring Program
+(SWAMP)
+Contracts
+SWAMP contracts provide services to both the statewide and regional monitoring
+projects. Coordination of these activities is described in the program description and
+program value sections.
+ Service Provider                Task
+ CA Department of Fish and       Biological assessments; research; statewide and regional
+ Wildlife, CA Department of      project management; coordination activities; field/sampling
+ Water Resources                 services; and analytical testing services.
+ University of CA, CA State      Analytical services: tissue and toxicity testing, taxonomy
+ University                      services for biological assessments; research; statewide
+                                 project management and coordination activities;
+                                 field/sampling services.
+ Commercial Labs                 Analytical testing services: chemical, physical and
+                                 biological; method development.
+ Joint Powers Authority(s)       Special investigation projects; research; coordination
+                                 activities, workgroup support; statewide project
+                                 management; and
+                                 coordination activities.
+
+
+Program Description
+The goal of the Surface Water Ambient Monitoring Program (SWAMP) is to conduct
+monitoring projects, coordinate with other monitoring activities, and support all data
+collection activities to provide resource managers, decision makers, and the public with
+timely, high­quality information about California’s surface waters. The data produced
+from these activities allows California to evaluate the condition of those surface waters,
+protect beneficial uses, as well as protect human and wildlife health in support of the
+Water Board’s mission.
+
+SWAMP implements both statewide and regional monitoring and assessment projects,
+as well as special studies, to investigate key water quality concerns and inform
+management decisions. The statewide assessments provide a “big picture” of the
+overall status and trends of water quality throughout California, while the regional
+assessments are numerous and provide more detailed information needed by water
+regulators and managers to detect and fix problems within a specific waterbody or
+watershed in that region’s jurisdiction. The statewide SWAMP programs include the
+following:
+
+
+
+
+                                             8
+     ·   Bioassessment Monitoring Program
+     ·   Stream Pollution Trends Program (SPoT)
+     ·   Bioaccumulation Monitoring Program
+     ·   Freshwater Harmful Algal Bloom Program (FHAB)
+     ·   Citizen Monitoring Program (Clean Water Team)
+
+The Bioassessment Monitoring and SPoT Program efforts focus on supporting the
+protection of the environmental and habitat­related beneficial uses by assessing aquatic
+ecosystem health in streams and rivers. These programs provide data for development
+of the CWA Section 303(d) List/305(b) Report (Integrated Report), that assesses
+California water and stream health. The data produced from these programs are also
+used in the development of new water­quality regulations, such as the Biostimulatory
+Substances Objective and Program to Implement Biological Integrity and the Statewide
+Toxicity Provisions.
+
+The Bioaccumulation Monitoring Program and FHAB Program statewide efforts focus
+on the protection of human health and beneficial uses pertaining to fishing, drinking, and
+contact recreation, by assessing fish consumption safety in fishable waters and
+addressing cyanobacteria blooms and cyanotoxins in our lakes and streams. The data
+collected by the bioaccumulation program are utilized by the State Water Board to
+assess the impairment of fishing and shellfish harvesting in California’s water bodies
+through the Integrated Report process. In addition, fish tissue studies support the
+development of OEHHA Fish Consumption Advisories, and the Statewide Mercury
+Program. The FHAB Program supports multi­agency incident management response for
+harmful algal blooms (HABS) and the development of a new monitoring and
+assessment strategy for this emerging water­quality and public­health concern.
+
+The Citizen Monitoring Program is a SWAMP initiative to support the efforts of citizen
+monitoring groups in California. The program addresses the Water Boards’ mission to
+provide information, training, and coordination to our citizen monitoring partners. Those
+partners assist the Water Boards in filling information gaps in watersheds within their
+own communities and share in the observation and protection of California’s
+watersheds. Citizen monitoring data have also been used to support activities such as
+water­quality assessments for the Integrated Report; compliance monitoring of
+discharge permits; monitoring the safety of swimming holes (Safe­to­ Swim studies);
+and others.
+
+For more information on SWAMP, visit our website at
+www.waterboards.ca.gov/water_issues/programs/swamp/
+
+Value of Program
+The data collected and supported through SWAMP are essential to determining
+watershed health, developing water quality standards and policy, guiding the Regional
+Water Boards and their partners in taking actions that protect the waters, evaluating the
+effectiveness of the Water Boards’ pollution control efforts, as well as the protecting
+human health. For more examples of SWAMP’s contributions to California’s water
+                                            9
+quality efforts visit our Achievements Report and Water Quality Status Report.
+
+
+All SWAMP collected data is publicly available on the California Data Exchange
+Network at www.CEDEN.org. SWAMP also provides all planning and program
+documentation on its website at
+www.waterboards.ca.gov/water_issues/programs/swamp/.
+
+SWAMP monitoring and support programs provide services at both the statewide and
+local level and include key partnerships, multi­level stakeholders input, and support
+and opportunities for citizen science. SWAMP statewide programs all require
+multiagency and stakeholder collaboration and feedback through no less than annual
+advisory group meetings, routine technical workshops, and project kickoff meetings.
+SWAMP also hosts monthly brown bag seminars and an annual two­day water data
+science symposium that are open to the public.
+
+
+
+
+                                          10
+             FY 2022­23 Sources of Funding for WDPF Redirected Programs
+
+
+Paid by Fee Paying Programs
+                                                                     Local
+                                       Staffing
+                       Allocated                                   Assistance
+    Redirected Program                (Direct &      Contract                      Subtotal
+                          PYs                                       (Beach
+                                      Indirect)
+                                                                   Monitoring)
+    TMDL and Basin
+                             77.1    $19,121,165     $2,770,443         -         $21,891,608
+    Planning
+    Enforcement1             20.5     $5,579,287         -              -          $5,579,287
+    Monitoring - GAMA         6       $1,743,011     $4,788,333         -          $6,531,344
+    Monitoring -
+                             20.5     $4,972,623     $6,545,918         -         $11,518,541
+    SWAMP
+    Beach Monitoring          -           -           -             $1,800,000     $1,800,000
+                 Totals:    124.1    $31,416,086 $14,104,694        $1,800,000    $47,320,780
+
+
+Other Funding Sources
+                                                      Staffing
+                                    Allocated
+        Redirected Program                           (Direct &      Contract       Subtotal
+                                       PYs
+                                                     Indirect)
+    TMDL and Basin Planning            24.5          $6,538,469         -         $6,538,469
+    Enforcement1                         -               -              -
+    Monitoring - GAMA                    -               -              -
+    Monitoring - SWAMP                 15.3          $3,261,751                   $3,261,751
+    Beach Monitoring                    0.8            $131,455         -          $131,455
+                       Totals:         40.6          $9,931,675                   $9,931,675
+
+
+
+                                                       Other
+                                    Fee Paying        Funding
+                                     Program         Sources      Grand
+                                     Subtotal        Subtotal      Total
+    TMDL and Basin Planning          $21,891,608     $6,538,469 $28,430,077
+    Enforcement1                      $5,579,287                 $5,579,287
+    Monitoring - GAMA                 $6,531,344                 $6,531,344
+    Monitoring - SWAMP               $11,518,541     $3,261,751 $14,780,292
+    Beach Monitoring                  $1,800,000       $131,455 $1,931,455
+                           Total:    $47,320,780     $9,931,675 $57,252,455
+1
+ Reflects only the Regional Board program enforcement direct charges to the WDPF. The
+SWRCB Office of Enforcement charges time to many different funds including USTCF, CAA,
+WRF and WDPF.
+

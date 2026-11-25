@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en" data-root="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sources · CA Water Quality Monitoring Atlas</title>
+<link rel="stylesheet" href="../assets/atlas.css">
+<style>
+  #list li { margin-bottom: 10px; font-size: 15px; max-width: 86ch; scroll-margin-top: 20px; }
+  #list li:target { background: var(--accent-wash); border-radius: 6px; padding: 6px 8px; }
+  #list ul { list-style: none; padding: 0; }
+  .chk { font-size: 12px; color: var(--muted); white-space: nowrap; }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="plate-no">Reference</div>
+  <h1>Sources</h1>
+  <p class="lede">Every source cited in the atlas. Each citation was confirmed against the publisher, PubMed, Crossref or the issuing agency before it was used.</p>
+  <p><span class="badge"><span class="dot" style="background:var(--good)"></span>Finding read in the source</span> means the specific finding quoted in the atlas was read in the paper's abstract or in the document itself. <span class="badge"><span class="dot" style="background:var(--warning)"></span>Citation confirmed</span> means the publication is real and correctly cited, but the atlas refers to it only in general terms because the text was not read directly.</p>
+  <div id="list"></div>
+</main>
+<script src="../assets/refs.js"></script>
+<script src="../assets/atlas.js"></script>
+<script>
+(() => {
+  const groups = {};
+  Object.entries(REFS).forEach(([id, r]) => (groups[r.g] ||= []).push([id, r]));
+  const order = ["Statutes and legislative history", "Monitoring Council", "SWAMP history and budget", "Fees and who pays", "Who pays",
+    "Value of monitoring", "Information and compliance", "Risks of not monitoring"];
+  const title = { "Who pays": "Who pays: principles and other jurisdictions" };
+  document.getElementById("list").innerHTML = order.filter(g => groups[g]).map(g =>
+    `<h2>${title[g] || g}</h2><ul>` + groups[g].sort((a, b) => a[1].s.localeCompare(b[1].s)).map(([id, r]) =>
+      `<li id="${id}">${r.f} ${r.u ? `<a href="${r.u}">${r.u.includes("doi.org") ? "doi" : "link"}</a>` : ""}
+       <span class="chk"><span class="dot" style="background:var(--${r.chk === "v" ? "good" : "warning"});width:8px;height:8px"></span> ${r.chk === "v" ? "Finding read in the source" : "Citation confirmed"}</span></li>`).join("") + "</ul>").join("");
+  // The list is built after load, so re-apply the #anchor.
+  if (location.hash) document.getElementById(location.hash.slice(1))?.scrollIntoView();
+})();
+</script>
+</body>
+</html>

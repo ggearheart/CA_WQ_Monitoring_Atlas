@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en" data-root="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Budget · CA Water Quality Monitoring Atlas</title>
+<link rel="stylesheet" href="../assets/atlas.css">
+<style>
+  .req td:first-child { white-space: nowrap; font-weight: 600; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .key { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13px; color: var(--ink-2); margin-bottom: 6px; }
+  .key i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="plate-no">Plate IV · Draft</div>
+  <h1>Budget: flat for twenty years, then cut by 62 percent</h1>
+  <p class="lede">SWAMP buys most of its monitoring through contracts with laboratories, universities and field crews. That contract budget was $5.8 million in 2004 and $5.8 million in 2024. Prices rose 66 percent in between. Then the budget fell to $2.2 million.</p>
+
+  <div class="grid">
+    <div class="card stat"><div class="v">$5.8M</div><div class="l">Statewide contract budget, 2004 through 2024-25</div></div>
+    <div class="card stat"><div class="v">$2.2M</div><div class="l">Contract budget from 2025-26, a 62 percent cut</div></div>
+    <div class="card stat"><div class="v">~$10M</div><div class="l">What $5.8 million in 2004 would be in mid-2026 dollars</div></div>
+    <div class="card stat"><div class="v">About 1/5</div><div class="l">Today's buying power compared with the 2004 budget</div></div>
+  </div>
+
+  <h2>The same dollars buy less every year</h2>
+  <p>The chart shows the contract budget converted to 2004 dollars. A flat budget is a slow cut. By 2024 the program could buy about 60 percent of what it bought in 2004. After the reduction it can buy about 22 percent.</p>
+  <div class="card">
+    <div class="key"><span><i style="background:var(--s1)"></i>$5.8 million budget, in 2004 dollars</span><span><i style="background:var(--critical)"></i>$2.2 million budget, in 2004 dollars</span></div>
+    <div id="power"></div>
+  </div>
+  <p class="src">Budget figures: <a data-ref="swampint"></a>. Inflation: <a data-ref="bls"></a>. General consumer inflation understates the problem. Program records show laboratory prices rising 100 to 200 percent since 2019. One routine nitrate test went from $25 in 2021 to $72 in 2025.</p>
+
+  <h2>Less money, fewer samples</h2>
+  <p>The Water Boards' public performance report counts every SWAMP site visit. Visits fell by more than half between 2012-13 and 2024-25, before most of the 2024 reduction had taken effect.</p>
+  <div class="card"><div id="visits"></div></div>
+  <p class="src">SWAMP site visits per fiscal year, all regions. Source: <a data-ref="perf"></a>.</p>
+
+  <h2>What happened in 2024</h2>
+  <p>In August 2024 two statewide budget letters told every department to eliminate vacant positions and to cut operating budgets by 7.95 percent. At the Water Boards much of that reduction landed on contract funds, which is where monitoring lives. SWAMP lost one staff position and 62 percent of its contract budget.</p>
+  <div class="two">
+    <div class="card"><h3>Eliminated statewide</h3><ul>
+      <li><b>Bioaccumulation Monitoring Program.</b> The fish-tissue testing behind California's "safe to eat" advisories.</li>
+      <li><b>All Regional Water Board monitoring allocations</b> (November 2024), followed by regional discretionary contract funds (June 2025).</li>
+    </ul></div>
+    <div class="card"><h3>Still funded, at reduced reach</h3><ul>
+      <li>Bioassessment</li>
+      <li>Stream Pollution Trends</li>
+      <li>Freshwater harmful algal bloom response</li>
+      <li>Data system and quality assurance</li>
+    </ul></div>
+  </div>
+  <p class="src">Sources: <a data-ref="swampint"></a>; <a data-ref="r3staff2026"></a>.</p>
+
+  <h2>What stopped, region by region</h2>
+  <div class="tbl-scroll card">
+  <table class="req">
+    <thead><tr><th>Regional Water Board</th><th>What was lost</th></tr></thead>
+    <tbody>
+      <tr><td>1 · North Coast</td><td>$320,000 in SWAMP funds and $325,000 in discretionary funds over two years. All Elk River projects but one cancelled. No reserve for spill and wildfire sampling. Mercury-in-fish sampling at Lakes Mendocino and Sonoma dropped. Bacteria studies on the Russian and Shasta Rivers and Stemple Creek shelved.</td></tr>
+      <tr><td>2 · San Francisco Bay</td><td>Field team went from five people to one. More than 60 percent of lab funds gone ($159,000 a year). Ended 14 years in the Watershed Stewards intern program. Sport-fish monitoring for Bay health advisories stopped.</td></tr>
+      <tr><td>3 · Central Coast</td><td>About $530,000, roughly half the regional program. Fewer sites, fewer visits, fewer pollutants tested. Long-term trend analysis interrupted.</td></tr>
+      <tr><td>4 · Los Angeles</td><td>No funds for studies on subsistence fishing and tribal uses, regional stream bioassessment, or any statewide SWAMP survey.</td></tr>
+      <tr><td>5 · Central Valley</td><td>Ended a 20-year monitoring partnership with the Department of Water Resources that had been tracking wildfire effects.</td></tr>
+      <tr><td>6 · Lahontan</td><td>2026 fish-tissue monitoring cancelled. Stream bioassessment contracts removed. A long-running quarterly trend series for low-level contaminants ended.</td></tr>
+      <tr><td>7 · Colorado River</td><td>No routine SWAMP monitoring since spring 2025. Algal bloom checks only when a bloom is reported or before holidays.</td></tr>
+      <tr><td>9 · San Diego</td><td>No retesting of fish and shellfish for PFAS. No monitoring to support tribal and subsistence fishing uses. No capacity for unplanned sampling after spills or fish kills.</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="src">Sources: Regional Water Board SWAMP coordinators, September to October 2026 (<a data-ref="swampint"></a>); <a data-ref="r3staff2026"></a>. Region 8 (Santa Ana) had not reported when this draft was written.</p>
+
+  <h2>The longer record</h2>
+  <p>Public documents report SWAMP's funding in different ways: contracts only, or contracts plus staff, or all fund sources together. They do not line up into one clean series, but the pattern is consistent.</p>
+  <div class="tbl-scroll card">
+  <table>
+    <thead><tr><th>Fiscal year</th><th class="num">Staff</th><th class="num">Dollars</th><th>What is counted</th><th>Paid from</th><th>Source</th></tr></thead>
+    <tbody>
+      <tr><td>1980s</td><td class="num"></td><td class="num">~$12M</td><td>Ambient monitoring before SWAMP</td><td>Bond funds</td><td><a data-ref="lao2000"></a></td></tr>
+      <tr><td>1999-00</td><td class="num"></td><td class="num">$2.8M</td><td>Ambient monitoring before SWAMP</td><td></td><td><a data-ref="lao2000"></a></td></tr>
+      <tr><td>2000-01</td><td class="num">19</td><td class="num">$4.83M</td><td>Contracts</td><td>General Fund</td><td><a data-ref="rpt2003"></a></td></tr>
+      <tr><td>2002-03</td><td class="num">19</td><td class="num">$4.19M</td><td>Contracts</td><td>General Fund</td><td><a data-ref="rpt2003"></a></td></tr>
+      <tr><td>2003-04</td><td class="num"></td><td class="num">$6.8M</td><td>New fee surcharge revenue for monitoring</td><td>Permit fees</td><td><a data-ref="fee2003"></a></td></tr>
+      <tr><td>2010-11</td><td class="num">17</td><td class="num">$8.07M</td><td>Contracts</td><td>Permit fees and federal grant</td><td><a data-ref="needs2010"></a></td></tr>
+      <tr><td>2014</td><td class="num">17</td><td class="num">$8M</td><td>Program total as described by reviewers</td><td>Permit fees and federal grant</td><td><a data-ref="review2014"></a></td></tr>
+      <tr><td>2022-23</td><td class="num">35.8</td><td class="num">$14.78M</td><td>All funds, staff included</td><td>$11.5M permit fees, $3.3M other</td><td><a data-ref="swrcb2024"></a></td></tr>
+      <tr><td>2024-25</td><td class="num"></td><td class="num">$5.8M</td><td>Statewide contract budget</td><td>Permit fees</td><td><a data-ref="swampint"></a></td></tr>
+      <tr><td>2025-26</td><td class="num"></td><td class="num">$2.2M</td><td>Statewide contract budget</td><td>Permit fees</td><td><a data-ref="swampint"></a></td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h2>For scale</h2>
+  <div class="card" id="scale"></div>
+  <p class="src">Sources: <a data-ref="feesrpt"></a>; <a data-ref="ebudget"></a>; <a data-ref="rpt2000"></a>; <a data-ref="swampint"></a>. The water quality fee fund itself grew from $76 million in 2009-10 to $197 million in 2025-26 (<a data-ref="wdpfgrowth"></a>).</p>
+
+  <div class="pending">
+    <b>Draft: figures to confirm before this plate is shared</b>
+    <ul>
+      <li><b>A single year-by-year series.</b> Contract dollars, staff positions and fund source (permit fees, federal §106) for each year from 2000-01 to today would replace the mixed table above.</li>
+      <li><b>The 2004 starting point.</b> Program records give $5.8 million. The public 2003 fee item budgeted $6.8 million in surcharge revenue, and the 2005 strategy cites $3.4 million. These probably count different things.</li>
+      <li><b>Allocations by program and region</b>, 2014-15 to 2025-26. A chart exists in program files; the underlying table would let this plate show exactly where each dollar went.</li>
+      <li><b>Buying power.</b> Internal summaries say both "about 20 percent" and "about 30 percent." The arithmetic here gives 21 to 22 percent.</li>
+      <li><b>Whether harmful algal bloom funding is inside or outside the $2.2 million.</b></li>
+      <li><b>Regions 5 and 8</b> have little or no detail yet.</li>
+    </ul>
+  </div>
+
+  <div class="takeaway"><b>Takeaway</b><p>The 2024 reduction was not a trim to a healthy program. It came after twenty years in which inflation had already removed 40 percent of the program's capacity, and it removed most of what was left.</p></div>
+</main>
+<script src="../assets/refs.js"></script>
+<script src="../assets/atlas.js"></script>
+<script>
+(() => {
+  // U.S. CPI-U annual averages (BLS series CUUR0000SA0).
+  const cpi = { 2004: 188.9, 2005: 195.3, 2006: 201.6, 2007: 207.342, 2008: 215.303, 2009: 214.537, 2010: 218.056, 2011: 224.939,
+    2012: 229.594, 2013: 232.957, 2014: 236.736, 2015: 237.017, 2016: 240.007, 2017: 245.120, 2018: 251.107, 2019: 255.657,
+    2020: 258.811, 2021: 270.970, 2022: 292.655, 2023: 304.702, 2024: 313.689, 2025: 321.943 };
+  const rows = Object.keys(cpi).map(y => {
+    const nominal = y >= 2025 ? 2.2 : 5.8, real = nominal * cpi[2004] / cpi[y];
+    return { k: "'" + String(y).slice(2), v: real, c: y >= 2025 ? "var(--critical)" : "var(--s1)",
+      tip: `<b>${y}</b><br>Budget: $${nominal.toFixed(1)} million<br>In 2004 dollars: $${real.toFixed(2)} million<br>${Math.round(real / 5.8 * 100)}% of 2004 buying power` };
+  });
+  vbars(document.getElementById("power"), rows, { fmt: v => "$" + v.toFixed(1) + "M", fs: 11, max: 6.4, label: "SWAMP contract budget in 2004 dollars, 2004 to 2025" });
+
+  const sv = [3257, 2846, 2877, 4148, 2508, 2624, 2763, 2449, 1570, 1435, 1625, 1115, 1191];
+  vbars(document.getElementById("visits"), sv.map((v, i) => ({ k: `${12 + i}-${13 + i}`, v })), { label: "SWAMP site visits per fiscal year, 2012-13 to 2024-25", h: 260 });
+
+  hbars(document.getElementById("scale"), [
+    { k: "Water Boards' water quality program", sub: "state operations, 2025-26", v: 836.9, lab: "$837 million", c: "var(--neutral)" },
+    { k: "Water quality permit fees collected", sub: "2024-25", v: 197.5, lab: "$197.5 million", c: "var(--neutral)" },
+    { k: "SWAMP as designed in 2000", sub: "low estimate, per year", v: 59, lab: "$59 million", c: "var(--neutral)" },
+    { k: "SWAMP contract budget", sub: "2004 through 2024-25", v: 5.8, lab: "$5.8 million" },
+    { k: "SWAMP contract budget", sub: "2025-26", v: 2.2, lab: "$2.2 million", c: "var(--critical)" },
+  ], { label: "SWAMP budget compared with fee revenue and the water quality program", lw: 330 });
+})();
+</script>
+</body>
+</html>

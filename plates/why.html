@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en" data-root="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Why Monitor · CA Water Quality Monitoring Atlas</title>
+<link rel="stylesheet" href="../assets/atlas.css">
+<style>
+  .river svg { width: 100%; height: auto; display: block; }
+  .loop { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); counter-reset: s; }
+  .loop .card { position: relative; padding-top: 34px; font-size: 14px; }
+  .loop .card::before { counter-increment: s; content: counter(s); position: absolute; top: 10px; left: 16px; font-weight: 700; color: var(--accent); }
+  .loop b { display: block; font-size: 15px; }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="plate-no">Plate I</div>
+  <h1>Why Monitor: the regulator's own view of the water</h1>
+  <p class="lede">Agencies that protect a shared resource need to know its condition. A public health department tracks disease. A central bank tracks prices. A water quality agency tracks rivers, lakes and coastal waters. This plate covers the basics before the atlas turns to California's statutes.</p>
+
+  <h2>Two kinds of monitoring</h2>
+  <p>Most water quality sampling in California is done by permit holders, at their own discharge points, to show they are meeting their permits. That is <b>compliance monitoring</b>. It answers one question: is this facility following its rules?</p>
+  <p><b>Ambient monitoring</b> measures the water body itself, away from any single pipe. It answers a different question: is the river healthy, whatever the cause? Only ambient monitoring can see the combined effect of every source at once, including farms, streets, wildfires, old mines and a changing climate, none of which report on themselves.</p>
+  <div class="river card">
+    <svg viewBox="0 0 960 250" role="img" aria-label="A river with two discharge pipes. Compliance monitoring happens at each pipe. Ambient monitoring happens in the river itself, upstream, between and downstream of the pipes.">
+      <path d="M0 150 C 160 110, 320 190, 480 150 S 800 110, 960 150 L 960 200 C 800 160, 640 240, 480 200 S 160 160, 0 200 Z" fill="var(--accent-wash)"/>
+      <!-- pipes -->
+      <g stroke="var(--ink-2)" stroke-width="6" stroke-linecap="round"><line x1="300" y1="70" x2="300" y2="150"/><line x1="640" y1="70" x2="640" y2="140"/></g>
+      <rect x="262" y="38" width="76" height="34" rx="4" fill="var(--surface)" stroke="var(--ink-2)"/><text x="300" y="60" text-anchor="middle" font-size="12" fill="var(--ink)">Permit A</text>
+      <rect x="602" y="38" width="76" height="34" rx="4" fill="var(--surface)" stroke="var(--ink-2)"/><text x="640" y="60" text-anchor="middle" font-size="12" fill="var(--ink)">Permit B</text>
+      <g fill="var(--s2)"><rect x="291" y="104" width="18" height="18" rx="3"/><rect x="631" y="100" width="18" height="18" rx="3"/></g>
+      <g fill="var(--s1)" stroke="var(--surface)" stroke-width="2"><circle cx="120" cy="165" r="10"/><circle cx="470" cy="175" r="10"/><circle cx="840" cy="158" r="10"/></g>
+      <!-- legend -->
+      <rect x="20" y="222" width="14" height="14" rx="3" fill="var(--s2)"/><text x="42" y="234" font-size="13" fill="var(--ink)">Compliance monitoring: the permit holder samples its own discharge</text>
+      <circle cx="527" cy="229" r="8" fill="var(--s1)"/><text x="544" y="234" font-size="13" fill="var(--ink)">Ambient monitoring: the agency samples the water body</text>
+      <text x="120" y="140" text-anchor="middle" font-size="12" fill="var(--ink-2)">upstream</text>
+      <text x="840" y="133" text-anchor="middle" font-size="12" fill="var(--ink-2)">downstream</text>
+    </svg>
+  </div>
+
+  <h2>Six reasons governments do this themselves</h2>
+  <div class="grid">
+    <div class="card"><h3>1. You cannot manage what you have not measured</h3><p>Standards, permits and cleanup plans all start from a statement about the water's current condition. Without measurements that statement is a guess.</p></div>
+    <div class="card"><h3>2. The law requires it</h3><p>The federal Clean Water Act will not fund a state water program that is not monitoring its waters. California has accepted that role (Water Code §13160).</p></div>
+    <div class="card"><h3>3. Nobody else has the incentive</h3><p>Clean water information is a public good. Everyone benefits, no one can be charged for using it, so no private party will produce it at the scale needed.</p></div>
+    <div class="card"><h3>4. Independence</h3><p>Permit holders measure their own pipes. An agency that relies only on self-reported data has no independent check on whether the rules are working.</p></div>
+    <div class="card"><h3>5. Early warning</h3><p>Toxic algae, new chemicals and post-fire runoff do not come with a permit. A standing network is how they get noticed before people are harmed.</p></div>
+    <div class="card"><h3>6. Accountability for spending</h3><p>The public spends billions on treatment plants and restoration. Ambient data is the only way to show whether that money improved the water.</p></div>
+  </div>
+
+  <h2>This is not unique to water</h2>
+  <p>Almost every regulatory or stewardship agency runs a surveillance program on the thing it protects, separate from the reports it collects from regulated parties.</p>
+  <div class="tbl-scroll card">
+  <table>
+    <thead><tr><th>Field</th><th>What regulated parties report</th><th>What government measures itself</th></tr></thead>
+    <tbody>
+      <tr><td><b>Public health</b></td><td>Hospitals and labs report individual cases</td><td>Disease surveillance, wastewater testing, population health surveys</td></tr>
+      <tr><td><b>Air quality</b></td><td>Factories report stack emissions</td><td>Neighborhood air monitors that show what people actually breathe</td></tr>
+      <tr><td><b>Banking</b></td><td>Banks file financial statements</td><td>Examiners and system-wide stress indicators</td></tr>
+      <tr><td><b>The economy</b></td><td>Employers file payroll taxes</td><td>Independent surveys of jobs and prices</td></tr>
+      <tr><td><b>Food safety</b></td><td>Producers keep their own test records</td><td>Market sampling and outbreak tracking</td></tr>
+      <tr><td><b>Natural hazards</b></td><td>(no one to report)</td><td>Stream gauges, earthquake sensors, weather stations</td></tr>
+      <tr><td><b>Water quality</b></td><td>Dischargers report on their own discharge</td><td>Ambient monitoring of rivers, lakes, estuaries and coast</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="src">Illustrative comparison prepared for this atlas.</p>
+
+  <h2>What federal law expects of California</h2>
+  <div class="tbl-scroll card">
+  <table>
+    <thead><tr><th>Clean Water Act section</th><th>What it requires</th><th>Why ambient data is needed</th></tr></thead>
+    <tbody>
+      <tr><td><b>§106(e)(1)</b></td><td>No federal water pollution control grant to a state that is not carrying out a program to monitor the quality of its waters and to compile and analyze the data</td><td>Monitoring is the price of admission for federal funding</td></tr>
+      <tr><td><b>§305(b)</b></td><td>A report every two years on the condition of all the state's waters</td><td>Cannot be written from discharge reports alone</td></tr>
+      <tr><td><b>§303(d)</b></td><td>A list of waters that do not meet standards, each of which then needs a cleanup plan (a TMDL)</td><td>Listing and delisting decisions rest on ambient samples</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="src">Sources: <a data-ref="epa2003"></a>; <a data-ref="ir"></a>. California combines the two reports into one Integrated Report. As of July 2024 the state counted 4,023 impairments still waiting for a cleanup plan and 1,741 restored (<a data-ref="swrcb2024"></a>).</p>
+
+  <h2>Where the data goes</h2>
+  <p>Ambient data feeds a repeating cycle. Each step depends on the one before it.</p>
+  <div class="loop">
+    <div class="card"><b>Monitor</b>Sample the water, fish and stream life.</div>
+    <div class="card"><b>Assess</b>Compare results to standards. Is it safe to swim, fish, drink?</div>
+    <div class="card"><b>List and plan</b>Name impaired waters and set cleanup targets.</div>
+    <div class="card"><b>Act</b>Write permits, fund restoration, post health advisories.</div>
+    <div class="card"><b>Check</b>Monitor again. Did the action work?</div>
+  </div>
+
+  <div class="takeaway"><b>Takeaway</b><p>Ambient monitoring is the one data stream the Water Boards own that does not come from the regulated community. It is what lets the agency say, on its own authority, whether California's waters are getting better or worse.</p></div>
+</main>
+<script src="../assets/refs.js"></script>
+<script src="../assets/atlas.js"></script>
+</body>
+</html>

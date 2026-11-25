@@ -1,0 +1,113 @@
+                                                                                                                                                                                       AB 982    Assembly Bill - Bill Analysis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            BILL ANALYSIS                                                                                                                                                                                                    
+  AB 982
+                                                          Page  1
+CONCURRENCE IN SENATE AMENDMENTS
+AB 982 (Ducheny)
+As Amended August 25, 1999
+Majority vote
+ASSEMBLY: 73-3 (May 24, 1999)   SENATE: 38-0 (August 30, 1999)  
+  Original Committee Reference:    E.S.&T.M  
+  SUMMARY  :   Requires the State Water Resources Control Board  
+(Board) to conduct a series of water quality studies based on  
+the recommendations of the advisory group(s) and report its  
+findings to the Legislature by specified dates as the basis for  
+implementing a total maximum daily load program pursuant to the  
+federal Water Pollution Control Act, commonly known as the Clean  
+Water Act (CWA).
+  The Senate amendments   revise the Assembly version of this bill  
+from a statement of legislative intent and instead:
+1)Require the Board to convene one or more advisory groups to  
+  assist in evaluating the structure and efficacy of the  
+  impaired water bodies program, specifying the membership and  
+  procedures of the advisory group(s).
+2)Require the Board to report to the Legislature, in accordance  
+  with specified dates, on the structure and effectiveness of  
+  its water quality program as it relates to CWA, taking into  
+  consideration the recommendations of the advisory group(s).
+3)Require the Board to report to the Legislature, in accordance  
+  with specified dates, on the regional water quality control  
+  boards' current surface water quality monitoring programs for  
+  designing a comprehensive surface water monitoring program  
+  based on specified elements.
+4)Specify that nothing in this bill affects the authority of the  
+  regional water quality control boards.
+  EXISTING LAW  requires:
+1)The Board to comply with applicable regulations adopted by the  
+  United States Environmental Protection Agency (U.S. EPA).  The  
+  Porter-Cologne Act authorizes the Board to fulfill the  
+  AB 982
+                                                          Page  2
+  requirements of CWA.  CWA requires that the state issue a  
+  biennial report on the results of statewide monitoring of  
+  impaired and unimpaired waters.  California has broad  
+  statutory authority to regulate all forms of waste discharges  
+  to waters, including nonpoint sources.
+2)The regional water control boards to establish regional water  
+  quality plans, called Basin Plans, that are intended to be  
+  consistent with policies established by the Board.   
+  Porter-Cologne authorizes regional boards to investigate water  
+  quality, monitor waters, and require dischargers to provide  
+  monitoring information.   
+  AS PASSED BY THE ASSEMBLY  ,  this bill stated that it was the  
+intent of the Legislature to implement a Total Maximum Daily  
+Load (TMDL) program consistent with, and no less stringent than  
+CWA. 
+  FISCAL EFFECT  :   According to the Senate Appropriations  
+Committee, this measure would require up to $100,000 for the  
+advisory group(s) and an additional, unspecified amount, to  
+conform with reporting requirements.
+  COMMENTS  :  This bill was substantially amended in the Senate.   
+The Assembly-approved provisions of this bill were revised in  
+the Senate to elaborate language that is consistent with prior  
+Assembly actions.
+TMDLs have been required by Section 303(d) of CWA since it was  
+first passed in 1972.  It is only in recent years, however, that  
+any TMDLs have been established.  Section 303(d) of CWA requires  
+states to identify all the water bodies that do not meet  
+applicable water quality standards, and for those "impaired"  
+water bodies, states must establish TMDLs.   TMDL calculates the  
+total amount of a given pollutant that can be released into a  
+water body before the water quality standard will be violated.   
+TMDL distributes waste total amount of permissible discharges  
+among all dischargers of that pollutant to a particular  
+waterway.  The portion of a receiving water's loading capacity  
+allocated to a point source is known as a waste load allocation  
+(WLA).  WLAs are enforced through conditions inserted into waste  
+discharge permits.  The portion allocated to a nonpoint source  
+or naturally occurring pollutants is known as a load allocation  
+(LA) and is to be enforced through the state's nonpoint source  
+  AB 982
+                                                          Page  3
+management program.  TMDL is the sum of all WLAs and LAs.   
+Permit-writers are supposed to assure that multiple sources of  
+pollutants (i.e., point, nonpoint, and background) will not  
+exceed the biological integrity of the water body.  
+This section of CWA was essentially ignored for years until  
+environmental lawsuits forced U.S. EPA to issue lists of  
+impaired water bodies and to establish TMDLs where states failed  
+to do so.  Despite the fact that numerous California's water  
+bodies are subject to consent decrees to develop TMDLs or are  
+the subject of notices of intent to file lawsuits, there are no  
+prescribed rules for establishing and implementing TMDLs. 
+  U.S. EPA is currently in the process of proposing regulations  
+governing the development of TMDLs.  A raft rule was expected in  
+June 1999 and a final rule is anticipated by early 2000.  If  
+California adopts rules that are inconsistent with the federal  
+regulations, such regulations may be contested and challenged as  
+inconsistent with CWA.  Any delays could pose a problem for the  
+state, especially where court orders have set deadlines for the  
+adoption of TMDLs.
+The state currently has more than 400 impaired water bodies that  
+must be addressed under CWA.  To move forward with establishing  
+a TMDL program, the state must begin gathering scientific data  
+on the nature and sources of impairments to state water bodies  
+as well as establishing ground rules for setting forth  
+priorities regarding impaired water bodies and pollutants,  
+allocating responsibility to reduce pollutant loans, and  
+evaluating various proposed control strategies.
+For a more specific review of issues surrounding the measure as  
+introduced, see the Environmental Safety and Toxic Materials'  
+committee analysis dated April 13, 1999.
+  Analysis Prepared by  :  Bruce Jennings  / E.S. & T.M. / (916)  
+319-3965 
+                                                      FN: 0002807

@@ -1,0 +1,1844 @@
+          Structure and Effectiveness
+    of the State’s Water Quality Programs:
+ Section 303(d) of the Federal Clean Water Act
+   and Total Maximum Daily Loads (TMDLs)
+
+
+
+
+ Report to the Legislature
+Pursuant to AB 982 of 1999
+
+
+
+
+                 MARCH 2003
+
+
+
+
+STATE WATER RESOURCES CONTROL BOARD
+  CALIFORNIA ENVIRONMENTAL PROTECTION AGENCY
+                                 TABLE OF CONTENTS / ABBREVIATIONS
+
+
+                                                                                                                            Page
+
+Executive Summary .........................................................................................................1
+
+I.    Introduction................................................................................................................3
+
+II.   Development of 2002 303(d) List, Listing/Delisting Policy, and
+      TMDL Guidelines .......................................................................................................5
+
+III. TMDL Development and Implementation ................................................................9
+
+IV. Surface Water Ambient Monitoring Program ........................................................28
+
+
+
+Tables
+
+      Table 1. Timeline for Development of the 303(d) Listing/Delisting Policy ..........7
+      Table 2. Timeline for Adoption of TMDL Development and
+               Implementation Guidelines.......................................................................8
+      Table 3. Completed TMDLs ...................................................................................10
+      Table 4. TMDLs Adopted by RWQCBs and Pending Approval of
+               SWRCB, OAL or U.S. EPA.......................................................................10
+      Table 5. TMDLs Pending Adoption by RWQCBs.................................................11
+      Table 6. TMDLs Established by U.S. EPA ............................................................11
+      Table 7. TMDL Development Resources Annual Augmentation and Totals .....25
+      Table 8. Implementation Resources Annual Augmentation and Totals............26
+      Table 9. FY 2002-03 Distribution of TMDL Development and
+               Implementation Resources.....................................................................26
+      Table 10. General Fund Resources for SWAMP...................................................29
+      Table 11. Distribution of FY 2002-03 SWAMP Funds...........................................29
+
+
+
+Appendices
+
+      Appendix A. AB 982 Public Advisory Members ................................................. A-1
+      Appendix B. TMDL Initiative Action Plan, Version 2.0....................................... B-1
+      Appendix C. Regional SWAMP Monitoring Locations....................................... C-1
+ABBREVIATIONS
+
+
+  SWRCB         STATE WATER RESOURCES CONTROL BOARD
+  CWA           CLEAN WATER ACT
+  TMDL          TOTAL MAXIMUM DAILY LOAD
+  PAG           PUBLIC ADVISORY GROUP
+  ACTION PLAN   TMDL INITIATIVE ACTION PLAN
+  SWAMP         SURFACE WATER AMBIENT MONITORING PROGRAM
+  RWQCB         REGIONAL WATER QUALITY CONTROL BOARD
+  OAL           OFFICE OF ADMINISTRATIVE LAW
+  U.S. EPA      U.S. ENVIRONMENTAL PROTECTION AGENCY
+  AB            ASSEMBLY BILL
+  FED           FUNCTIONAL EQUIVALENT DOCUMENT
+  FY            FISCAL YEAR
+  BASIN PLAN    REGIONAL WATER QUALITY CONTROL PLANS
+  USFS          U.S. FOREST SERVICE
+  DFG           CALIFORNIA DEPARTMENT OF FISH AND GAME
+  NPDES         NATIONAL POLLUTANT DISCHARGE ELIMINATION SYSTEM
+  TRPA          TAHOE REGIONAL PLANNING AGENCY
+  USGS          U.S. GEOLOGICAL SURVEY
+  U.C.          UNIVERSITY OF CALIFORNIA
+  LADWP         LOS ANGELES DEPARTMENT OF WATER AND POWER
+  TIE           TOXICITY IDENTIFICATION EVALUATIONS
+  QAPP          QUALITY ASSURANCE PROJECT PLAN
+  BMP           BEST MANAGEMENT PRACTICES
+  SCCWRP        SOUTHERN CALIFORNIA COASTAL WATER RESEARCH
+                    PROJECT
+  SAWPA         SANTA ANA WATERSHED PROJECT AUTHORITY
+  DPR           CALIFORNIA DEPARTMENT OF PESTICIDE REGULATION
+  PY            PERSONNEL YEARS
+  TSMP          TOXIC SUBSTANCE MONITORING PROGRAM
+  SMWP          STATE MUSSEL WATCH PROGRAM
+  TTP           TOXICITY TESTING PROGRAM
+  CFCP          COASTAL FISH CONTAMINATION PROGRAM
+  WQMCC         WATER QUALITY MONITORING COORDINATING
+                    COMMITTEE
+  SPARC         SCIENTIFIC PLANNING AND REVIEW COMMITTEE
+  RMAS          REGIONAL MONITORING AND ASSESSMENT STRATEGY
+  ADW           AGRICULTURALLY DOMINATED WATER BODY
+  EDW           EFFLUENT DOMINATED WATER BODY
+  POTW          PUBLICLY OWNED TREATMENT WORKS
+  PCH           PACIFIC COAST HIGHWAY
+                               EXECUTIVE SUMMARY
+
+This is the third and last report prepared by the State Water Resources Control Board
+(SWRCB) to the Legislature pursuant to Water Code section 13191. The law requires
+SWRCB to submit three annual reports to the Legislature on the structure and
+effectiveness of the state’s water quality management programs as they relate to
+section 303(d) of the federal Clean Water Act (CWA). Section 303(d) requires each
+state to develop a list of water bodies that are not attaining water quality standards
+[303(d) list] and to establish Total Maximum Daily Loads (TMDLs) outlining pollutant
+loads that can be allowed without adversely affecting the beneficial uses of those water
+bodies that are listed.
+
+The first report, submitted to the Legislature in January 2001, described the TMDL
+program and processes as they existed then, and addressed the concerns raised by the
+Public Advisory Group (PAG) established pursuant to the requirements of Water Code
+section 13191. Subsequently, SWRCB restructured its TMDL program and developed
+the TMDL Initiative Action Plan (Action Plan) in an effort to improve the structure and
+effectiveness of the program. The second report, submitted to the Legislature in
+February 2002, focused on the Action Plan which addresses the areas that needed
+improvement in the state’s 303(d) listing and TMDL processes. This third report
+presents the progress made in 2002 in our continuing effort to improve 303(d) listing
+and TMDL processes and to effectively implement the TMDL program. The report
+discusses the ongoing work of developing the 2002 303(d) list, the statewide
+303(d) listing/delisting policy and TMDL development and implementation guidelines,
+and the status of TMDL development at each Regional Water Quality Control Board
+(RWQCB). It also provides a status report of the state’s Surface Water Ambient
+Monitoring Program (SWAMP) and an updated version of the Action Plan.
+
+In 2002, a great deal of PAG’s efforts and time was focused on the development of the
+2002 303(d) list and the statewide listing/delisting policy. SWRCB staff met with PAG
+members at six separate meetings around the state. The discussions at those meetings
+and at PAG’s quarterly meetings have helped to shape the listing/delisting policy.
+SWRCB is committed to addressing all the consensus recommendations of PAG in this
+policy. SWRCB staff has also held meetings with several other stakeholder groups and
+staff of the nine RWQCBs to determine the scope of the policy and the areas of concern
+it should address. Staff will continue to consult with these groups and PAG throughout
+the process of developing the listing/delisting policy and the TMDL guidelines. Both the
+policy and the guidelines are scheduled to be adopted by January 1, 2004, as required
+by Water Code section 13191.3.
+
+SWRCB and RWQCBs have made progress towards completing TMDLs in 2002. To
+date, 21 TMDLs have been completed and are being implemented; nine of those were
+completed in 2002. In addition, thirteen TMDLs that were adopted by RWQCBs in 2001
+and 2002 are currently pending SWRCB, Office of Administrative Law (OAL), or
+U.S. Environmental Protection Agency (U.S. EPA) approval. Nine more TMDLs are
+scheduled to be adopted by RWQCBs in 2003 and 2004. Forty-six TMDLs (without
+implementation plans) were established by U.S. EPA in 2002 with assistance from
+RWQCB staff. The work for approximately 100 additional TMDLs is also underway at
+the nine RWQCBs. These TMDL accomplishments are discussed in Chapter III of this
+report beginning with Page 9.
+
+As demonstrated in our previous reports of this subject matter, SWRCB’s TMDL
+program is faced with many challenges. SWRCB and RWQCBs are striving to
+overcome those challenges with the available resources through program restructuring
+and implementation of the Action Plan. The statewide listing/delisting policy and TMDL
+guidelines, once adopted, will provide guidance to RWQCBs for developing future
+303(d) lists and TMDLs, and therefore improve program efficiency and consistency.
+
+
+
+
+                                           2
+                                I.     INTRODUCTION
+
+CWA section 303(d) requires the states to produce a list of waters that are not attaining
+water quality standards after technology-based limits are imposed on all point sources
+discharging to the subject waters. The states are required to develop TMDLs for those
+waters included in the 303(d) list. A TMDL must account for all pollutant sources that
+caused the water to be listed on the 303(d) list. Federal regulations require that the
+TMDL, at a minimum, account for contributions from point sources and nonpoint
+sources, such as polluted runoff. The U.S. EPA is required to review and approve the
+list of impaired waters and each TMDL developed by the states. If U.S. EPA
+disapproves a 303(d) list or a TMDL, then U.S. EPA is required to establish the list or
+TMDL for the state.
+
+Water Code section 13191, established by Assembly Bill (AB) 982 (Chapter 495,
+Statutes of 1999), requires SWRCB to convene an advisory group or groups to assist in
+the evaluation of the structure and effectiveness of the state’s water quality programs
+implementing CWA section 303(d). The law requires SWRCB to report to the
+Legislature regarding the structure and the effectiveness of these programs and to
+consider any recommendations of the advisory group or groups on or before
+November 30, 2000 and annually thereafter until November 30, 2002. AB 982 also
+codified Water Code section 13192, which requires SWRCB to assess its surface water
+quality monitoring programs and to propose a statewide comprehensive surface water
+quality monitoring program.
+
+AB 982 PAG was established in February 2000. Over the past three years, SWRCB
+has worked with PAG members to evaluate the state’s TMDL program and to develop
+and implement plans to improve the program’s structure and effectiveness. PAG is
+comprised of 12 representatives of various environmental groups and 12
+representatives from various regulated public organizations and private industries. A
+complete list of PAG members is presented in Appendix A.
+
+With the assistance of PAG, SWRCB has completed and submitted to the Legislature a
+report proposing SWAMP (November 2000) and two reports related to the structure and
+effectiveness of the TMDL program (January 2001 and February 2002). The first TMDL
+report described the TMDL program and processes as they existed in 2000 and
+addressed the concerns raised by PAG regarding the structure and the effectiveness of
+the program. Subsequently, SWRCB restructured its TMDL program and developed the
+Action Plan, in an effort to improve the structure and effectiveness of the program.
+TMDL staff level at all nine RWQCBs was increased as a result of the General Fund
+augmentation provided by the Legislature in FY 2000-01. The second TMDL report
+focused on the reorganization efforts and the Action Plan which addresses the areas
+that needed improvement in the state’s 303(d) listing and TMDL development
+processes.
+
+In 2001, PAG supported legislation that established Water Code section 13191.3
+(Senate Bill 469, Chapter 20, Statutes of 2002). This new law requires SWRCB to
+
+
+
+                                            3
+prepare guidelines for listing and delisting 303(d) waters and for developing and
+implementing TMDLs. These guidelines must be prepared on or before July 1, 2003
+and finalized not later than January 1, 2004.
+
+The work to develop the listing/delisting policy and the TMDL guidelines is in progress.
+At the same time, SWRCB and RWQCB staffs have been developing the 2002
+303(d) list which was adopted by SWRCB and submitted to U.S. EPA in February 2003.
+This third, and last, report to the Legislature required by Water Code section 13191
+discusses the progress in the development of the 2002 303(d) list, the listing/delisting
+policy, and the TMDL guidelines. The report also discusses the status of TMDL
+development and the implementation of SWAMP at each region and provides an update
+of the Action Plan.
+
+
+
+
+                                           4
+                     II.  DEVELOPMENT OF 2002 303(d) LIST,
+                   LISTING/DELISTING POLICY, AND TMDL GUIDELINES
+
+
+2002 303(d) List
+
+The state’s 303(d) list was last revised in 1998. Federal regulations require that the
+303(d) list be updated every two years. A federal rule in February 2000 suspended the
+2000 submittal, and the next revision of the list was due to U.S. EPA in October 2002.
+
+In March 2001, RWQCBs issued solicitations to federal, state and local agencies and
+the public for available data and information to support the update of the 303(d) list.
+The solicitation was closed on May 15, 2001. As required by federal regulations,
+RWQCB staff assembled and evaluated all existing and readily available water quality-
+related data and information and prepared draft staff reports proposing additions,
+deletions, and other changes to the existing 303(d) list. Several regions also provided a
+“watch list” which includes water bodies where minimal, contradictory, or anecdotal
+information suggests standards are not met, but the available data or information is
+inadequate for staff to determine whether the water body should be included in the
+303(d) list.
+
+In January 2002, RWQCBs submitted their staff reports and proposed 303(d) lists to
+SWRCB, along with all relevant documents, including copies of public submittals,
+data/information, and documents referenced in the submittal. SWRCB staff reviewed
+RWQCB proposals, made determination on whether to concur with RWQCBs’
+recommendations, and worked with RWQCB staff to resolve the differences.
+Subsequently, SWRCB staff developed a statewide list, supported by fact sheets for
+each proposal to add or delete water bodies or make other changes to the existing
+303(d) list. The rationale for decisions to use or not to use any existing and readily
+available data and information was provided in the fact sheets and in all supporting
+documents that are part of the record of SWRCB’s 303(d) list development. Staff also
+assigned priorities to the listed water bodies for the purposes of developing TMDLs, as
+required by federal law.
+
+The existing 1998 303(d) list contains 509 water bodies and 1472 water body/pollutant
+combinations. The 2003 303(d) list contains 679 water bodies and 1852 water body/
+pollutant combinations. SWRCB approved the 2002 section 303(d) list on February 4,
+2003 and submitted the list to U.S. EPA for its consideration on February 28, 2003.
+
+
+303(d) Listing/Delisting Policy
+
+Water Code section 13191.3 requires SWRCB to develop guidelines to be used by
+SWRCB and RWQCBs for the purposes of listing and delisting waters and developing
+and implementing TMDLs. The law requires that the guidelines be adopted by
+January 1, 2004. The work of developing a statewide listing/delisting policy for SWRCB
+
+
+
+                                            5
+adoption is currently underway. During the development of the 2002 303(d) list, many
+issues and concerns were raised by the members of PAG and other interested parties.
+Those issues and areas of concern have provided the framework for the development of
+the listing/delisting policy. Topics of concern include the interpretation of narrative water
+quality objectives, representative samples of upstream and downstream conditions,
+data quality requirements, minimum data needed to support listing decisions, and
+priority setting.
+
+Several meetings were held between December 2001 and April 2002 to develop the
+scope of the policy. SWRCB staff met with PAG members at six separate meetings
+around the state and with representatives from other groups such as the Southern
+California Alliance of Publicly Owned Treatment Works, the California Water Quality
+Coalition sponsored by the California Farm Bureau Federation, and the California
+Storm Water Quality Task Force. SWRCB staff also consulted with the RWQCB staff
+and management advocates who are involved in the listing/delisting process.
+Comments and advice received from all of these groups were taken into consideration
+in determining the scope of the policy.
+
+Three consensus recommendations were developed by PAG regarding the
+listing/delisting policy, all of which will be incorporated in the final policy:
+
+1. PAG agrees that the listing process should be transparent.
+2. The public participation process should be transparent; in addition, it should be
+   specific and well advertised, with active outreach to diverse geographic areas and
+   those with environmental justice interests.
+3. To the greatest extent possible, there should be a consistent, standardized set of
+   tools and principles used across regions to evaluate data. Additionally, site-specific
+   information should be taken into consideration.
+
+This statewide policy will outline the factors for listing and delisting waters, including
+acceptable data quality, criteria for assigning priority to listed water bodies, criteria for
+developing a watch list, public notice procedures, data solicitation procedures, definition
+of readily available data, and many other factors pertinent to the process.
+
+Table 1 provides the timeline for developing the policy. SWRCB will continue to work
+closely with PAG, RWQCB staff, and U.S. EPA throughout the process of developing
+the listing/delisting policy. It is important to note that U.S. EPA is currently developing a
+new TMDL Rule which includes requirements for listing 303(d) waters. The new Rule is
+not publicly available at this time. As we move forward with the development of the
+listing/delisting policy, we may be required to revisit some of the issues after the new
+Rule is published and revise the policy if necessary to ensure it is consistent with the
+new federal Rule.
+
+
+
+
+                                              6
+Table 1. Timeline for Development of the 303(d) Listing/Delisting Policy
+
+
+                      Task                                    Completion Date
+
+Scoping meetings                                 December 2001 through March 2002
+Discuss proposal with RWQCB staff                May 2002
+Draft concept paper to PAG                       July 2002
+Discuss proposals at PAG meeting                 July 2002
+Policy reparation                                January 2003 through June 2003
+Draft functional equivalent document (FED)       January 2003 through September 2003
+RWQCB staff review                               May 2003
+Formal release of draft policy                   July 2003
+Formal release of draft FED                      September 2003
+Public hearing(s)                                November 2003
+Response to comments                             September 2003 through December 2003
+Revise FED and draft policy                      November 2003 through January 2004
+SWRCB workshop and board meeting                 January 2004
+Submit policy and records to OAL for approval    April 2004
+
+
+TMDL Development and Implementation Guidelines
+
+In addition to the tasks of developing the 2002 303(d) list and the statewide
+listing/delisting policy, SWRCB staff is also working on the development of statewide
+guidelines for developing and implementing TMDLs, as required by Water Code
+section 13191.3. U.S. EPA has provided startup funding for a contract with Tetra Tech,
+Inc. to determine the scope of the guidelines. The contractor has been working with
+SWRCB and RWQCB staff to accomplish this task. A portion of federal grants received
+for fiscal year (FY) 2002-03 has been earmarked for continued work to develop the
+guidelines, subject to U.S. EPA approval. Table 2 presents the schedule for developing
+the TMDL guidelines. The law requires that SWRCB finalize these guidelines by
+January 1, 2004. As stated earlier, U.S. EPA is currently developing a new TMDL Rule,
+which is not publicly available as of this date. To ensure consistency with the new
+federal Rule, SWRCB may be required to revisit some issues and/or revise the
+guidelines that are being developed once the new Rule is published.
+
+
+
+
+                                             7
+Table 2. Timeline for Adoption of TMDL Development and Implementation
+         Guidelines
+
+                            Tasks                            Completion Date
+Initial project scoping                                 June 2002
+Project scoping report                                  August 2002
+U.S. EPA reviews/approves project and releases funds    October 2002
+PAG briefing                                            October 2002
+Draft core guidance document                            April 2003
+Draft core guidance document to PAG                     July 2003
+Draft technical modules/issues papers                   August 2003
+Draft final guidelines to PAG for comment               August – September 2003
+Draft final guidelines released for public comments     September 2003
+SWRCB prepares response to public comments              November 2003
+SWRCB adopts final guidelines                           January 2004
+
+
+
+
+                                            8
+               III.   TMDL DEVELOPMENT AND IMPLEMENTATION
+
+
+RWQCB Accomplishments
+
+Development of TMDLs in California is primarily RWQCBs’ responsibility.
+RWQCBs adopt TMDLs, including implementation provisions, as amendments to
+the Regional Water Quality Control Plans (Basin Plan). Previous lawsuits have
+resulted in court-ordered consent decrees that required U.S. EPA to establish
+TMDLs within specified time frames. These TMDLs are established either by
+RWQCBs or by U.S. EPA staff with assistance from RWQCB staff. TMDLs
+established by U.S. EPA do not include any implementation features. To ensure
+that these TMDLs are implemented, RWQCBs either develop specific
+implementation plans for the TMDLs or require implementation through their
+existing permitting programs.
+
+RWQCBs were able to produce TMDLs in 2002 at a faster pace than they could
+previously. This is because of the increased knowledge and experience learned by staff
+developing TMDLs. Communications among the staffs at the nine RWQCBs and
+SWRCB have also improved significantly through the TMDL Roundtable. The
+Roundtable contains a group of RWQCB, SWRCB, and U.S. EPA staffs who meet
+monthly to discuss issues and problems associated with TMDLs and program
+management, and to exchange ideas and share knowledge and experiences. The
+discussions at the Roundtable have helped RWQCBs improve its performance in
+completing TMDLs.
+
+Completed TMDLs
+
+To date, 21 TMDLs have been completed and are being implemented; nine of
+those were completed in 2002. In addition, thirteen TMDLs adopted by the
+RWQCBs in 2001 and 2002 are currently pending approval by SWRCB, OAL or
+U.S. EPA. Nine more TMDLs are scheduled to be adopted by RWQCBs in 2003
+and 2004. Forty-six TMDLs (with no implementation plans) were developed in
+2002 by U.S. EPA staff with assistance from RWQCB staff. Staff at the nine
+RWQCBs has also begun working on approximately 100 additional TMDLs.
+Tables 3 through 6 provide lists of TMDLs that (1) have been completed; (2) have
+been adopted by RWQCB and or pending approval by SWRCB, OAL, or U.S.
+EPA; (3) are scheduled for adoption by RWQCBs in the next few months; and (4)
+have been established by U.S. EPA.
+
+
+
+
+                                          9
+Table 3. Completed TMDLs
+
+RWQCB Water Body                 Pollutant/Stressor           Date Completed
+  1  Garcia River                     sediment                      3/2002
+  1  Laguna de Santa Rosa             ammonia and dissolved oxygen 5/1995
+  2  South San Francisco Bay          copper                        1/20031
+  2  South San Francisco Bay          nickel                        1/20031
+  3  San Lorenzo River                nitrate                       1/2003
+  4  East Fork San Gabriel River      trash                         2/2000
+  4  Los Angeles River                trash                         8/2002
+  4  Ballona Creek                    trash                         8/2002
+  5  Salt Slough                      selenium                      7/1999
+  5  Grasslands Marsh                 selenium                      4/2000
+  5  San Joaquin River                selenium                      3/2002
+  5  Sacramento River                 cadmium                       6/2002
+  5  Sacramento River                 copper                        6/2002
+  5  Sacramento River                 zinc                          6/2002
+  7  New River                        pathogen                      8/2002
+  7  Alamo River                      sediment                      6/2002
+  8  Santa Ana River                  nutrients                     12/1994
+  8  Newport Bay/San Diego Creek      nitrogen                      4/1999
+  8  Newport Bay/San Diego Creek      phosphorus                    4/1999
+  8  Newport Bay/San Diego Creek      sediment                      4/1999
+  8  Newport Bay/San Diego Creek      fecal coliform                2/2000
+1
+    Site-specific water quality objectives and implementation provisions for the new objectives have been
+    approved by U.S. EPA. These site-specific objectives and implementation plan provided a basis for
+    delisting Lower South San Francisco Bay for copper and nickel, and therefore precluded establishing a
+    complete TMDL.
+
+
+
+Table 4. TMDLs Adopted by RWQCBs and Pending Approval of SWRCB, OAL or
+         U.S. EPA
+
+RWQCB    Water Body            Pollutant/Stressor        Date Adopted                              Status
+  3   Morro Bay                     siltation               5/2002                                SWRCB
+  3   San Lorenzo River             sediment                9/2002                                SWRCB
+  3   Las Tablas Creek-
+      Nacimiento Reservoir          mercury                 11/2002                               SWRCB
+  3   Morro Bay                     pathogens               12/2002                               SWRCB
+  4   Santa Monica Bay Beaches      coliform (dry-weather) 1/2002                                 U.S. EPA
+  4   Calleguas Creek               nutrients               10/2002                               SWRCB
+  4   Santa Monica Bay              pathogen (wet weather) 12/2002                                SWRCB
+  4   Santa Clara River             chloride                10/2002                               SWRCB
+  5   Clear Lake                    mercury                 12/2002                               SWRCB
+  6   Heavenly Valley               sediment                1/2001                                U.S. EPA
+
+
+                                                    10
+(Continued) Table 4. TMDLs Adopted by RWQCBs and Pending Approval of
+                     SWRCB, OAL or U.S. EPA
+
+RWQCB     Water Body              Pollutant/Stressor       Date Adopted    Status
+  6   Indian Creek Reservoir           nutrients              7/2002      OAL
+  7   New River Sediment               sediment               6/2002      U.S. EPA
+  9   Chollas Creek                    diazinon               8/2002      SWRCB
+
+
+Table 5. TMDLs Pending Adoption by RWQCBs
+
+RWQCB       Water Body                  Pollutant/Stressor        Hearing Date
+   2     San Francisco Bay              mercury                         7/2003
+   3     Chorro/Los Osos Creeks         nutrients                      10/2004
+   3     Morro Bay                      nutrients                       5/2003
+   4     Los Angeles River              nutrients                       6/2003
+   4     Los Angeles River              coliform                       10/2004
+   4     McGrath Beach                  coliform                        4/2003
+   4     San Gabriel River              nutrients                       4/2003
+   8     Newport Bay                    chlorpyrifos                    3/2003
+   8     Newport Bay                    diazinon                        3/2003
+
+
+Table 6. TMDLs Established by U.S. EPA1
+
+RWQCB       Water Body                    Pollutant/Stressor   Date Established
+   1     Trinity River South Fork /
+         Hayfork Creek                    sediment                  12/1998
+   1     Redwood Creek                    sediment                  12/1998
+   1     South Fork Eel River             sediment                  12/1999
+   1     South Fork Eel River             temperature               12/1999
+   1     Noyo River                       sediment                  12/1999
+   1     Van Duzen River/Yager Creek      sediment                  12/1999
+   1     Navarro River                    sediment                  12/2000
+   1     Navarro River                    temperature               12/2000
+   1     Ten Mile River                   sediment                  12/2000
+   1     Gualala River                    sediment                  12/2001
+   1     Trinity River                    sediment                  12/2001
+   1     Albion River                     sediment                  12/2001
+   1     Big River                        sediment                  12/2001
+   1     North Fork Eel River             sediment                  12/2002
+
+
+
+
+                                       11
+(Continued) Table 6. TMDLs Established by U.S. EPA1
+
+RWQCB            Water Body                            Pollutant/Stressor      Date Established
+      1        North Fork Eel River                    temperature                 12/2002
+      1        Mattole River                           sediment                    12/2002
+      1        Mattole River                           temperature                 12/2002
+      4        Calleguas Creek                         chloride                     3/2002
+      8        Upper Newport Bay                       cadmium, coppr,              6/2002
+                                                       lead, selenium, zinc,
+                                                       chlordane,
+                                                       chlorpyrifos,
+                                                       diazinon, dieldrin,
+                                                       PCBs, DDT
+      8        Lower Newport Bay                       cadmium, lead,              6/2002
+                                                       selenium, zinc,
+                                                       chlordane, dieldrin,
+                                                       PCBs, DDT
+      8        Rhine Channel                           copper, lead,               6/2002
+                                                       selenium, zinc,
+                                                       mercury, chromium,
+                                                       chlordane, dieldrin,
+                                                       DDT, PCBs
+      8        San Diego Creek                         cadmium, copper,            6/2002
+                                                       lead, selenium, zinc,
+                                                       chlordane,
+                                                       chlorpyrifos,
+                                                       diazinon, dieldrin,
+                                                       PCBs, DDT,
+                                                       toxaphene
+1
+    These TMDLs do not include implementation plans.
+
+
+TMDL Work in Progress
+
+In addition to the TMDLs listed above that have been completed or developed,
+RWQCBs are also working to develop approximately 100 TMDLs based on the
+1998 303(d) list, develop implementation plans for the TMDLs established by U.S. EPA,
+and implement the completed TMDLs. The following are some examples of the TMDL-
+related work currently underway at each RWQCB. A complete list of TMDLs currently
+being developed and their status is included in the attached Action Plan (Appendix B).
+
+Region 1: North Coast Region
+
+•     Garcia River Sediment TMDL
+      Staff has begun implementing the Garcia River Watershed Water Quality Attainment
+      Action Plan for Sediment, which includes the TMDL. Public and agency workshops
+
+
+                                                  12
+    detailing the implementation program have been completed. Staff is currently
+    reviewing the draft TMDL landowner plans submitted to RWQCB by Garcia River
+    landowners.
+
+•   Basin Plan Amendment for the Control of Sediment Discharges
+    Staff is currently developing the scope of the Basin Plan amendment. This
+    amendment is designed to control sediment discharges across the North Coast
+    region and to guide the development of TMDL implementation plans for sediment-
+    impaired water bodies. Staff members at RWQCB across all programs participated
+    in the internal workgroups to develop the goals and strategies of the amendment.
+
+•   Salmon River Nutrient and Temperature TMDLs
+    Monthly monitoring and sampling for nutrients began in June 2002. Continuous
+    temperature monitoring began in June 2002 under contract with the U.S. Forest
+    Service (USFS), Klamath National Forest.
+
+•   Lost River Nutrients and Temperature TMDLs and Klamath River Nutrients,
+    Dissolved Oxygen and Temperature TMDLs
+    Monthly summertime monitoring and sampling were initiated in May 2001 and
+    continued in May 2002. In June 2002, staff held a TMDL coordination meeting with
+    the Oregon Department of Environmental Quality and U.S. EPA Regions 9 and 10.
+
+•   Shasta River Dissolved Oxygen and Temperature TMDLs
+    Impairment assessment began in February 2002. A public meeting with the
+    Shasta River Coordinated Resources Management Planning Council was held in
+    April 2002.
+
+•   Scott River Sediment and Temperature TMDLs
+    Impairment assessment began in February 2002.
+
+•   Elk River Sediment TMDL and Freshwater Creek Sediment TMDL
+    Impairment assessment began in April 2002. Public meetings were held in
+    May 2002 on the background and approach to these TMDLs.
+
+•   Mendocino Coast Sediment TMDL Implementation Plans
+    Preparation of TMDL implementation plans and Basin Plan amendment packages
+    has been initiated for the Albion River, Big River, Noyo River, and Ten Mile River
+    watersheds. Several public scoping and informational meetings were held in the
+    Albion, Noyo and Ten Mile watersheds between January and May 2002.
+
+Region 2: San Francisco Bay Region
+
+•   San Francisco Bay PCBs TMDL
+    A TMDL report was completed in September 2002. The report includes TMDL
+    problem statement, numeric targets, source assessment, load allocations, linkage
+    analysis, and implementation strategies.
+
+
+                                           13
+•   San Francisco Bay Area Urban Creeks Diazinon TMDL
+    The TMDL report, including TMDL problem statement, numeric targets, source
+    assessment, load allocations, linkage analysis, and implementation strategies, was
+    completed in August 2002. Staff has also worked closely with municipal storm water
+    programs to ensure that all programs have pesticide toxicity reduction strategies and
+    has provided regular updates to the Urban Pesticide Committee, a toxicity control
+    strategy coordinating committee that serves as the primary stakeholder forum for
+    this TMDL project.
+
+•   Tomales Bay Pathogens TMDL
+    Staff completed the TMDL report in September 2002. The TMDL report includes a
+    problem statement, numeric targets, source assessment, load allocations, linkage
+    analysis, and the general approach for implementation of nonpoint source pathogen
+    control measures.
+
+•   Napa River Sediment TMDL
+    A watershed-scale study of steelhead and salmon limiting factors was completed in
+    June 2002. The study evaluates how sediment supply and other factors may limit
+    species populations. RWQCB has received letters and/or resolutions of support for
+    the study from the Napa County Farm Bureau, the Napa Valley Grape Growers
+    Association, the California Department of Fish and Game (DFG), and the Friends of
+    Napa River. The findings of this report will be the basis for developing the TMDL.
+
+•   San Francisquito Creek Sediment TMDL
+    Staff worked with two counties, three cities and two towns in the watershed that are
+    the permittees under the National Pollutant Discharge Elimination System (NPDES)
+    Storm Water Program to coordinate sediment reduction programs through county-
+    wide urban runoff pollution prevention program. Together with the San Francisquito
+    Creek Joint Powers Authority, staff established a Technical Advisory Committee and
+    developed a scope of work for a sediment budget analysis that will form the
+    foundation of the TMDL source assessment.
+
+Region 3: Central Coast Region
+
+•   Pajaro River Nutrient TMDL
+    Draft problem statement, numeric targets, and source analysis have been
+    completed. Staff has engaged stakeholders in a preliminary review of these
+    components of the TMDL and established research needs and contracts to fill data
+    gaps. The TMDL report will be completed in June 2003.
+
+•   San Luis Obispo Creek Nutrient TMDL
+    Staff has completed a draft TMDL report and the implementation and monitoring
+    plan and has met several times with stakeholders regarding implications of the
+    TMDL and the need for implementation.
+
+
+
+                                           14
+•   Clear Creek-Hernandez Reservoir Mercury TMDL
+    A sampling program has been designed and implemented by RWQCB staff. Staff
+    has also completed the draft numeric targets and source analysis.
+
+•   Morro Bay Metals TMDL, San Luis Obispo Creek Pathogens TMDL,
+    Monterey Harbor Metals TMDL, San Lorenzo River Pathogen TMDL, and
+    Watsonville Slough Metals, Oil and Grease, and Pesticides TMDLs
+    Sampling programs and preliminary TMDL components, including problem
+    statements and numeric targets, have been completed for these TMDLs.
+
+•   Salinas River Siltation TMDL and Pajaro River Siltation TMDL
+    Staff has completed initial sampling and conducted initial stakeholder outreach
+    (public meetings, presentations to organizations, distribution of newsletter articles
+    and fact sheets). Contracts for additional sampling to fill data gaps have also been
+    developed.
+
+•   Salinas River Nutrients, Pesticides, and Salinity TMDLs
+    Contracts for additional sampling to fill data gaps and for analysis to develop the
+    TMDLs have been developed.
+
+Region 4: Los Angeles Region
+
+•   Basin Plan Amendment to Revise the Bacteria Water Quality Objective
+    This Basin Plan amendment updates the bacteria water quality objectives to reflect
+    the most recent local and national epidemiological research and to be consistent
+    with U.S. EPA's water quality criteria recommendations and the minimum protective
+    bacteriological standards in the California Code of Regulations. The updated
+    objectives will serve as a basis for future pathogen TMDLs. The Basin Plan
+    amendment was adopted by RWQCB in October 2001 and approved by SWRCB in
+    July 2002.
+
+•   Basin Plan Amendment to Revise the Ammonia Water Quality Objectives
+    The proposed Basin Plan amendment would update the freshwater ammonia water
+    quality objectives to reflect U.S. EPA's most recent research, and would serve as a
+    basis for upcoming nutrient TMDLs. RWQCB adopted the Basin Plan amendment in
+    April 2002, and the Administrative Record was transmitted to SWRCB in July 2002
+    for its review and approval.
+
+•   Santa Clara River Nutrient TMDL
+    A steering committee consisting of RWQCB staff, stakeholders and interested
+    parties has been formed to provide guidance for development of the TMDL. The
+    stakeholders have funded a contract to develop the source assessment and linkage
+    analysis. The TMDL is scheduled to be completed and considered by the RWQCB
+    in spring 2003.
+
+
+
+
+                                             15
+•   Dominguez Channel Pathogen TMDL
+    Staff has initiated work on this TMDL and has conducted a dry weather sampling
+    program to determine sources and assess in-channel water quality. Staff has also
+    initiated modeling of Dominguez Channel. The TMDL is scheduled to be completed
+    and considered by RWQCB in 2003.
+
+Region 5: Central Valley Region
+
+•   Upper Sacramento River Cadmium, Copper, and Zinc TMDL
+    Staff has begun implementation of these TMDLs through existing NPDES permits
+    and enforcement orders and through existing remedies at the Iron Mountain Mine
+    site.
+
+•   Sacramento and Feather River Diazinon TMDL and Basin Plan Amendment
+    In May 2002, staff released a draft TMDL report and draft program of implementation
+    report for the control of diazinon in the Sacramento and Feather Rivers. RWQCB
+    staff held two days of workshops in Yuba City to discuss these reports. The TMDL
+    report presented the technical analysis of the TMDL and several options for the
+    allocation of loads. The program of implementation report describes alternatives
+    available to growers to reduce or eliminate off-site migration of diazinon as well as a
+    number of implementation options. The TMDL is scheduled for RWQCB
+    consideration in July 2003.
+
+•   Sacramento Area Urban Creeks TMDL
+    RWQCB staff developed a preliminary draft TMDL for diazinon and chlorpyrifos in
+    Sacramento area urban creeks. The draft TMDL was released to the public in
+    August 2002. Staff also completed a data report on levels of diazinon, chlorpyrifos
+    and several other pesticides in rain water, which covered 2001 sampling. In
+    addition, staff collected and analyzed rainwater from storms in January-March 2002.
+
+•   Delta Diazinon and Chlorpyrifos TMDL
+    RWQCB staff developed a monitoring plan and began its sampling program in the
+    Sacramento-San Joaquin Delta. Sampling will occur for at least a year. The
+    objective is to characterize the sources of diazinon and chlorpyrifos within the Delta.
+
+•   Sacramento, Feather, and San Joaquin Rivers Diazinon and Chlorpyrifos
+    Management Practices
+    In May 2002, RWQCB staff developed a draft Agricultural Practices and Technology
+    Report for the use of diazinon and chlorpyrifos in the Sacramento, Feather, and
+    San Joaquin Rivers. The report identifies practices that may be used to reduce the
+    offsite movement of diazinon and chlorpyrifos from agricultural areas during the
+    dormant spray and irrigation seasons.
+
+
+
+
+                                             16
+•   San Joaquin River Diazinon and Chlorpyrifos TMDL and Basin Plan
+    Amendment
+    RWQCB staff developed a preliminary draft TMDL for diazinon and chlorpyrifos in
+    the San Joaquin River. A public draft was released in July 2002. The TMDL report
+    presents the technical analysis of the TMDL including several options for the
+    allocation of loads.
+
+•   Merced, Tuolumne and Stanislaus Rivers Diazinon and Chlorpyrifos TMDL
+    RWQCB staff developed a preliminary draft source analysis report for diazinon and
+    chlorpyrifos in these three rivers. The report includes water column concentrations
+    and loads for samples collected during the dormant spray and irrigation seasons in
+    2000 and 2001 and a compilation of earlier data. Dormant and irrigation season
+    monitoring in 2002 is continuing.
+
+•   San Joaquin River Salt and Boron TMDL and Basin Plan Amendment
+    In January 2002, RWQCB staff released a draft TMDL report for salt and boron in
+    the San Joaquin River. A public workshop was held in March to discuss the report.
+    The TMDL report presented the technical analysis of the TMDL and the allocation of
+    loads, including a scenario to allocate loads based on real time conditions. The
+    TMDL is expected to be considered by RWQCB in June 2003.
+
+•   San Joaquin River Low Dissolved Oxygen TMDL
+    Staff developed a draft source and linkage analysis report for dissolved oxygen in
+    the Stockton Deepwater Ship Channel of the San Joaquin River. Staff has also
+    completed an Interim Performance Goal and Final Target Analysis Report. Staff
+    continues to work with the San Joaquin River Dissolved Oxygen Steering Committee
+    that has developed a plan of action for the development of this TMDL and an
+    implementation plan.
+
+•   Other Mercury TMDL Work in Progress
+    TMDLs for mercury are in the development phase for Cache Creek, Sacramento-
+    San Joaquin Delta, Harley Gulch, Sulphur Creek, Bear Creek, and the Sacramento
+    River. Work includes data collection and analysis, target development, and
+    preliminary source analyses for each of these TMDLs.
+
+Region 6: Lahontan Region
+
+•   Lake Tahoe Sedimentation/Nutrient TMDL
+    An interagency TMDL development team began meeting in November 2001. Staff is
+    having monthly meetings with the group to develop TMDL components. The
+    problem statement and numeric targets were completed in October 2001 and work
+    on the source analysis and linkage analysis is ongoing. Contracted work for
+    research and data collection began in March 2002. Several public outreach
+    meetings were held in June 2002, including presentations at two public TMDL
+    forums, a presentation to the Tahoe Regional Planning Agency’s (TRPA) Advisory
+    Planning Commission, and a press workshop that generated a large amount of
+
+
+                                           17
+    positive coverage. A collaborative approach to the development and update of
+    planning documents has been established between RWQCB, TRPA, and USFS to
+    integrate and standardize agency planning documents by 2007.
+
+•   Bridgeport Reservoir Nutrient TMDL
+    Surface water quality monitoring is being conducted quarterly through a contract with
+    the U.S. Geological Survey (USGS). A limnological study and TMDL development is
+    in progress through a contract with the University of California (U.C.) Berkeley.
+    RWQCB staff is coordinating with USGS to initiate a groundwater sampling contract.
+    A stakeholder meeting was held in February 2002. Staff met with the federal
+    Bureau of Land Management to gather information regarding grazing allotments and
+    stream conditions. Staff also met with the Natural Resources Conservation Service,
+    U.C. Davis Extension and Cooperative Extension, and DFG to discuss impaired
+    areas and potential early implementation in the Bridgeport Reservoir watershed.
+    Staff revised a draft problem statement in May 2002.
+
+•   Crowley Lake Nutrient TMDL
+    Internal nutrient loading assessment and riparian restoration and monitoring work is
+    ongoing through contracts with U.C. Santa Barbara Sierra Nevada Aquatic Research
+    Laboratory.
+
+•   Haiwee Reservoir Copper TMDL
+    On June 30, 2001, a draft progress report, which included the elements of a TMDL
+    report, was submitted to U.S. EPA. During TMDL analysis, staff identified several
+    key data gaps that needed to be filled before completing the TMDL. A study plan
+    was developed collaboratively with staff of RWQCB, the Los Angeles Department of
+    Water and Power (LADWP), and U.S. EPA to fill these gaps. However, LADWP
+    later petitioned to SWRCB for a review of RWQCB’s study plan and is no longer
+    cooperating with RWQCB to fill the data gaps. In order to assess beneficial use
+    impacts and move forward with the TMDL, RWQCB has contracted with USGS to
+    collect water quality samples at the reservoir in the summer of 2002. LADWP and
+    RWQCB staff also collaborated to develop and implement studies in the Owens
+    Valley to better characterize the TMDL copper source analysis. LADWP had also
+    contested Haiwee Reservoir’s status as a water of the United States and its
+    inclusion on the 303(d) list. RWQCB held a workshop in October 2002 to evaluate
+    whether Haiwee Reservoir and certain other waters in the region are waters of the
+    United States. Based on the outcome of the workshop, RWQCB will determine
+    whether the TMDL for Haiwee Reservoir will be completed or whether only state
+    regulatory mechanisms will be used to protect the beneficial uses of the reservoir.
+
+•   Tinemaha Reservoir Copper TMDL
+    Impairment verification studies are ongoing to assess the current ambient
+    concentrations of copper in the reservoir. Results of these studies will be used to
+    determine whether a TMDL is necessary. In the interim, the copper sulfate
+    applications at the reservoir, which is considered the primary source of copper
+    impairment, will be permitted through the Statewide General NPDES Permit for
+
+
+                                            18
+    Aquatic Pesticides. In April 2002, RWQCB staff completed review of the Monitoring
+    and Reporting Plan for the General Permit submitted by LADWP and requested
+    changes to ensure that monitoring will adequately characterize the reservoir's
+    recovery time and assess the restoration of water quality following a copper sulfate
+    treatment.
+
+•   Susan River Toxicity TMDL
+    In conjunction with SWRCB’s Toxicity Testing Program, RWQCB staff is developing
+    a study plan to determine the existing magnitude and frequency of toxicity in the
+    river and to determine the causal agent of any demonstrated toxicity through toxicity
+    identification evaluations (TIEs). Staff met with the contractor in June 2002 to review
+    existing data and develop a preliminary project scope. Field investigation to
+    establish sampling sites and identify access issues has begun. The first round of
+    toxicity testing is anticipated to begin in March 2003.
+
+•   Squaw Creek Sedimentation TMDL
+    A report describing biological water quality targets for Squaw Creek was completed
+    in April 2002. The sediment source assessment report for the Squaw Creek
+    watershed was completed in June 2002. A citizen group committed to the
+    restoration of Squaw Creek was established and funding has been acquired to
+    establish three stream flow gages within the watershed.
+
+•   Truckee River Sedimentation TMDL
+    An initial sediment source modeling study was completed in July 2001. Citizen
+    monitoring efforts to monitor water quality throughout the watershed continued with
+    active RWQCB support. Watershed restoration and sediment control projects were
+    completed throughout the watershed in October 2001 with the assistance of
+    800 volunteers. Contracts were written in February 2002 to develop monitoring,
+    modeling, assessment, and community collaboration efforts to support development
+    of TMDL. Outside funding was secured to conduct sub-watershed assessments,
+    successfully leveraging state funds against local, federal, and private funding
+    sources. Plans for community involvement in the TMDL were developed with the
+    help of the Truckee River Watershed Council and the California Center for Public
+    Dispute Resolution. A TMDL collaboration forum was held in Truckee in
+    September 2002.
+
+Region 7: Colorado River Basin Region
+
+•   Imperial Valley Drains Sediment TMDL
+    Impairment assessment was completed in December 2001. The Quality Assurance
+    Project Plan (QAPP) was completed in January 2002. Monitoring and sampling
+    have occurred on a monthly basis since February 2002.
+
+•   Salton Sea Nutrient TMDL
+    The Salton Sea Nutrient TMDL Technical Advisory Committee/Stakeholder Group
+    was established in November 2001. Staff has been meeting monthly with the group
+
+
+                                            19
+    to develop TMDL components. The problem statement was completed in
+    January 2002. A Salton Sea Modeling Symposium was also held in January 2002,
+    and the work on the extensive model that is necessary for developing the TMDL
+    began in February 2002. QAPP was completed in March 2002. Monitoring and
+    sampling have been occurring on a monthly basis since March 2002. A California
+    Environmental Quality Act scoping meeting was held in April 2002. Evaluation of
+    best management practices (BMPs) began in May 2002.
+
+•   Palo Verde Outfall Drain Pathogen TMDL
+    A draft problem statement for this TMDL was completed in March 2002. QAPP was
+    completed in June 2002. Monitoring and sampling are occurring on a monthly basis.
+
+•   Alamo River Pesticide TMDL
+    QAPP was completed in February 2002. A draft problem statement was completed
+    in April 2002. Toxicity monitoring and sampling are occurring on a monthly basis.
+
+•   Coachella Valley Storm Drain Pathogen TMDL
+    Impairment assessment began in January 2002. A draft problem statement was
+    completed in April 2002.
+
+•   Imperial Valley Drains Selenium TMDL
+     Impairment assessment began in January 2002.
+
+Region 8: Santa Ana Region
+
+•   Newport Bay Fecal Coliform TMDL
+    Staff continues to work on the implementation of the fecal coliform TMDL.
+    Comprehensive monitoring programs were established to determine the various
+    sources that caused coliform impairment to the recreational use and shellfish
+    harvesting in the bay. Sampling of Newport Bay waters and its tributaries was
+    conducted during the summers of 2001 and 2002. Sampling was conducted at the
+    Dunes Embayment in august 2001 and May through September 2002 to determine if
+    bacterial counts are higher during high-frequency swimmer use. Staff has also
+    initiated an investigation to determine additional potential sources of fecal
+    contamination due to waterfowl, tidal cycles, Dunes Marina, and sediment.
+
+•   Newport Bay/San Diego Creek Watershed Nutrient TMDL
+    The implementation plan for this TMDL identifies a number of tasks, including a
+    review and possible revision of the water quality objectives for nutrients in San Diego
+    Creek. Phase II of the evaluation, consisting of an investigation of the nutrient and
+    macro-algal dynamics in Newport Bay, was completed in the spring of 2002. Under
+    the monitoring program required by the TMDL, the watershed stakeholders
+    completed the first year of monitoring; a data summary report was submitted to
+    RWQCB and made available to the public.
+
+
+
+
+                                            20
+•   Newport Bay’s Rhine Channel Toxics TMDL
+    Staff is currently developing an implementation plan for this TMDL that was
+    established by U.S. EPA in June 2002. A number of studies were conducted to
+    assist in the development of the implementation plan. A study of the spatial extent
+    of sediment contamination and a TIE were completed in May 2002. The study to
+    identify the sources of metals contamination is currently underway.
+
+•   San Diego Creek Metals TMDL
+    Staff is currently developing implementation plans for this U.S. EPA-established
+    TMDL. Investigation of metals toxicity in the creek was initiated by the Southern
+    California Coastal Water Research Project (SCCWRP) on behalf of RWQCB and
+    U.S. EPA. The first storm water samples were collected in March 2002.
+
+•   Big Bear Lake Nutrient TMDL
+    Stakeholders, in coordination with RWQCB staff, completed development of QAPP
+    and sampling program. Monthly lake and watershed (source analysis) sampling was
+    initiated in 2001. Sediment samples were taken in June 2002 to determine internal
+    loading of nutrients within Big Bear Lake and to develop a nutrient budget for the
+    lake.
+
+•   Rathbone Creek Nutrient and Sediment TMDLs and Summit Creek Nutrient
+    TMDL
+    Stakeholders, in coordination with RWQCB staff, completed development of QAPP
+    and sampling program. Sampling was initiated in 2001 and flow measurements and
+    source analysis were also initiated in 2002.
+
+•   Grout Creek Nutrient TMDL and Big Bear Lake Sediment TMDL
+    Stakeholders, in coordination with RWQCB staff, completed development of QAPP
+    and sampling program. Sampling was initiated in 2001.
+
+•   Knickerbocker Creek Pathogen TMDL
+    QAPP was completed in June 2002, and weekly sampling to confirm pathogen
+    impairment and to determine sources was initiated in June 2002.
+
+•   Canyon Lake Pathogen TMDL
+    QAPP was completed in July 2001. Biweekly pathogen sampling was initiated in
+    September 2001. Watershed pathogen source analysis was initiated in
+    January 2002. RWQCB staff continues the TMDL Workgroup meetings with
+    stakeholders to discuss TMDL progress and issues.
+
+•   Lake Elsinore Toxics TMDL
+    Soil surveys for heavy metal source analysis in the watershed was initiated in
+    June 2002. RWQCB staff continued the TMDL Workgroup meetings with
+    stakeholders to discuss TMDL progress and issues.
+
+
+
+                                            21
+•   Lake Elsinore Sediment TMDL
+    Sediment coring and age dating of the sediment cores to determine the rate of
+    sediment deposition were completed in June 2002. QAPP was completed in July
+    2002. The sediment deposition rate will be used to evaluate whether sediment is
+    causing impairment in Lake Elsinore and may justify delisting the Lake for sediment
+    in the future.
+
+•   Lake Elsinore Nutrient TMDL
+    In-lake monthly (fall/winter) and bimonthly (spring/summer) monitoring continued
+    from July 2001 through June 2002. Watershed sampling for source analysis was
+    conducted when precipitation resulted in runoff. The Santa Ana Watershed Project
+    Authority (SAWPA) was awarded a CWA section 205(j) grant to develop a
+    watershed model for developing nutrient allocations for Lake Elsinore. RWQCB staff
+    has assisted SAWPA and sub-contractors in data compilation and collection. Two
+    Lake User Surveys were conducted in April and May 2002 to assist RWQCB staff in
+    determination of nutrient numeric targets for the protection of recreation beneficial
+    uses. RWQCB staff continues the TMDL Workgroup meetings with stakeholders to
+    discuss TMDL progress and issues.
+
+•   Canyon Lake Nutrient TMDL
+    The problem statement for this TMDL was presented to RWQCB in October 2001.
+    In-lake monthly (fall/winter) and bimonthly (spring/summer) monitoring continued
+    from July 2001 through June 2002. Watershed sampling for source analysis was
+    conducted when precipitation resulted in runoff. The model developed for the
+    Lake Elsinore nutrient TMDL will also be utilized for developing this TMDL. RWQCB
+    staff continues the TMDL Workgroup meetings with stakeholders to discuss TMDL
+    progress and issues.
+
+•   Chino Creek, Cucamonga Creek, and Santa Ana River-Reach 3 Pathogen
+    TMDLs
+    RWQCB staff initiated the stakeholder process to develop consensus approach and
+    funding mechanism to support TMDL development. A monitoring plan for each of
+    the TMDLs was completed in December 2001, and monitoring was initiated in
+    January 2002. Weekly sampling occurred during January through March 2002.
+    SAWPA was awarded a second 205(j) grant to conduct additional studies and
+    develop a model that can be used for allocation determination for Chino Creek
+    pathogen TMDL. This model will also be utilized for developing pathogen TMDLs for
+    the Cucamonga Creek and Santa Ana River.
+
+Region 9: San Diego Region
+
+•   Rainbow Creek Nutrients TMDL
+    RWQCB conducted a public hearing to consider adoption of the proposed TMDL
+    Basin Plan amendment on May 8, 2002. At the hearing, RWQCB decided to leave
+    the hearing record open and postpone further consideration of the matter until after
+    SWRCB adopts the 2002 303(d) list. Staff is continuing to meet with key
+
+
+                                           22
+    stakeholders to resolve outstanding issues and revise the draft TMDL. Prior to the
+    public hearing, staff conducted three public workshops on the draft TMDL and
+    approximately 22 meetings with stakeholders.
+
+•   Shelter Island Yacht Basin Dissolved Copper TMDL
+    The draft TMDL report and implementation plan are currently undergoing internal
+    management review. Informal reviews by U.S. EPA and SWRCB staff are also
+    underway. RWQCB is expected to consider adoption of the TMDL and Basin Plan
+    amendment in the first quarter of 2003. Approximately seven public meetings and
+    12 meetings with key stakeholders have been held to date on the TMDL and related
+    issues. In July 2002, staff presented the TMDL at the 11th International Congress on
+    Marine Corrosion and Biofouling.
+
+    RWQCB is a member on the San Diego Advisory Committee for Environmentally
+    Superior Antifouling Paints, along with 12 other state, local, and private
+    organizations. The advisory committee, created by the Legislature in 2001, is
+    charged with advising U.C. on the development of a report to identify incentives to
+    promote the use of non-toxic coatings on recreational boats. The report, which will
+    form the basis of the economics analysis component of the TMDL, is due
+    December 31, 2002. Two related projects are also underway—the Non-Toxic Hull
+    Paint Demonstration Project by U.C./Sea Grant and the Diver Best Management
+    Practices Evaluation by SCCWRP. Both projects will facilitate implementation of the
+    TMDL.
+
+•   Chollas Creek Metals TMDL
+    The draft problem statement, numeric targets, and source analysis for this TMDL are
+    completed. Comments on these components have been received from U.S. EPA
+    and a stakeholder group. Staff is revising the drafts of load allocations, linkage
+    analysis and margin of safety in light of new data. Four public workshops and four
+    stakeholder/technical meetings on the draft TMDL have been conducted to date.
+
+•   Mission Bay Bacteria TMDL
+    The draft problem statement and numeric target components have been developed
+    and await internal review. Approximately $8 million of state and City of San Diego
+    funds have been committed to numerous projects to address elevated levels of
+    bacteria in Mission Bay. Staff participates in regular meetings with TMDL
+    stakeholders and in various committees charged with the design and oversight of the
+    supporting projects. Two of the projects, an Epidemiology Study and a Bacteria
+    Sources Identification Study, will provide critical information needed for the source
+    analysis component of the TMDL. Because the earliest project results will not be
+    available until 2004, it is anticipated that the RWQCB will consider adoption of this
+    TMDL in 2005.
+
+
+
+
+                                           23
+•   San Diego Bay - Near Chollas Creek and Seventh Street Channel Benthic
+    Community Degradation and Toxicity TMDLs
+    There are approximately 17 locations in San Diego Bay with known contaminated
+    bay sediment. To facilitate TMDL development and eventual site remediation and
+    cleanup, and to ensure bay-wide consistency, RWQCB staff has recommended
+    minimum requirements for site characterization and methodologies for data analysis
+    and for establishing sediment cleanup levels.
+
+    The areas of San Diego Bay near the mouths of Chollas Creek and Seventh Street
+    Channel are designated “toxic hot spots.” Draft problem statement and numeric
+    target components for these TMDLs have been developed. Site investigation is
+    needed to determine if the hotspots still exist and to determine the cause of
+    impairment. The initial site assessment began in July and August 2001. In
+    June 2002, the results from the study were presented to a committee of RWQCB
+    members, interested parties, and the public at the San Diego Bay Contaminated
+    Marine Sediments Assessment and Remediation public workshop. The results from
+    the initial extent and magnitude study will be used in the next phase of the site
+    assessment, which involves a TIE. It is anticipated that RWQCB will consider
+    adoption of these TMDLs in 2005.
+
+•   San Diego Bay – “B” Street and Broadway Piers, Near Grape Street, and
+    Switzer Creek Benthic Community Degradation and Toxicity TMDLs
+    These TMDLs also address the contaminated bay sediments at various “toxic
+    hotspots.” RWQCB will use all of its FY 2002-03 TMDL contract funds to conduct
+    the site assessment at these sites in San Diego Bay. Staff is currently reviewing the
+    sampling plan submitted by U.C. Davis scientists and working with SWRCB to
+    secure the contractual arrangements under a statewide master contract with U.C.
+    Meetings with the two key stakeholders, the San Diego Unified Port District and
+    City of San Diego, regarding cost sharing for the site characterization and sample
+    design are also underway. It is anticipated that RWQCB will consider adoption of
+    these TMDLs in 2007.
+
+
+TMDL Budget Allocations
+
+FY 2002-03 baseline budget for TMDL development contains $8.4 million in the
+General Fund and $3 million in federal grants. The budget for implementing TMDLs is
+$2.97 million in the General Fund. This funding is at the same level as FY 2000-01. In
+FY 2001-02, in addition to the baseline funding, SWRCB received a one-time federal
+grant (CWA section 106 grant) of $1.45 million for TMDL contract support. That amount
+was increased to $1.8 million for FY 2002-03. These are one-time federal grants that
+are determined on a yearly basis, depending on program priority for a given year.
+Therefore, they are not considered baseline resources for TMDL. The following tables
+explain the funding sources and the distribution of funds among SWRCB and the nine
+RWQCBs. Table 7 details annual budget augmentations for TMDL development since
+
+
+
+                                           24
+FY 1999-2000, the first year when federal and state funds were dedicated to developing
+TMDLs. Table 8 presents resources for TMDL implementation since FY 2000-01, the
+first time funds were appropriated for TMDL implementation activities. Table 9 shows
+FY 2002-03 distribution of TMDL baseline funds among organizations within SWRCB
+and RWQCBs.
+
+Because of the state’s fiscal difficulties, the California Department of Pesticide
+Regulation’s (DPR) budget supporting the development of pesticide-related TMDLs has
+been reduced by $1,425,000, from $3,480,000 in FY 2001-02 to $2,055,000 in FY 2002-
+03. This reduction includes 6.0 Personnel Years (PYs) at DPR whose work supported
+the development of TMDLs and $820,000 in annual contracts with RWQCBs.
+
+In April 2002, SWRCB submitted to the Legislature a report detailing a long-term
+strategy to develop TMDLs for all the waters on the 1998 303(d) list [Total Maximum
+Daily Load (TMDL) Program Water Quality Attainment Budget Strategy (January 2002)].
+The report was prepared pursuant to the requirements of the Supplemental Report of
+the 2001 Budget Act. In the report, SWRCB estimated that a total of 383 TMDL projects
+would be needed to address all water body/pollutant combinations (1,472) on the
+1998 303(d) list. The total cost for development and implementation of those TMDLs in
+a 12-year planning period was estimated at $467 million. However, as stated in
+Chapter II of this report, the proposed 2002 303(d) list contains more water bodies and
+water body/pollutant combinations than the 1998 list. Completion of all TMDLs
+required, based on the new list, will cost more than previously estimated.
+
+Table 7. TMDL Development Resources Annual Augmentation and Totals
+
+ Fiscal          Fund Source         Total Dollars           PYs       Staff Dollars      Contract
+  Year                                                                                    Dollars
+1999-00                                  $3,005,488           28.5       $3,005,488                  $0
+               Federal1
+               General Fund              $3,983,000           31.5       $2,323,000        $1,660,000
+                           Total     $6,988,448               60.0       $5,328,488        $1,660,000
+
+                                         $4,500,000           34.5       $3,100,000        $1,400,000
+2000-01        General Fund
+                        Total          $11,488,488            94.5       $8,428,488        $3,060,000
+
+                                         $1,450,000                0               0       $1,450,000
+2001-02        Federal2
+                           Total     $12,938,488         94.5            $8,428,488        $4,510,000
+
+               Federal2                                                           $0       $1,800,000
+2002-03                              $1,800,000          0
+                           Total     $13,288,488              94.5       $8,428,488        $4,860,000
+1
+    For the details of federal fund sources and amounts, see Table 6.
+2
+    These are one-time federal grants. The amount and the program to be funded by the grant are
+    determined by U.S. EPA each year, based on it’s program priority of a given year.
+
+
+
+                                                    25
+ Table 8. Implementation Resources Annual Augmentation and Totals
+
+     Fiscal Year   Fund Source         Total Dollars       PYs      Staff Dollars         Contract
+                                                                                          Dollars
+ 2000-02           General Fund        $2,970,000        21          $1,970,000         $1,000,000
+                                                                      $1,970,000           $1,000,000
+                             Total     $2,970,000        21
+
+ 2001-02                                          $0     0                    $0                 $0
+                                                                        $1,970,000          $1,000,000
+                             Total     $2,970,000        21
+
+ 2002-03                                        $0   0                        $0                 $0
+                             Total        $2,970,000          21        $1,970,000          $1,000,000
+
+ Table 9. FY 2002-03 Distribution of TMDL Development and Implementation
+          Baseline Resources
+
+Organization   Federal       Federal   Federal    General    General                Total     Total TMDL
+                (106)        (104b3)    (319h)     Fund       Fund                  TMDL        Dollars
+                Grant         Grant     Grant      Staff     Contract                PYs
+               Dollars       Dollars   Dollars    Dollars    Dollars
+     Region 1          0             0   272,718    867,196   325,399                  12.3    1,465,313
+     Region 2   236,276              0         0    701,270   228,399                  10.5    1,165,945
+     Region 3          0             0   295,444    598,672   224,928                  10.5    1,119,044
+     Region 4          0      677,580          0    687,282   305,599                  13.3    1,670,461
+     Region 5    88,604              0   431,803    995,090   780,399                  16.3    2,295,896
+     Region 6    29,535              0   193,175    591,875   257,799                   8.9    1,072,384
+     Region 7          0             0   124,996    508,124   226,599                   7.3      859,719
+     Region 8   236,276              0         0    657,566   283,799                   9.7    1,177,641
+     Region 9   236,276              0         0    491,945   237,079                   8.0      965,300
+          1
+      OCC              0             0         0    292,518          0                  2.9      292,518
+      DWQ        49,224        58,920     11,363 1,001,462 1,190,0002                  13.03   2,310,969
+     SWCAP4      24,297        13,500     25,501                                        0.0       63,298
+       TOTALS: $900,488      $750,000 $1,355,000 $7,393,000 $4,060,000                112.75 $14,458,488
+ 1
+   Office of the Chief Counsel.
+ 2
+   Statewide contract resources for development and implementation of preventative and corrective
+    actions for nonpoint source TMDLs consistent with the state’s Nonpoint Source Pollution Control
+    Program.
+ 3
+   Include 3 PYs located at San Francisco Bay, Los Angeles, and Lahontan RWQCBs who are responsible
+    for coordinating regional citizens monitoring efforts that support TMDL development and
+    implementation.
+ 4
+   Statewide Cost Allocation Plan represents General Fund recoveries of statewide general administrative
+    costs incurred by central service agencies from federal funding sources (Government Code sections
+    13332.01-13332.02).
+ 5
+   The difference between the total TMDL PYs (112.7) in this table and total authorized PYs for TMDL
+    program (as shown in Tables 7 and 8) is 2.8 PYs. These 2.8 PYs are allocated to Storm Water and
+    NPS programs for activities supporting TMDL development and implementation.
+
+
+                                                   26
+Action Plan Update
+
+The Action Plan has been established to ensure that the TMDL effort in California
+results in tangible water quality improvements in the shortest possible time, with the
+ultimate objective of restoring and maintaining water quality standards of the state’s
+waters. The purpose of the Action Plan is to identify strategies and specific actions to
+be taken to meet three goals: (1) improve TMDL program performance in California;
+(2) enhance communication among SWRCB, RWQCBs, and stakeholders; and
+(3) enhance collaboration and support among SWRCB, RWQCBs, and all stakeholders,
+including the public, regulated community, and other regulatory and resource agencies.
+
+Because the strategies and actions needed to support these goals are expected to
+change to some degree over time, the Action Plan is a dynamic planning document that
+is to be revised as needed to reflect progress. Edition 1.0, developed in October 2001
+and revised in December 2001, focused on strategies and actions to promote statewide
+TMDL efforts in the near-term. Edition 2.0, attached to this report as Appendix B, was
+revised in August 2002. This updated edition of the Action Plan is a continuation of
+these strategies and actions and reflects progress, new information, and unforeseen
+circumstances associated with implementing Edition 1.0. We will continue to review,
+update, and revise the strategies and actions annually. Most importantly, we will
+evaluate the strategies and actions relative to effectively and timely attainment of the
+goals of the TMDL Initiative and the ultimate objective to attain water quality standards.
+
+
+
+
+                                            27
+             IV. SURFACE WATER AMBIENT MONITORING PROGRAM
+
+A strong monitoring program is essential to the success of the TMDL program.
+Extensive monitoring data and information on the quality of the waters of the state are
+the backbone of the TMDL program. SWRCB’s SWAMP, once fully implemented, is
+intended to produce water quality data to improve RWQCBs’ abilities to list and delist
+303(d) waters.
+
+Program Overview
+
+Water Code section 13192 requires SWRCB to assess SWRCB’s and RWQCBs’
+surface water monitoring programs and to submit to the Legislature a proposal of a
+comprehensive surface water quality monitoring program. The report proposing
+SWAMP was submitted to the Legislature in November 2000. SWAMP was developed
+to (1) integrate the existing water quality monitoring activities of SWRCB and RWQCBs
+and (2) coordinate with monitoring programs of other agencies, dischargers, and citizen
+groups. Under SWAMP, SWRCB is responsible for statewide monitoring efforts and
+oversees RWQCB monitoring activities, while each RWQCB establishes monitoring
+priorities for the water bodies within its jurisdiction for site-specific monitoring. To
+ensure statewide consistency, SWAMP also specifies the protocols and methodologies
+to be used for sampling, data analysis and data reporting.
+
+SWAMP Funding
+
+Four existing SWRCB surface water monitoring programs have been included as part of
+SWAMP, i.e., the Toxic Substance Monitoring Program (TSMP), the State Mussel
+Watch Program (SMWP), and the Toxicity Testing Program (TTP) and the Coastal Fish
+Contamination Program (CFCP). The baseline budget for these four programs in FY
+2000-01 was 8.5 PYs and $1,234,000 in contract support. In FY 2000-01, SWRCB’s
+budget was augmented by 10.5 PYs and $3.6 million in contract funds to support and
+expand the implementation of ambient monitoring, bringing the total funding for SWAMP
+in FY 2000-01 to 19 PYs and $4,834,000 in contract. Due to the state’s fiscal
+difficulties, baseline funding for TSMP, SMWP and TTP was reduced by $250,000 in
+contract support in FY 2001-02. SWAMP contract resources were further reduced by
+$250,000 in FY 2002-03 for other ambient monitoring activities. Table 10 shows the
+funding history for SWAMP, and Table 11 details the distribution of FY 2002-03
+SWAMP funds among SWRCB and RWQCBs.
+
+In our November 2000 report to the Legislature proposing SWAMP, SWRCB estimated
+that the annual cost to fully implement SWAMP ranged from approximately $59 million
+to $115 million, including 87 to 132 PYs at SWRCB and RWQCBs. At current funding
+level, only a small portion of SWAMP can be implemented, and RWQCBs are focusing
+the resources where monitoring information is most needed to support their program
+priorities.
+
+
+
+
+                                           28
+Table 10. General Fund Resources for SWAMP
+
+    Fiscal                                                               OTHER
+                              TSMP, SMWP &
+     Year                                                CFCP           AMBIENT            SWAMP TOTAL
+                                  TTP
+                                                                       MONITORING
+                             PYs     Contract     PYs    Contract PYs        Contract     PYs Contract
+2000-01 Baseline              5.5                   3     $374,000  0                   0 8.5 $1,234,000
+                                     $860,000
+             Augmentation        0           0       0           0 10.5 $3,600,000 10.5 $3,600,000
+                 Total         5.5    $860,000       3    $374,000 10.5 $3,600,000   19 $4,834,000
+
+2001-02 Baseline               5.5     $860,000      3   $374,000 10.5 $3,600,000           19 $4,834,000
+        Reduction                0   ($250,000)      0 ($144,000)1   0          0            0 ($394,000)
+             Total             5.5     $610,000      3   $230,000 10.5 $3,600,000           19 $4,440,000
+
+2002-03 Baseline               5.5    $610,000       3    $230,000 10.5 $3,600,000          19 $4,440,000
+        Reduction                0           0       0                  ($250,000)           0  (250,000)
+             Total             5.5    $610,000       3    $230,000 10.5 $3,350,000          19 $4,190,000
+1
+    This amount was deducted from SWRCB budget and included in the budget of the Office of
+    Environmental Health Hazard Assessment for its work of assessing human health risks using the data
+    collected by CFCP.
+
+
+
+Table 11. Distribution of FY 2002-03 SWAMP Funds
+
+             ORGANIZATION                         PYs                          CONTRACT
+                 Region 1                          1.8                          $417,280
+                 Region 2                          1.5                          $320,565
+                 Region 3                          1.3                          $350,565
+                 Region 4                          1.4                          $364,526
+                 Region 5                          2.5                          $861,391
+                 Region 6                          1.3                          $352,526
+                 Region 7                          1.0                          $308,565
+                 Region 8                          1.0                          $289,791
+                 Region 9                          1.2                          $289,791
+                 SWRCB                             6.0                          $635,000
+                  Total                           19.0                         $4,190,000
+
+
+SWAMP Progress
+
+It is important to recognize that SWAMP is still in its infancy. Extensive planning and
+preliminary research activities were conducted during 1999, 2000, and 2001 to provide
+the guidance and framework to create an effective surface water quality ambient
+monitoring program for all of California's surface waters. Field-monitoring activities in
+accordance with SWAMP began in FY 2001-02 and focused on target monitoring.
+
+
+
+                                                    29
+Guidance documents were prepared by SWRCB to provide a framework within which
+the RWQCBs could develop region-specific SWAMP projects. RWQCB SWAMP
+workplans for FY 2002-03 have been completed, in which staff identified the water
+bodies to be monitored in the fiscal year.
+
+The Water Quality Monitoring Coordinating Committee (WQMCC) was established,
+consisting of SWRCB and RWQCB SWAMP staff and representatives from DFG and
+U.C. WQMCC meets regularly to discuss SWAMP activities and address existing and
+potential issues. One of the primary focuses of WQMCC’s 2002 meetings has been the
+development of a QAPP, which is critical to ensure high quality of data. SWAMP
+sponsored a number of scientific workshops on quality assurance in 2002. Topics for
+these workshops included sample collection and field data measurement, laboratory
+analytical methodology and quality assurance/quality control issues, biological
+assessment and toxicity testing issues, and data management issues. Resolutions of
+many of these issues are evolving from the discussions held at these workshops and
+WQMCC meetings.
+
+Data Management
+
+SWAMP was developed with the objective of collecting high quality monitoring data to
+be used by SWRCB and RWQCB programs. Data management, evaluation, and
+reporting are high priorities of SWAMP. SWAMP database is being developed through
+a contract with the San Jose State University, which, once in operation, will be the
+central depository of all data collected by SWAMP with links to other available
+databases. This database will eventually be included in SWRCB’s System for Water
+Information Management.
+
+Scientific Review of SWAMP
+
+SWAMP has organized an external scientific panel, the Scientific Planning and Review
+Committee (SPARC), to review study design, approaches, indicators, and other relevant
+topics. SPARC members are representatives from federal and state agencies and
+academics with expertise in the fields that include monitoring program management,
+fish habitat, invertebrates, sediment, organic chemistry, metals chemistry, quality
+assurance, pathogens, toxicology, and statistics, etc.
+
+SPARC held a two-day meeting in May 2002, at which staff from the nine RWQCBs
+gave presentations on past and future SWAMP activities within each region. One major
+comment from SPARC members at the meeting was that statewide data comparability
+needs to be the first step towards statewide consistency for SWAMP. Statewide data
+comparability means that ambient water quality measurements taken in one part of the
+state can be directly compared with like measurements taken in other parts of the state.
+Data comparability in SWAMP is being achieved through requirements in SWAMP
+QAPP. Statewide data comparability issues and other comments and
+recommendations in SPRAC report will be the subject of future WQMCC meetings.
+
+
+
+
+                                           30
+Current Monitoring Activities
+
+Because of the budget constraints, SWRCB and RWQCBs have been implementing
+SWAMP by primarily focusing on site-specific monitoring to better characterize problem
+sites or clean locations (reference sites) to meet each RWQCB’s needs for
+303(d) listing, TMDL development, and other core regulatory programs. Some of the
+monitoring activities under SWAMP for FY 2002-03 are conducted through contracts
+and interagency agreements with a number of organizations, such as DFG and USGS.
+Approximately $2 million is allocated to the master contract with DFG, and $250,000 is
+allocated to the master contract with USGS.
+
+Another major component of SWAMP– the overall status and trends of the state’s
+surface water quality–will be implemented in the future if additional funds are made
+available. Until then, RWQCBs will continue to use SWAMP resources to address high
+priority water quality issues in each region, while following SWAMP protocols to ensure
+statewide data comparability.
+
+The following describes the surface water monitoring program currently being
+implemented at each RWQCB under the umbrella of SWAMP, with maps that identify
+the watersheds where monitoring activities have occurred or have been scheduled
+between FY 2001-02 and FY 2002-03. Specific water bodies being monitored and
+monitoring locations for each RWQCB is provided in Appendix C. At the end of
+FY 2002-03, samples will have been collected and analyzed for 480 water bodies
+located in 76 of the state’s 172 watersheds (hydrological units).
+
+
+
+
+                                          31
+Colored areas are watersheds with monitoring activities. See following regional maps
+and Appendix C for list of watersheds, water bodies and monitoring locations.
+
+
+
+                                          32
+Region 1: North Coast Region
+
+The North Coast region has thousands of stream miles most of which have little or no
+assessment information. Much of the water quality data is confined to the
+Russian River basin or to a limited number of specific sites, collected as a result of
+discharger self-monitoring requirements, cleanup activities, or enforcement actions.
+With the exception of the Russian River and a few of its tributaries, there is no long-term
+data on any water body in the region.
+
+Data collected through SWAMP in this region will be used to identify temporal trends in
+water quality in water bodies for which there currently exists little or no data. This effort
+is coordinated with RWQCB’s core regulatory program, north coast watershed
+assessment program, nonpoint source program, and TMDL program. The core
+regulatory program is currently using the draft monitoring data collected by SWAMP to
+implement the California Toxics Rule. Information collected by SWAMP is also being
+used to establish receiving water data for NPDES discharges.
+
+The North Coast RWQCB is on a very tight time schedule to establish a number of
+TMDLs as a result of a court-ordered consent decree. SWAMP is used to collect data
+in support of these efforts. Draft nutrient data is currently being used to assist U.S. EPA
+in establishing TMDLs for the Eel River. RWQCB also plans to fund an infrared thermal
+imaging study of the Scott and Shasta river basins with SWAMP funds to support the
+watershed assessment program and TMDL efforts in these watersheds. SWAMP has
+also provided resources for the installation and maintenance of three new stream gages
+in the Eel River watershed where information on stream flow and sediment load is
+urgently needed as development of TMDLs is currently underway.
+
+
+
+
+                                             33
+See Appendix C for list of water bodies and monitoring locations.
+
+
+
+
+                                           34
+Region 2: San Francisco Bay Region
+
+The goal of SWAMP in the San Francisco Bay region is to monitor and assess all water
+bodies of the region in order to identify reference sites (clean sites) and water bodies or
+sites that are impaired, based on data and information that provide a weight-of-evidence
+assessment of water quality. The San Francisco Bay RWQCB has developed a
+Regional Monitoring and Assessment Strategy (RMAS) in order to develop information
+for all water bodies in the region for the report required by CWA section 305(b) [305(b)
+report] and the 303(d) list. SWAMP resources are used to implement the RMAS. The
+selection and schedule of watersheds to be monitored are based on a number of
+factors. Overall, RWQCB is seeking geographic balance in the region in committing its
+monitoring resources. Watersheds monitored in the beginning years of the program
+tended to involve time-sensitive issues such as endangered species habitat (e.g.,
+salmonids) or imminent development plans. In some instances, paired watersheds,
+which are close geographically and have similar land use and geology, are chosen for
+monitoring.
+
+SWAMP funds are used to concentrate on monitoring watersheds, lakes/reservoirs, and
+bays and estuaries in this region other than the San Francisco Bay, which is currently
+monitored through the San Francisco Estuary Regional Monitoring Program. SWAMP
+monitoring will be used to evaluate beneficial uses in this region, through the use of
+water quality indicators.
+
+The data collected as a result of SWAMP monitoring will be used to identify impaired
+water bodies and the cause of impairment for the 303(d) list, identify reference
+conditions, and establish baseline conditions to evaluate future land use changes.
+SWAMP data will also be used to determine if there is an association between land use
+and water quality impacts, evaluate methods to develop the best approach for
+watershed assessments, and develop indices (i.e., the Index of Biological Integrity).
+
+
+
+
+                                            35
+See Appendix C for list of water bodies and monitoring locations.
+
+
+
+
+                                           36
+Region 3: Central Coast Region
+
+SWAMP activities in this region are incorporated in RWQCB’s Central Coast Ambient
+Monitoring Program. Primary issues to be addressed in this region are related to
+nonpoint source pollution associated with row crop agriculture, vineyards, rangeland,
+and timber harvest. Urban runoff problems are increasing in some parts of the region.
+Nutrients, sedimentation, pesticides, and pathogens are the primary causes for
+303(d) listings in the region. The goal of SWAMP monitoring in this region is to provide
+a screening level assessment of water quality based on a variety of indicators. The plan
+to carry out this goal includes several components: Coastal Confluences, Nearshore
+Assessment, and Watershed Characterization.
+
+Coastal Confluences monitoring establishes ongoing monitoring sites at the lower ends
+of thirty major creeks and rivers right above tidal influence. This component provides
+trend data across the entire region, giving information on the nature of inputs to the
+ocean, which helps to prioritize problem watersheds. Nearshore Assessment focuses
+on how inputs from river mouths impact the nearshore environment and is being closely
+tied to Coastal Confluences data. The Watershed Characterization component is
+conducted in a five-year rotational cycle. Additional “focused” monitoring sites are
+placed at other locations of interest in the watershed, such as above and below specific
+land uses, point sources, BMPs, or other areas in need of characterization.
+
+The data collected as a result of SWAMP monitoring will be used in some cases to
+determine whether water bodies warranted listing on the 303(d) list. At sites along the
+mainstem and at the lower ends of major tributaries of streams and rivers, some of the
+monitoring will provide indications of water quality degradation for anadromous fish
+species, using fish toxicity testing, benthic community analysis, habitat condition, and
+physical and chemical water condition.
+
+
+
+
+                                           37
+See Appendix C for list of water bodies and monitoring locations.
+
+
+
+
+                                           38
+Region 4: Los Angeles Region
+
+SWAMP sampling and analysis in the Los Angeles region will be used to assess the
+ambient conditions of the watersheds in Los Angeles and Ventura counties and will
+further delineate the nature, extent, and sources of toxic pollutants which have been
+detected or are suspected to be problematic for this region and its individual
+watersheds. Where applicable, a triad approach (benthic community analysis, water
+chemistry, and toxicity testing) is being used. The monitoring will also help to identify
+pristine conditions where no pollutants or contaminants are found.
+
+Although the overall goal of SWAMP is to assess the ambient conditions of the
+watersheds, each watershed in the region is unique, and the design of the monitoring
+program and goals reflect this individuality. For example, the primary objective of
+monitoring in the Santa Clara watershed is to provide a broad baseline of the overall
+health of the watershed. Additional sub-objectives include determination of beneficial
+use attainment, filling in data gaps where data is either inconsistent or incomplete, and
+identification of potential reference sites for this watershed. A broad suite of parameters
+will be tested at the various stations to meet the needs of each unique watershed. In
+addition to the assessment of the ambient conditions of targeted watersheds, data
+collected by SWAMP will be used to develop the 305(b) report, 303(d) list and TMDLs,
+and for NPDES permit renewals. The information gathered will also be used in trend
+analysis, identification of impaired beneficial uses, as well as potentially in the
+development of an index of biological integrity.
+
+SWAMP funds were focused in FY 2000-01 on monitoring in the Santa Clara-Calleguas
+hydrologic unit, and in FY 2001-02 on approximately 30 coastal sub-watersheds of the
+Malibu and Los Angeles-San Gabriel hydrologic units. Many of these sub-watersheds
+had not been sampled at all and others had been sampled modestly at best. In
+FY 2002-03, SWAMP resources are focusing on the Dominguez Channel and
+Los Angeles and Long Beach harbors. The focus of sampling is on basic and
+conventional water column chemistry, bacteriology, and bioassessment at most
+stations, with a major focus on bioassessment which historically has been overlooked.
+
+
+
+
+                                             39
+See Appendix C for list of water bodies and monitoring locations.
+
+
+
+
+                                           40
+Region 5: Central Valley Region
+
+Three major watersheds—Sacramento River, San Joaquin River, and Tulare Lake
+Basin—have been delineated within the Central Valley region, which stretches from the
+Oregon border to the northern tip of Los Angeles County. Since each watershed has
+both a unique set of stakeholders and unique water quality concerns that must be
+addressed, the management process and the accompanying monitoring program are
+watershed specific.
+
+In the upper Sacramento River watershed, water quality issues principally relate to
+nonpoint source pollution resulting from past and current land management practices.
+These practices include livestock grazing, irrigated and non-irrigated agriculture, road
+and building construction, timber harvest, urban runoff, abandoned and inactive mines,
+and hydro-modification (i.e., dams, diversions, and stream channel disturbances). The
+overall SWAMP objective for this watershed is to evaluate the extent of water quality
+and beneficial use impairment.
+
+The lower Sacramento River watershed contains over 5,700 miles of agriculturally
+dominated water bodies (ADWs). An ADW is a water body receiving greater than
+50 percent of the flow from agricultural discharges during a significant portion of the
+irrigation season. Baseline aquatic community composition in these ADWs is largely
+unknown. In the fall of 2000, the Central Valley RWQCB undertook a SWAMP
+biological monitoring project in ADWs and effluent dominated water bodies (EDWs) of
+the Sacramento River watershed. This two-year project was intended to identify
+baseline aquatic community composition and assess the habitat condition at 45 sites,
+and to move towards identification of biological indicators of water quality in wadeable
+ADWs and EDWs of the lower Sacramento River watershed.
+
+In the San Joaquin River watershed, SWAMP builds upon a monitoring framework
+developed as part of the agricultural subsurface drainage management program that
+has evolved since 1985. In addition, the watershed has been divided into five
+sub-basins to facilitate expanded monitoring within each sub-basin on a five-year
+rotational basis. SWAMP resources are being utilized for targeted sampling activities to
+better characterize the extent and source of known and suspected water quality
+impairments. Findings will be used to focus future control efforts and evaluate potential
+listing and delisting of 303(d) water bodies.
+
+Point and nonpoint sources of pollution resulting from historical and current land use
+dominate water quality concerns in the Tulare Lake Basin. These uses include
+industrial processes, livestock grazing, dams, recreation, irrigated agriculture, confined
+animal facilities, and foothill and urban development. To date, there has been no
+comprehensive monitoring or assessment initiated for surface waters in this watershed.
+The overall objective of SWAMP for the Tulare Lake Basin is to identify reference and
+baseline surface water conditions, assess water quality and beneficial use
+impairment/support, provide data for impaired water body listings, and determine if there
+is an association between land use and water quality impacts.
+
+
+
+
+                                            41
+See Appendix C for list of water bodies and monitoring locations.
+
+
+
+
+                                           42
+Region 6: Lahontan Region
+
+The Lahontan region spans eastern California from the Oregon border in the north to
+the Mojave Desert in the south. SWAMP is the only significant source of ambient
+monitoring funds currently available to this region, as there are few regulated industrial
+or municipal dischargers to provide substantial monitoring information. The Lahontan
+RWQCB is using its SWAMP funds to establish a core network of long-term water
+monitoring stations throughout the region, primarily at locations where discrete numeric
+water quality objectives have long been established but little or no monitoring has
+occurred. This approach will allow the RWQCB to make more rapid and definitive
+assessments of the extent to which water quality standards are met or violated.
+
+The objectives of SWAMP at this region are twofold. The first objective is to determine,
+using a broadly dispersed, region-wide network of sampling stations, whether ambient
+water quality for the monitored sites achieves the chemical and physical water quality
+objectives stipulated in the Basin Plan. The second objective is to continue an effort
+begun in 1999 to establish “reference conditions,” and eventually develop indices of
+biological integrity, for streams in the eastern Sierra Nevada based on instream benthic
+macroinvertebrate and algae assemblages. Bioassessment monitoring is focused on
+the hydrological units in the center of the region in an effort to develop biological
+reference conditions for streams in the eastern Sierra ecoregion.
+
+
+
+
+                                            43
+See Appendix C for list of water bodies and monitoring locations.
+
+
+
+
+                                           44
+Region 7: Colorado River Basin Region
+
+Most surface waters in the Colorado River Basin region are located in the Imperial
+Valley and East Colorado River Valley, with a few in the Coachella Valley, Lucerne
+Valley, and Hayfield planning areas. Therefore, SWAMP implementation in the region
+is focusing on the Imperial Valley and East Colorado River Valley.
+
+SWAMP is implemented in each hydrologic area of the region over a five-year period.
+The site-specific goal is to monitor and assess the physical, chemical, and biological
+quality of the region’s surface waters. Efforts will concentrate on the Alamo River, given
+that the Alamo River Sedimentation/Siltation TMDL is the first TMDL that will be
+implemented in Imperial Valley. The use of BMPs to control silt runoff will take place
+within the next five years. Ambient monitoring information collected now and during
+implementation will be used to measure the effectiveness of BMPs. Furthermore,
+several constituents of concern that are transported with silt may be affected by BMPs.
+Monitoring will determine if implemented BMPs are reducing the amount of silt and the
+loading of other contaminants.
+
+RWQCB staff selected monitoring sites based on protecting beneficial uses, taking into
+consideration the factors such as historical information, site location, information
+currently being collected, and future plans for implementation of BMPs. Locations that
+exhibited high concentrations of contaminants (e.g., selenium, pesticides, bacteria)
+were selected to monitor the progression of these pollutants. Similarly, sites in critical
+areas with regional significance (e.g., international boundary, diversion points, state
+borders, source waters) were also included.
+
+SWAMP will provide a comprehensive view of changes that occur with BMP
+implementation and help develop a bioassessment program specific to the region. The
+information collected through SWAMP will also be used to prepare the 305(b) report
+and 303(d) list and to support RWQCB’s Basin Planning activities and complement
+other programs and studies conducted in the region.
+
+
+
+
+                                            45
+See Appendix C for list of water bodies and monitoring locations.
+
+
+
+
+                                           46
+Region 8: Santa Ana Region
+
+A comprehensive monitoring program is needed in the Santa Ana region to determine if
+the water quality objectives and/or beneficial uses are being attained in the receiving
+water bodies in this region. SWAMP activities in the region for FY 2000-01 through
+FY 2002-03 involve sampling in Anaheim Bay, Huntington Harbor, Lake Elsinore, and
+Canyon Lake. Sampling at Big Bear Lake is planned for FY 2004-05.
+
+The general monitoring approach in this region involves applying a random sampling
+design to each water body being studied. Sampling activities include collecting surficial
+sediment samples for toxicity, benthic community and sediment chemistry analyses;
+and water column samples for toxicity and bacteria analyses. Furthermore, the water
+quality indicators are specific for each water body type and relate to the specific
+beneficial use being studied. This design, along with consistent sampling and analytical
+protocols, will not only allow RWQCB staff to determine whether each water body is
+attaining the beneficial uses but also allow for comparison among the different water
+bodies being studied in the region.
+
+The data gathered by these activities will be used to prepare the region’s 305(b) report,
+update the 303(d) list, support other regulatory programs at the RWQCB, and determine
+the need to do focused studies in the future.
+
+
+
+
+                                           47
+See Appendix C for list of water bodies and monitoring locations.
+
+
+
+
+                                           48
+Region 9: San Diego Region
+
+The creation of SWAMP has allowed the San Diego RWQCB to begin ambient
+monitoring on a five-year rotational basis in the region. This approach ensures that at
+the end of a five-year period there will have been monitoring activities in each of the
+watersheds in the region.
+
+The primary objectives for SWAMP monitoring in this region include identifying the
+spatial extent of degraded sediment locations in rivers, lakes, nearshore waters,
+enclosed bays, and estuaries. Other objectives include monitoring sites influenced by
+point sources (e.g., storm drains, publicly owned treatment works, etc.) and those
+influenced by nonpoint sources of pollutants. In order to accomplish the objectives, the
+RWQCB plans to use the following indicators: biological response (sediment and water
+toxicity); pollutant exposure (fish tissue chemistry, nutrients, inorganic and organic water
+chemistry); and habitat (sediment grain size and gradations, hydrogen sulfide, and
+ammonia).
+
+SWAMP monitoring in the San Diego region is intended to provide reliable, high quality
+information necessary to produce the 305(b) report and 303(d) list that are more
+comprehensive and more defensible than those of past years.
+
+
+
+
+                                            49
+See Appendix C for list of water bodies and monitoring locations.
+
+
+
+
+                                           50
+

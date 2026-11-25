@@ -1,0 +1,454 @@
+                                                                            As adopted by Resolution 2003­0064
+
+
+
+
+                             CALIFORNIA CODE OF REGULATIONS
+             TITLE 23. Division 3. Chapter 9. Waste Discharge Reports and Requirements
+                                           Article 1. Fees
+
+Section 2200. Annual Fee Schedules
+
+Each person for whom waste discharge requirements have been prescribed pursuant to section 13263 of
+the Water Code shall submit, to the State Board, an annual fee in accordance with the following
+schedules. The fee shall be submitted for each waste discharge requirement order issued to that person.
+
+An Ambient Water Monitoring (AWM) surcharge will be added to each individual fee. The AWM
+surcharge for all discharges pursuant to section (a) Non­ National Pollutant Discharge Elimination System
+(NPDES) and (c) Confined Animal Feeding Operations (CAFO) is 9% of the calculated fee; the surcharge
+for all discharges pursuant to section (b) NPDES is 18.5% of the calculated fee. The surcharge shall be
+applied to all permits prior to other surcharges prescribed herein.
+
+(a) Non­NPDES fees: Annual fees for persons issued waste discharge requirement orders for discharges
+to land under the Waste Discharge Requirements1 or surface waters not covered by a NPDES permit and
+Land Disposal2 Programs, shall be based on the discharge’s fee rating according to the following
+schedule, plus applicable surcharge(s), except as provided in subdivisions (a)(2) and c.
+
+                      ANNUAL FEE SCHEDULE FOR DISCHARGES TO LAND
+
+           Threat to Water                                               Regulatory Programs
+                                      Complexity
+               Quality                                       Waste Discharge
+                                       (CPLX)
+              (TTWQ)                                         Requirements1                  Land Disposal2
+                     1                       A                      $38,000                      $26,0003
+                     1                       B                      $24,000                      $21,000
+                     1                       C                      $12,950                      $13,500
+                     2                       A                       $8,650                      $11,250
+                     2                       B                       $5,200                       $9,000
+                     2                       C                       $3,900                       $6,750
+                     3                       A                       $3,380                       $4,500
+                     3                       B                       $1,800                       $3,375
+                     3                       C                        $800                        $1,500
+
+
+
+1
+  Waste Discharge Requirements (WDRs) are those discharges of waste to land that are regulated through waste discharge
+requirements issued pursuant to Water Code Section 13263 and that do not implement the requirements of Title 27 of the
+California Code of Regulations (CCR). Examples include, but are not limited to, wastewater treatment plants, erosion control
+projects, and septic tank systems.
+2
+  Land Disposal WDRs are those discharges of waste to land that are regulated through waste discharge requirements issued
+pursuant to Water Code Section 13263 and that implement the requirements of CCR Title 27. Examples include, but are not
+limited to both active and closed landfills and surface impoundments.
+3
+  A surcharge of $12,000 will be added for Class I Landfills. Class I landfills are those that, during the time they are, or were, in
+operation, are so classified by the RWQCB under 23 CCR Chapter 15, have WDRs that allow (or, for closed units, allowed) them
+to receive hazardous waste, and have a permit issued by the Department of Toxic Substance Control under 22 CCR Chapter 10,
+§66270.1 et seq.
+                                                                       1
+                                                              As adopted by Resolution 2003­0064
+
+
+
+
+(a)(1) Threat to water quality TTWQ and complexity CPLX of the discharge is assigned by the Regional
+Board in accordance with the following definitions:
+
+
+                                  THREAT TO WATER QUALITY
+
+   Category “1” – Those discharges of waste that could cause the long­term loss of a designated
+   beneficial use of the receiving water. Examples of long­term loss of a beneficial use include the loss
+   of drinking water supply, the closure of an area used for water contact recreation, or the posting of an
+   area used for spawning or growth of aquatic resources, including shellfish and migratory fish.
+   Category “2” – Those discharges of waste that could impair the designated beneficial uses of the
+   receiving water, cause short­term violations of water quality objectives, cause secondary drinking
+   water standards to be violated, or cause a nuisance.
+   Category “3” – Those discharges of waste that could degrade water quality without violating water
+   quality objectives, or could cause a minor impairment of designated beneficial uses as compared with
+   Category 1 and Category 2.
+
+                                            COMPLEXITY
+
+   Category “A” – Any discharge of toxic wastes, any small volume discharge containing toxic waste or
+   having numerous discharge points or ground water monitoring, or any Class 1 waste management
+   unit.
+   Category “B” – Any discharger not included above that has physical, chemical, or biological
+   treatment systems (except for septic systems with subsurface disposal), or any Class 2 or Class 3
+   waste management units.
+   Category “C” – Any discharge for which waste discharge requirements have been prescribed pursuant
+   to Section 13263 of the Water Code not included as a Category “A” or Category “B” as described
+   above. Included would be discharges having no waste treatment systems or that must comply with
+   best management practices, discharges having passive treatment and disposal systems, or dischargers
+   having waste storage systems with land disposal.
+
+
+
+
+                                                         2
+                                                                                As adopted by Resolution 2003­0064
+
+
+
+
+(a)(2) Dredge and Fill Operation fees shall be assessed as follows, not to exceed $40,000, plus applicable
+surcharge(s)4.
+
+                                       Type of Discharge                                                                Fees
+                      5
+(i) Fill & Excavation Discharges.                                                                           $500 Base Price + (Discharge
+Size of the area as expressed in hundredths of acres (0.01 acre) (436 square feet) rounded up.              area in hundredths of an acre
+                                                                                                            x $21.50)
+(ii) Dredging Discharges                                                                                    $500 Base Price + (Dredge
+Dredge volume expressed in Cubic Yards.                                                                     volume in cubic yards x
+                                                                                                            $0.08)
+(iii) Channel and Shoreline Discharges                                                                      $500 Base Price + (Discharge
+Includes linear discharges to drainage features and shorelines, e.g., bank stabilization, revetment         length in feet x $5.00)
+and channelization projects.
+ (Note): The fee for channel and shoreline linear discharges will be assessed under the “Fill and
+Excavation” or “Channel and Shoreline” schedules, whichever results in the higher fee.
+(iv) Discharges to Non­federal (e.g. “Isolated“) Waters.                                                    Double the applicable fee
+Discharges to waters or portions of waterbodies not regulated as “waters of the United States”,             schedules except for (vi)
+including waters determined to be “isolated” pursuant to the findings of Solid Waste Agency of              restoration projects
+Northern Cook County v. U.S. Army Corps of Engineers (2001) 121 S. Ct. 675.
+(v) Low Impact Discharges.                                                                                  $500 Flat fee.
+Projects may be classified as low impact discharges if they meet all of the following criteria:
+1. The discharge size is less than all of the following: (a) for fill, 0.1 acre, and 200 linear feet, and
+(b) for dredging, 25 cubic yards.
+2. The discharger demonstrates that:(a) all practicable measures will be taken to avoid impacts,
+(b) where unavoidable temporary impacts take place, waters and vegetation will be restored to
+pre­project conditions as quickly as practicable, and (c) where unavoidable permanent impacts
+take place, there will be no net loss of wetland, riparian area, or headwater functions, including
+onsite habitat, habitat connectivity, floodwater retention, and pollutant removal.
+3. The discharge will not do any of the following: (a) directly or indirectly destabilize a bed of a
+receiving water, (b) contribute to significant cumulative effects, (c) cause pollution,
+contamination, or nuisance, (d) adversely affect candidate, threatened, or endangered species, (e)
+degrade water quality or beneficial uses, (f) be toxic, (g) include "hazardous" or "designated"
+material.
+4. Discharge is to a waterbody regulated as “Waters of the United States”.
+(vi) Restoration Projects.                                                                                  $500 Flat fee
+Projects funded or sponsored by a government program with the primary purpose of restoring or
+enhancing the beneficial uses of water. This schedule does not apply to projects required under a
+regulatory mandate or to projects undertaken primarily for some other non­restorative purpose,
+e.g., land development.
+(vii) General Orders.                                                                                       $60 Flat Fee
+Projects which are required to submit notification of a proposed discharge to the State and/or
+Regional Board as a condition of compliance with a general waste discharge requirement
+associated with permitting discharges authorized by a federal general permit or license, e.g., a
+U.S. Army Corps of Engineers nationwide permit.
+
+
+
+
+4
+  When a single project includes multiple discharges within a single dredge and fill fee category, the fee for that category
+shall be assessed based on the total area, volume, or length of discharge (as applicable) of the multiple discharges. When a
+single project includes discharges that are assessed under multiple fee categories, the total fee shall be the sum of the fees
+assessed under each applicable fee category; however a $500 base fee, if required, shall be charged only once.
+5
+  “Excavation” refers to moving sediment or soil in shallow waters or under no­flow conditions where impacts to
+beneficial uses are best described by the area of the discharge. It typically is done for purposes other than navigation.
+Examples include trenching for utility lines, other earthwork preliminary to construction, removing sediment to increase
+channel capacity, and aggregate mining in fresh waters.
+                                                                           3
+                                                               As adopted by Resolution 2003­0064
+
+
+
+
+ (b) NPDES fees: Annual fees for persons issued permits for discharges to surface waters pursuant to the
+program, except confined animal feeding operations, shall be based on the following schedules.
+
+ (b)(1) Each public entity that owns and/or operates a storm water conveyance system, or part of such a
+system, that is subject to a NPDES permit for storm water discharges from a municipal separate storm
+sewer system (MS4) shall pay an annual fee according to the following schedule, plus applicable
+surcharge(s). The fee shall be based on the population of the public entity according to the most recently
+published United States Census. For public entities other than cities or counties, the population figure
+shall be the number of people using the entity’s facilities on a daily basis. Flood control districts or other
+special districts named as co­permittees to MS4 permits and school districts, serving students between
+kindergarten and fourteenth grade, shall not pay an annual fee if the city or county within whose
+jurisdiction the district lies, pays an annual fee.
+
+
+                ANNUAL FEE SCHEDULE FOR AREAWIDE MUNICIPAL STORM
+                  WATER SEWER SYSTEM PERMITS AND CO­PERMITTEES
+
+             Population equal to or greater than 250,000                         $25,000
+
+             Population between 200,000 and 249,999                              $21,875
+
+             Population between 150,000 and 199,999                              $18,875
+
+             Population between 100,000 and 149,999                              $15,625
+
+             Population between 75,000 and 99,999                                $12,500
+
+             Population between 50,000 and 74,999                                 $9,375
+
+             Population between 25,000 and 49,999                                 $6,250
+             Population between 10,000 and 24,999                                 $3,750
+             Population between 1,000 and 9,999                                   $2,500
+
+             Less than 1,000 population                                           $1,250
+
+             Statewide Permit Holders                                            $100,000
+
+
+
+(b)(2) Storm water discharges associated with industrial activities that are regulated by a general NPDES
+storm water permit, including those issued by a Regional Board, shall pay an annual fee of $700, plus
+applicable surcharge(s). An amount equal to the fee prescribed shall be submitted with the discharger’s
+Notice of Intent (NOI) to be regulated under a general NPDES permit and will serve as the first annual
+fee. For the purposes of this section, an NOI is considered to be a report of waste discharge.
+
+
+
+                                                           4
+                                                                      As adopted by Resolution 2003­0064
+
+
+
+
+(b)(3) Storm water discharges associated with construction activities that are regulated by a general
+NPDES storm water permit other than those covered under (b)(4), including those issued by a Regional
+Board, shall pay an annual fee of $200 plus $20 per acre, to a maximum fee of $2,200, plus any
+applicable surcharge, based on the total acreage listed on the NOI. An amount equal to the fee prescribed
+shall be submitted with the discharger’s NOI to be regulated under a general NPDES permit and will
+serve as the first annual fee. For the purposes of this section, an NOI is considered to be a report of waste
+discharge.
+
+(b)(4) Storm water discharges associated with small linear underground and overhead construction
+projects, that include but are not limited to, any conveyance, pipe or pipeline for the distribution of any
+gaseous liquid (including water for domestic municipal services or wastewater), liquescent, or slurry
+substance; any cable line or wire for the transmission of electrical energy; and any cable line or wire for
+communications, that are regulated by a general NPDES storm water permit are subject to the following
+annual fees, plus applicable surcharge(s):
+
+Tier 1 –$5,000 for each region in which activities subject to the permit are conducted, or
+Tier 2 –A fee as prescribed by (b)(3), based on the area covered by the project.
+
+ (b)(5) All other NPDES permitted discharges with permitted flows of less than 100 million gallons per
+day (mgd) except as provided in (b)(6), (b)(7), (b)(8), (b)(9) and c, shall pay a fee according to the
+following formula:
+
+Fee = $1,000 plus 3418 multiplied by the permitted flow, in mgd, to the maximum plus any applicable
+surcharge(s).
+
+The maximum fee for NPDES permitted industrial discharges6 is $35,000, plus any applicable
+surcharge(s). NPDES permitted industrial discharges with a Threat/complexity7 rating of 1A, 1B or 1C
+are subject to a surcharge as follows:
+         Threat /Category 1C ­ $5,000
+         Threat /Category 1B ­ $10,000
+         Threat /Category 1A ­ $15,000
+
+The maximum fee for NPDES permitted public wastewater treatment facilities is $50,000, plus applicable
+surcharge(s). Public wastewater treatment facilities with approved pretreatment programs are subject to a
+surcharge of $10,000. Agencies with multiple facilities under one approved pretreatment program shall
+pay a $10,000 surcharge per program.
+
+(b)(6) All NPDES discharges with permitted flows of 100 mgd or greater shall pay a fee of $100,000,
+plus applicable surcharges. The fee shall be based on permitted effluent flow specified in the discharge
+permit, except as provided in (b)(7), (b)(8) and (b)(9). If there is no permitted effluent flow specified, the
+fee shall be based on the designed flow of the facility.
+
+6
+  NPDES permitted industrial discharger(s) means those industries identified in the Standard Industrial Classification
+Manual, Bureau of the Budget, 1967, as amended and supplemented, under the category ‘‘Division D—Manufacturing’’
+and such other classes of significant waste producers as, by regulation, the U.S. EPA Administrator deems appropriate. (33
+USC Sec. 1362).
+7
+  Threat/complexity categories are listed on page 2 of this document titled “THREAT TO WATER QUALITY”.
+
+
+
+                                                                 5
+                                                               As adopted by Resolution 2003­0064
+
+
+
+
+(b)(7) Flow for wet weather municipal facilities will be based on the previous five years actual daily
+average flow, as of the date the permit is issued. Wet weather municipal facilities are intermittently
+operated facilities that are designed specifically to handle flows during wet weather conditions, and
+otherwise operate at less than ten percent of their permitted flows due to seasonal or other considerations.
+The actual daily average flow is the average of all the daily flows during the previous five­year period.
+The calculation does not include days when discharge did not occur.
+
+(b)(8)(A) Discharges associated with aquaculture activities that are regulated by an individual or general
+NPDES permit, including those issued by a Regional Board, shall pay a fee based on the categories listed
+in (b)(9), as determined by the Regional Board. An aquaculture activity (as defined in Chapter 40,
+Section 122.25(b) of the Code of Federal Regulations) is a defined managed water area which uses
+discharges of pollutants into that designated area for the maintenance or production of harvestable
+freshwater, estuarine, or marine plants or animals. The definition for purposes of this fee category
+includes fish hatcheries.
+
+(B) Discharges associated with geothermal facilities, where water quality objectives are not likely to be
+exceeded or where beneficial uses are fully protected, that are regulated by an individual or general
+NPDES permit, including those issued by a Regional Board, shall pay a fee based on the categories listed
+in (b)(9), as determined by the Regional Board. A geothermal facility is an entity that utilizes, extracts, or
+produces energy from geothermal fluids for heating, generating power, or other beneficial uses, and
+discharges geothermal fluids to surface water.
+
+(C) De minimis discharges that are regulated by an individual or general NPDES permit, including those
+issued by a Regional Board, shall pay a fee based on the categories listed in (b)(9), as determined by the
+Regional Board. De minimis discharge activities include the following: evaporative condensate;
+swimming and landscape pool drainage; discharges from fire hydrant testing or flushing; discharges
+resulting from construction dewatering; discharges associated with supply well installation, development,
+test pumping, and purging; discharges resulting from the maintenance of uncontaminated water supply
+wells, pipelines, tanks, etc.; discharges resulting from hydrostatic testing of water supply vessels,
+pipelines, tanks, etc.; discharges resulting from the disinfection of water supply pipelines, tanks,
+reservoirs, etc.; discharges from water supply systems resulting from system failures, pressure releases,
+etc.; discharges of non­contact cooling water, not including steam/electric power plants; discharges
+resulting from diverted stream flows; water treatment plant discharges; and other similar types of wastes
+that have low pollutant concentrations and are not likely to cause or have a reasonable potential to cause
+or contribute to an adverse affect on the beneficial uses of receiving waters yet technically must be
+regulated under an NPDES permit.
+
+(D) All other NPDES general permits.
+
+(b)(9) Discharges that fall within the categories specified in (b)(8) or that are regulated by a general
+NPDES permit (excluding storm water permits), shall pay a fee as follows, plus applicable surcharge(s):
+
+Category 1 ­ Discharges that require treatment systems to meet priority toxic pollutant limits and that
+could impair beneficial uses if limits are violated: $4,800.
+Category 2 ­ Discharges that require treatment systems to meet non­priority pollutant limits, but are not
+expected to impair beneficial uses if limits are violated: $2,900. (Examples of non­priority pollutants
+include, but are not limited to, nutrients, inorganic compounds, pH, and temperature).
+
+                                                           6
+                                                                 As adopted by Resolution 2003­0064
+
+
+
+
+     Category 3 ­ Discharges that require minimal or no treatment systems to meet limits and pose
+     no significant threat to water quality: $1,000.
+
+
+     (c) Confined Animal Feeding Operation fees: Whether regulated by an NPDES permit or a waste
+     discharge requirement order, dischargers who own or operate Confined Animal Feedlots, including
+     dairies, shall pay a fee based on the following schedules plus applicable surcharge(s).
+
+
+
+                  FEEDLOTS                                                  DAIRIES
+        TYPE OF FACILITY               FEE                 TYPE OF FACILITY                  FEE
+             Cattle or cow/calf pairs                                   Mature dairy cattle
+Number of animals                                           Number of animals
+100,000 or more                       $3,000            3,000 or more                       $4,000
+10,000 to 99,999                      $1,500            1,500 to 2,999                      $2,500
+5,000 to 9,999                         $800             700 to 1,499                        $1,200
+1,000 to 4,999                         $400             300 to 699                           $600
+Less than 1,000                        $200             Less than 300                        $300
+                      Calves                                               Goat Dairies
+10,000 or more                        $3,000            1,000 or more                        $400
+5,000 to 9,999                        $1,500            Less than 1,000                      $200
+1,000 to 4,999                         $800                                   HOGS
+300 to 999                             $400                             Swine (> 55 pounds)
+Less than 300                          $200             5,000 or more                       $1,500
+             Heifers (not at a dairy)                   2,500 to 4,999                       $800
+10,000 or more                        $3,000            750 to 2,499                         $400
+5,000 to 9,999                        $1,500            Less than 750                        $200
+1,000 to 4,999                         $800                             Swine (< 55 pounds)
+300 to 999                             $400             20,000 or more                      $1,500
+Less than 300                          $200             10,000 to 19,999                     $800
+         Finishing Yards/Auction Yards                  3,000 to 9,999                       $400
+1,000 or more                          $800             Less than 3,000                      $200
+300 to 999                             $400                                  OTHER
+Less than 300                          $200                                   Horses
+                                                        500 or more                          $800
+                                                        150 to 499                           $400
+                                                        Less than 150                        $200
+                                                                         Sheep or Lambs
+                                                        10,000 or more                       $800
+                                                        3,000 to 9,999                       $400
+                                                        Less than 3,000                      $200
+
+
+
+
+                                                             7
+                                                               As adopted by Resolution 2003­0064
+
+
+
+
+                                            POULTRY
+Number of Animals           On­Site Discharge Fee                Off­Site Discharge Fee
+                            Layers or Broilers (liquid manure system)
+120,000 or more                     $2,000                                $700
+60,000 to 119,999                   $1,000                                $500
+30,000 to 59,999                     $750                                 $350
+9,000 to 29,999                      $400                                 $200
+Less than 9,000                      $200                                  $0
+                           Non­layers (other than liquid manure system)
+500,000 of more                     $2,000                                $700
+250,000 to 499,999                  $1,000                                $500
+125,000 to 249,999                   $750                                 $350
+37,500 to 124,999                    $400                                 $200
+Less than 37,500                     $200                                  $0
+                             Layers (other than liquid manure system)
+350,000 or more                     $2,000                                $700
+165,000 to 349,999                  $1,000                                $500
+82,000 to 164,999                    $750                                 $350
+25,000 to 81,999                     $400                                 $200
+Less than 25,000                     $200                                  $0
+                             Ducks (other than liquid manure system)
+120,000 or more                     $2,000                                $700
+60,000 to 119,999                   $1,000                                $500
+30,000 to 59,999                     $750                                 $350
+10,000 to 29,999                     $400                                 $200
+Less than 10,000                     $200                                  $0
+                                  Ducks (liquid manure system)
+20,000 or more                      $1,000
+5,000 to 19,999                      $750
+1,500 to 4,999                       $400
+Less than 1,500                      $200
+                                              Turkeys
+200,000 or more                     $2,000                                $700
+100,000 to 199,999                  $1,000                                $500
+55,000 to 99,999                     $750                                 $350
+16,500 to 54,999                     $400                                 $200
+Less than 16,500                     $200                                  $0
+
+(c)(1) Facilities that are certified under a quality assurance program approved by the State Board or under
+a County regulatory program approved by the appropriate Regional Board, will receive a 50 percent fee
+reduction.
+(c)(2) Facilities that pose no potential to discharge, as determined by a Regional Board, shall pay a fee of
+$200. The fee shall be paid each time an application for initial certification or renewal is submitted and
+shall not be subject to ambient water monitoring surcharges.
+
+                                                          8
+                                                              As adopted by Resolution 2003­0064
+
+
+
+
+Section 2200.5. No Exposure Certification
+
+Dischargers filing an application for a No Exposure Certification (NEC) shall pay a fee of $200 for each
+facility for which an application is submitted, as prescribed in a general industrial storm water permit.
+The fee shall be paid each time an application for initial certification or renewal is submitted. NEC fees
+are not subject to ambient water monitoring surcharges.
+
+
+
+NOTE: Authority cited: Section 185 and 1058, Water Code. Reference: Section 13260.2, Water Code.
+
+
+
+
+                                                          9
+

@@ -1,0 +1,902 @@
+Elements of a State Water
+Monitoring and Assessment
+Program
+
+March 2003
+    Elements of a State Water
+Monitoring and Assessment Program
+
+               March 2003
+
+
+
+
+  Assessment and Watershed Protection Division
+   Office of Wetlands, Oceans and Watershed
+     U.S. Environmental Protection Agency
+
+
+
+
+              EPA 841-B-03-003
+
+              Available on the web at
+     http://www.epa.gov/owow/monitoring/repguid.html
+              Elements of a State Water
+          Monitoring and Assessment Program
+
+
+
+EPA and States need comprehensive water quality monitoring and
+assessment information on environmental conditions and changes
+over time to help set levels of protection in water quality standards
+and to identify problem areas that are emerging or that need
+additional regulatory and non-regulatory actions to support water
+quality management decisions such as TMDLs, NPDES permits,
+enforcement, and nonpoint source management. This information
+also informs EPA and State decisionmakers, the Congress, the
+public, and other stakeholders of the progress that the Agency and
+State partners are making in protecting human health and the
+environment. Without this information, it is difficult for EPA and
+the States to set priorities, evaluate the success of programs and
+activities, and report on accomplishments in a credible and
+informed way (U.S. GAO 2000).
+                                                       Contents
+Transmittal Memorandum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+
+Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v
+
+I.     Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+       A. Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+       B. Purpose . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+       C. References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+II.    Elements of a State Monitoring Program . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+       A. Monitoring Program Strategy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+       B. Monitoring Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+       C. Monitoring Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+       D. Core and Supplemental Water Quality Indicators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+       E. Quality Assurance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+       F. Data Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+       G. Data Analysis/Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+       H. Reporting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+       I.  Programmatic Evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+       J. General Support and Infrastructure Planning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+       K. References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+Cover photos courtesy of USDA NRCS
+
+
+
+
+                                                                      -i-
+   The Clean Water Act [CWA] gives States and Territories the primary responsibility for
+implementing programs to protect and restore water quality, including monitoring and assessing
+the nation's waters and reporting on their quality. CWA Section 106(e)(1) requires the
+Environmental Protection Agency (EPA) to determine that a State is monitoring the quality of
+navigable waters, compiling, and analyzing data on water quality and including it in the State’s
+Section 305(b) report prior to the award of Section 106 grant funds. The attached document,
+Elements of a State Water Monitoring and Assessment Program, recommends the basic elements
+of a State water monitoring program and serves as a tool to help EPA and the States determine
+whether a monitoring program meets the prerequisites of CWA Section 106(e)(1).
+
+      It is not EPA’s intent to use the Elements document to withhold a State’s Section 106 grant
+funds, but rather to encourage a long term process of incremental improvement in monitoring
+programs, as needed. The Elements document is intended to provide a framework for States to
+clearly articulate their programmatic and resource needs and a reasonable time line for meeting
+those needs. EPA expects this effort will identify efficiencies to be gained through a holistic
+approach to program implementation.
+
+                                               -ii-
+   For the Fiscal Year (FY) 2004 grant award, a State should, in addition to continuing to submit
+reports under Section 305(b) and annual data updates, have a monitoring program strategy1 in
+place or commit to complete development of such a strategy. This strategy will be State specific,
+building on the State’s existing monitoring capabilities, but will describe how the monitoring
+program will serve all water quality management needs and address all State waters over time.
+The monitoring program strategy is a long-term implementation plan and should include a
+timeline, not to exceed ten years2, for completing implementation of the strategy. It is important
+that the strategy be comprehensive in scope and identify the technical issues and resource needs
+that are currently impediments to an adequate monitoring program.
+
+     States should begin implementation of the strategies upon receipt of the subsequent award
+of a Section 106 grant or Performance Partnership Grant that includes Section 106 funds.
+Beginning with the FY2005 Section 106 grant cycle, activities from a State’s strategy needed to
+upgrade its monitoring program should be incorporated into work plans for Section 106 grants
+and Performance Partnership Grants (PPGs) that include Section 106 funds, consistent with the
+regulations governing the negotiation of work plans at 40 CFR 35.107. The State must continue
+to submit reports under Section 305(b) and annual data updates.
+
+     The EPA Region, in conjunction with the State, will review the State’s monitoring program
+to determine whether progress has been adequate and reflects commitments negotiated in work
+plans for Section 106 grants or Performance Partnership Grants (PPGs) that include Section 106
+funds. This evaluation will take into consideration the effects of funding shortfalls on a State’s
+implementation of its monitoring program strategy. EPA Headquarters will collaborate with the
+EPA Regional offices to assess overall State progress from a national perspective.
+
+     If you have any questions, please contact Charles Sutfin, Director, Assessment and
+Watershed Protection Division at 202-566-1155, or Margarete Heber, Chief, Monitoring Branch
+at 202-566-1189.
+
+Attachment
+
+cc: Regional Monitoring/305(b) coordinators
+    Regional TMDL coordinators
+    Regional 106 coordinators
+    Tracy Mehan-AA, Office of Water
+    Paul Gilman-AA, Office of Research and Development
+    Mike Shapiro-OW
+    Ben Grumbles-OW
+    Geoffrey Grubbs-OST
+    Cynthia Dougherty-OGWDW
+
+       1
+        see Section II, Part A, “Monitoring Program Strategy,”of this Elements document
+       2
+        i.e., no later than the end of FY2014
+
+                                                     -iii-
+Susan Lepow-OGC
+George Alapas-NCEA
+Peter Preuss-NCER
+Gary Foley-NERL
+Lawrence Reiter-NHEERL
+Timothy Oppelt-NRMRL
+Jane Ephremides- OWM
+Carol Crow - OWM
+Leslie Darman - OGC
+Susmita Dubey - OGC
+Suzanne Schwartz- OCPD
+John Meagher- Wetlands Division
+Doreen Vetter- Wetlands Division
+Mike McDonald- ORD/EMAP
+Barbara Brown-ORD/Narragansett
+Gil Veith- ORD/Duluth
+Jennifer Orme-Zavaletta-ORD/Corvallis
+Steve Paulsen-ORD/Corvallis
+Association of State and Interstate Water Pollution Control Administrators
+Environmental Council of the States
+
+
+
+
+                                         -iv-
+                                            Executive Summary
+
+Clean Water Act §106(e)(1) and 40 CFR Part 35.168(a) provide that EPA award Section 106
+funds to a State only if the State has provided for, or is carrying out as part of its program, the
+establishment and operation of appropriate devices, methods, systems, and procedures necessary
+to monitor and to compile and analyze data on the quality of navigable waters in the State3, and
+provision for annually updating the data and including it in the Section 305(b) report.4 This
+document recommends the basic elements of a State water monitoring program and serves as a
+tool to help EPA and the States determine whether a monitoring program meets the prerequisites
+of CWA Section 106(e)(1).
+
+Because these elements have not been clearly defined in the past, there is a lot of variability in
+existing State programs. EPA expects that State water monitoring programs will evolve over the
+next 10 years so that ultimately all States will have a common foundation of water quality
+monitoring programs that support State decision needs. EPA expects that most States will
+employ an iterative process to fully implement a monitoring program that reflects the elements
+described in this document, and will work with States to identify annual monitoring milestones.
+
+States should develop, over time, a monitoring program addressing the 10 elements summarized
+below and described in greater detail in the full text of this document. The first of these elements
+is a long-term state monitoring strategy. This strategy will be State specific, be designed from
+the monitoring capabilities each State already has, and should include a timeline not to exceed 10
+years to complete implementation. EPA believes that state monitoring programs can be upgraded
+to include all of the elements described below within the next 10 years.
+
+For the FY2004 grant award, a State, in addition to continuing to submit reports under Section
+305(b) and annual data updates, should have a monitoring program strategy5 in place or commit
+to complete development of such a strategy. Beginning with the FY2005 Section 106 grant
+cycle, activities from a State’s strategy needed to upgrade its monitoring program should be
+incorporated into work plans for Section 106 grants and Performance Partnership Grants (PPGs)
+that include Section 106 funds, consistent with the regulations governing the negotiation of work
+plans at 40 CFR 35.107. The State must continue to submit reports under Section 305(b) and
+annual data. EPA expects that the State will have fully implemented its strategy by 2014.
+
+
+         3
+           The term “State waters” is used in this document to refer to navigable waters as defined under Section 502
+of the Clean Water Act.
+         4
+           This document uses the term “State” to refer to States, the District of Columbia and Territories, as defined
+under Section 502 of the Clean Water Act. Under the CWA and EPA’s implementing regulations this requirement
+applies only to States and not to Interstate Agencies or Tribes (40 CFR §§ 35.168(b), 35.588 ). However, non-State
+recipients of 106 funds may be required to submit monitoring reports pursuant to the grant. EPA encourages these
+recipients to follow the recommendations of this guidance to the extent practicable.
+         5
+          see Section II, Part A, “Monitoring Program Strategy,” of this Elements document
+
+                                                         -v-
+The recommended 10 elements of a state water monitoring and assessment program are:
+
+A. Monitoring Program Strategy
+The State has a comprehensive monitoring program strategy that serves its water quality
+management needs and addresses all State waters, including streams, rivers, lakes, the Great
+Lakes, reservoirs, estuaries, coastal areas, wetlands, and groundwater. The strategy should
+contain or reference a description of how the State plans to address each of the remaining nine
+elements. The monitoring program strategy is a long-term implementation plan and should
+include a timeline, not to exceed ten years6, for completing implementation of the strategy.
+EPA believes that state monitoring programs can be upgraded to include all of the elements
+described below within the next 10 years. It is important that the strategy be comprehensive in
+scope and identify the technical issues and resource needs that are currently impediments to an
+adequate monitoring program.
+
+B. Monitoring Objectives
+The State has identified monitoring objectives critical to the design of a monitoring program that
+is efficient and effective in generating data that serve management decision needs. EPA expects
+the State to develop a strategy and implement a monitoring program that reflects a full range of
+State water quality management objectives including, but not limited to, Clean Water Act goals.
+For example, monitoring objectives could include helping establish water quality standards,
+determining water quality status and trends, identifying impaired waters, identifying causes and
+sources of water quality problems, implementing water quality management programs, and
+evaluating program effectiveness. Consistent with the Clean Water Act, monitoring objectives
+should reflect the decision needs relevant to all types of State waters.
+
+C. Monitoring Design
+The State has an approach and rationale for selection of monitoring designs and sample sites that
+best serve its monitoring objectives. The State monitoring program will likely integrate several
+monitoring designs (e.g., fixed station, intensive and screening-level monitoring, rotating basin,
+judgmental and probability design) to meet the full range of decision needs. The State
+monitoring design should include a probability-based network for making statistically valid
+inferences about the condition of all State water types, over time. EPA expects the State to use
+the most efficient combination of monitoring designs to meet its objectives.
+
+
+
+
+       6
+        i.e., no later than the end of FY2014
+
+                                                -vi-
+D. Core and Supplemental Water Quality Indicators
+The State uses a tiered approach to monitoring that includes core indicators selected to represent
+each applicable designated use, plus supplemental indicators selected according to site-specific
+or project-specific decision criteria. Core indicators for each water resource type include
+physical/habitat, chemical/toxicological, and biological/ecological endpoints as appropriate, and
+can be used routinely to assess attainment with applicable water quality standards throughout the
+State. Supplemental indicators are used when there is a reasonable expectation that a specific
+pollutant may be present in a watershed, when core indicators indicate impairment, or to support
+a special study such as screening for potential pollutants of concern.
+
+E. Quality Assurance
+Quality management plans and quality assurance program/project plans are established,
+maintained, and peer reviewed in accordance with EPA policy to ensure the scientific validity of
+monitoring and laboratory activities, and to ensure that State reporting requirements are met.
+
+F. Data Management
+The State uses an accessible electronic data system for water quality, fish tissue, toxicity,
+sediment chemistry, habitat, biological data, with timely data entry (following appropriate
+metadata and State/Federal geo-locational standards) and public access. In the future, EPA will
+require all States to directly or indirectly make their monitoring data available through the new
+STORET system. For States that do not currently operate STORET, their monitoring strategies
+should provide for use of STORET as soon as is practicable. For the 2004 305(b) reports and
+303(d) lists, EPA strongly recommends that all States store assessment information using the
+EPA Assessment Database or an equivalent relational database and define the geographic
+location of assessment units using the National Hydrography Dataset (NHD).
+
+G. Data Analysis/Assessment
+The State has a methodology for assessing attainment of water quality standards based on
+analysis of various types of data (chemical, physical, biological, land use) from various sources,
+for all waterbody types and all State waters. The methodology includes criteria for compiling,
+analyzing, and integrating all readily available and existing information (e.g., volunteer
+monitoring data, discharge monitoring reports).
+
+H. Reporting
+The State produces timely and complete water quality reports and lists called for under Sections
+305(b), 303(d), 314, and 319 of the Clean Water Act and Section 406 of the Beaches Act. EPA
+issued “2002 Integrated Water Quality Monitoring and Assessment Report Guidance” on
+November 19, 2001, to encourage integration and consistency in the development and
+submission of Section 305(b) water quality reports and Section 303(d) impaired waters lists.
+EPA will continue to support the use of this integrated reporting framework for future reporting
+cycles.
+
+Under current regulations, Section 303(d) lists and Section 305(b) reports are due no later than
+
+
+                                               -vii-
+April 1 of even-numbered years. To remain eligible for Section 106 grants, the State also must
+submit annual updates of water quality information. This requirement may be satisfied by
+annually updating 305(b) assessment information or by annually uploading monitoring data to
+the national STORET warehouse.
+
+I. Programmatic Evaluation
+The State, in consultation with its EPA Region, conducts periodic reviews of each aspect of its
+monitoring program to determine how well the program serves its water quality decision needs
+for all State waters, including all waterbody types. This should involve evaluating the
+monitoring program to determine how well each of the elements is addressed and determining
+how needed changes and additions are incorporated into future monitoring cycles.
+
+J. General Support and Infrastructure Planning
+The State identifies current and future resource needs it requires to fully implement its
+monitoring program strategy. This needs assessment should describe funding, staff, training,
+laboratory resources, and upcoming improvements.
+
+
+
+
+                                              -viii-
+I.    Introduction
+
+A. Background
+
+Clean Water Act §106(e)(1) requires EPA, prior to awarding a Section 106 grant to a State, to
+determine that the State is monitoring the quality of navigable waters, compiling and analyzing
+data on the water quality, and including those data in the State’s section 305(b) report.7
+Historically, EPA has relied on submission of the 305(b) report to determine that States have
+satisfied the Section 106(e) eligibility requirement for the award of Section 106 grant funds. As
+explained in the FY2001 Clean Water Act Section 106 Grant Guidance, Regions have begun
+conducting reviews of State monitoring programs and are working with States to strengthen these
+programs over time [1].
+
+States have taken very different approaches, within their resource limitations, to implement their
+monitoring programs. They have applied a range of monitoring and assessment approaches (e.g.,
+water chemistry, sediment chemistry, biological monitoring) to varying degrees, both spatially
+and temporally, and at varying levels of sampling effort. It is not uncommon for the reported
+quality of a waterbody (i.e., attainment or nonattainment) to differ on either side of a State
+boundary. Although some differences can be attributed to differences in water quality standards,
+variations in data collection, assessment methods, and relative representativeness of the available
+data contribute more to differences in assessment findings. These differences adversely affect
+the credibility of environmental management programs.
+
+EPA has issued national guidance to promote and structure consistency in State monitoring
+programs and to ensure that the Section 305(b) process provides nationally comparable data with
+known accuracy [ 2, 3]. However, experts charge that EPA remains unable to make credible
+statements about differences in environmental quality over time and across the Nation [4, 5].
+Also, in 1998, the Federal Advisory Committee on the Total Maximum Daily Load (TMDL)
+Program recommended that EPA assure needed improvements in State efforts to monitor water,
+characterize the general health of aquatic systems, and determine (non)attainment of any
+component of water quality standards, including narrative criteria and designated uses [6]. A
+2001 National Research Council report, Assessing the TMDL Approach to Water Quality
+Management, recommends, among other things, the development of a uniform, consistent
+approach to ambient monitoring and data collection; increased resources for water monitoring;
+the coordination of monitoring with program needs; endorsement of statistical approaches and
+explicit acknowledgment of uncertainty; and the combining of monitoring and modeling [7].
+
+
+
+         7
+          See footnote 5 infra. §106(e) of the Clean Water Act provides that ... “the Administrator shall not make
+any grant under this section to any State which has not provided or is not carrying out as part of its program - the
+establishment and operation of appropriate devices, methods, systems, and procedures necessary to monitor, and to
+compile and analyze data on (including classification according to eutrophic condition), the quality of navigable
+waters and to the extent practicable, ground waters including biological monitoring; and provision for annually
+updating such data and including it in the report required under [section 305 of this Act]...”
+
+                                                         -1-
+And most recently, a 2002 National Academy of Public Administration report, Understanding
+What States Need to Protect Water Quality, notes that improved information on water quality
+conditions, pollution sources, and program results will help states make more effective use of
+limited resources [8].
+
+B. Purpose
+
+The purpose of this document is to recommend the elements of a State water monitoring
+program, to provide a framework for the State to articulate its programmatic and resource
+needs, and to serve as a tool to help EPA and the State determine whether a monitoring
+program meets the prerequisites of CWA Section 106(e)(1). EPA recognizes that full
+implementation of these elements will take time and resources and that currently many states do
+not fully meet these elements for all their waterbody types. For a State lacking many of the
+elements, this implementation process may extend over a period of up to 10 years. EPA expects
+the State to define annual milestones for incremental progress toward implementation of the ten
+elements and to include these in its work plans for Section 106 grants and Performance
+Partnership Grants (PPGs) that include Section 106 funds, consistent with the regulations
+governing the negotiation of work plans at 40 CFR 35.107.
+
+C. References
+
+1. U.S. Environmental Protection Agency (U.S. EPA). 2001. Memorandum on FY 2001 Clean
+Water Act Section 106 Grant Guidance signed February 16, 2001 by Michael B. Cook, Director,
+Office of Wastewater Management.
+
+2. U.S. EPA. 1977. Basic Water Monitoring Program. U.S. Environmental Protection Agency
+Standing Work Group on Water Monitoring. EPA 440/9-76-0252.
+
+3. U.S. EPA. 1997. Guidelines for Preparation of the Comprehensive State Water Quality
+Assessments (305(b) Reports) and Electronic Updates. U.S. Environmental Protection Agency,
+Office of Water. Washington, DC. EPA 841-R-97-002A and 002B.
+
+4. National Academy of Sciences. 1977. A Report to the U.S. Environmental Protection Agency
+from the Study Group on Environmental Monitoring, Committee on National Statistics, National
+Research Council. National Academy of Sciences, Washington, DC.
+
+5. General Accounting Office. March 2000. Water Quality–Key EPA and State Decisions
+Limited by Inconsistent and Incomplete Data. GAO/RCED-00-54.
+
+6. National Advisory Council for Environmental Policy and Technology (NACEPT). 1998.
+Final Report of the Federal Advisory Committee on the Total Maximum Daily Load (TMDL)
+Program. http://www.epa.gov/owow/tmdl/faca/tofc.htm.
+
+
+
+                                               -2-
+7. National Research Council. 2001. Assessing the TMDL Approach to Water Quality
+Management, Committee to Assess the Scientific Basis of the Total Maximum Daily Load
+Approach to Water Pollution Reduction. National Academy Press, Washington, D.C.
+
+8. National Academy of Public Administration. December 2002. Understanding What States
+Need to Protect Water Quality. Academy Project Number 2001-001. http://www.napawash.org
+
+
+
+
+                                            -3-
+II. The Recommended Elements of a State Monitoring Program
+
+A. Monitoring Program Strategy
+
+The State has a comprehensive monitoring program strategy that serves all water quality
+management needs and addresses all State water, including all waterbody types (e.g.,
+streams, rivers, lakes, Great Lakes, reservoirs, estuaries, coastal areas, wetlands, and
+groundwater). The monitoring program strategy is a long-term implementation plan and should
+include a timeline, not to exceed ten years8, for completing implementation of the strategy. It is
+important that the strategy be comprehensive in scope and identify the technical issues and
+resource needs that are currently impediments to an adequate monitoring program.
+
+The State’s monitoring strategy should contain or reference a description of how the monitoring
+program elements described in the remainder of this document will be achieved.
+
+EPA recommends that State monitoring program managers work with other State environmental
+managers and interested stakeholders (including EPA Regions, other Federal water quality and
+land management agencies, volunteer monitoring organizations, and academic institutions) as
+they develop their strategy. This collaboration provides the State water quality program an
+opportunity to maximize its use of other parties’ data and effectively expand its monitoring
+resources. Many States have formed monitoring councils that help facilitate coordination of
+monitoring activities among various organizations.
+
+B. Monitoring Objectives
+
+The State has identified monitoring objectives critical to the design of a monitoring
+program that is efficient and effective in generating data that serve its management
+decision needs. EPA expects the State to develop a strategy and implement a monitoring
+program that reflects a full range of State water quality management objectives including, but not
+limited to, Clean Water Act goals. Consistent with the Clean Water Act, monitoring objectives
+should reflect the decision needs relevant to all types of waters of the United States, including
+streams, rivers, lakes, the Great Lakes, reservoirs, estuaries, coastal areas, wetlands and, to the
+extent possible, groundwater.
+
+Clean Water Act objectives include:
+
+•    Establishing, reviewing, and revising water quality standards (Section 303(c)).
+•    Determining water quality standards attainment (Section 305(b)).
+•    Identifying impaired waters (Section 303(d)).
+•    Identifying causes and sources of water quality impairments (Sections 303(d), 305(b)).
+
+
+
+       8
+        i.e., no later than the end of FY2014
+
+                                                -4-
+•    Supporting the implementation of water management programs (Sections 303, 314, 319,
+     402, etc.).
+•    Supporting the evaluation of program effectiveness (Sections 303, 305, 402, 314, 319, etc.).
+
+The State may have additional objectives for its own purposes.
+
+In general, a monitoring program that meets the Clean Water Act objectives should be able to
+answer the following five questions:
+
+1.   What is the overall quality of waters in the State? Under Section 305(b) of the Act, the
+     State determines the extent to which its waters meet the objectives of the Clean Water Act,
+     attain applicable water quality standards, and provide for the protection and propagation of
+     balanced populations of fish, shellfish, and wildlife (40 CFR 130.8).
+
+2.   To what extent is water quality changing over time? The State assesses and reports on
+     the extent to which control programs have improved water quality or will improve water
+     quality for the purposes of “. . . the protection and propagation of a balanced population of
+     shellfish, fish, and wildlife and . . . recreational activities in and on the water” (40 CFR
+     130.8(b)(2) and 130.8(b)(1)). Under Section 319(h)(11) of the Act, a State with Section
+     319 grants reports on reductions in nonpoint-source loadings and related improvements in
+     water quality. Under Section 314(a)(1)(F), a State reports on the status and trends of water
+     quality in lakes. The State may address these requirements through the use of models (for
+     load estimations) and by tracking trends in use assessments. The State also should be able
+     to identify emerging environmental issues related to new pollutants or changes in activities
+     within watersheds.
+
+3.   What are the problem areas and areas needing protection? Under Section 303(d), the
+     State must identify impaired waters. The State should also identify waters that are currently
+     of high quality and should be protected from degradation. In order to protect and restore
+     waters, State monitoring and assessment programs should identify the causes and sources of
+     impairment.
+
+4.   What level of protection is needed? The State establishes the level of protection that is
+     being monitored against. For example, the State uses data from monitoring programs to
+     conduct triennial reviews of state water quality standards, conduct use attainability analyses,
+     develop and adopt revised designated uses and water quality criteria, establish water
+     quality-based effluent limits in NPDES permits, establish total maximum daily loads, and
+     assess which levels of best management practices for nonpoint sources are most
+     appropriate.
+
+5.   How effective are clean water projects and programs? The State monitors to evaluate
+     the effectiveness of specific projects and overall programs, including but not limited to
+     Section 319 (nonpoint source control), Section 314 (Clean Lakes), Section 303(d) Total
+
+
+                                                -5-
+     Maximum Daily Loads (TMDLs), Section 402 NPDES permits, water quality standards
+     modifications, compliance programs (Discharge Monitoring Report information), and
+     generally to determine the success of management measures.
+
+C. Monitoring Design
+
+The State has an approach and rationale for selection of monitoring designs and sample
+sites that best serve its monitoring objectives. The State monitoring program will likely
+integrate several monitoring designs (e.g., fixed station, intensive and screening-level
+monitoring, rotating basin, judgmental and probability design) to meet the full range of decision
+needs. The State monitoring design should include probability-based networks (at the watershed
+or state-level) that support statistically valid inferences about the condition of all State water
+types, over time. EPA expects the State to use the most efficient combination of monitoring
+designs to meet its objectives.
+
+When developing designs to meet specific objectives, the EPA encourages States to consider
+those designs used by EPA’s Environmental Monitoring and Assessment Program (EMAP)
+(probabilistic site selection using simple random, stratified, or nested designs) and the U.S.
+Geological Survey’s National Water Quality Assessment program (targeted, judgmental design
+based on land use, geological setting, and other natural and human influences). An integrated
+design for assessing water quality incorporates multiple tools in a tiered approach to address
+management decisions at multiple scales. These tools include probabilistic designs, landscape
+and water quality modeling, and targeted site-specific monitoring. This tiered approach enables
+States to make statistically valid inferences of the extent that waters meet water quality standards,
+to predict which waters are most likely degraded or at risk for degradation, and to target site-
+specific monitoring needed to address local water quality concerns. The efficiencies of an
+integrated design should extend beyond monitoring costs to program costs because it can help
+States prioritize which waterbodies need more immediate attention.
+
+The monitoring design should address the objectives outlined in Section B, above. The design
+should include a comprehensive approach to assessment using multiple indicators [1,2], for all
+State waters on a continuing basis. The elements of the monitoring design should support the
+State’s estimation of the amount or percentage of waters that are impaired Statewide, for each
+waterbody type, with a high degree of confidence. The State is encouraged to use a design that
+allows for estimations to within ±10% at a 90% confidence level for Statewide designs. EPA
+encourages the application of integrated monitoring designs that allow more intensive monitoring
+in specific areas of concern or interest for individual States.
+
+To meet its monitoring objectives, States should ensure that the selected monitoring design yields
+scientifically valid results and meets the needs of the decision maker. The monitoring design
+should incorporate appropriate methods to control decision errors and balance the possibility of
+making incorrect decisions. The levels of precision and confidence should be appropriate to the
+monitoring objective and the type of data collected.
+
+
+                                                 -6-
+D. Core and Supplemental Water Quality Indicators
+
+Because limited resources affect the design of water quality monitoring programs, the State
+should use a tiered approach to monitoring that includes a core set of baseline indicators
+selected to represent each applicable designated use, plus supplemental indicators selected
+according to site-specific or project-specific decision criteria [1, 2]. Using this tiered
+approach, the State should be able to make the best use of its resources to meet water quality
+decision needs, including assessing water quality standards attainment and designated use
+support, identifying needed changes to water quality standards, describing causes and sources of
+impairments, developing water quality-based source controls, and assessing whether physical,
+chemical, and biological integrity are supported.
+
+The monitoring strategy should define a core set of indicators (e.g., water quality parameters) for
+each water resource type that include physical/habitat, chemical/toxicological, and
+biological/ecological endpoints as appropriate, that reflect designated uses, and that can be used
+routinely to assess attainment with applicable water quality standards throughout the State. This
+core set of indicators is monitored to provide Statewide or basin/watershed level information on
+the fundamental attributes of the aquatic environment and to assess water quality standards
+attainment/impairment status. Previously, chemical and physical indicators were emphasized;
+however, biological monitoring and assessment should assume a more prominent role in State
+monitoring. [2, 3].
+
+The strategy should also describe a process for identifying supplemental indicators to monitor
+when there is a reasonable expectation that a specific pollutant may be present in a watershed,
+when core indicators indicate impairment, or to support a special study such as screening for
+potential pollutants of concern. Supplemental indicators are often key to identifying causes and
+sources of impairments and targeting appropriate source controls. These supplemental indicators
+may include each water quality criteria in the State’s water quality standards, any pollutants
+controlled by the National Pollutant Discharge Elimination System (NPDES), and any other
+constituents or indicators of concern.
+
+Table 1 presents examples of recommended core and supplemental water quality indicators. The
+Consolidated Assessment and Listing Methodology [4] provides additional information on
+considerations for selection of supplemental indicators (see
+http://www.epa.gov/owow/monitoring/calm.html, Chapter 11).
+
+E. Quality Assurance
+
+Quality Management Plans and Quality Assurance Project Plans are developed,
+maintained, and peer reviewed in accordance with EPA policy to ensure the scientific
+validity of monitoring and laboratory activities. The Quality Management Plan (QMP)
+
+
+
+                                                -7-
+Table 1. Recommended water quality indicators for general designated use categories
+
+                                Recommended Core and Supplemental Indicators
+
+                    Aquatic Life &           Recreation               Drinking Water        Fish/Shellfish
+                    Wildlife                                                                Consumption
+
+ Recommended Core   *Condition of            *Pathogen indicators     *Trace metals         *Pathogens
+ Indicators         biological communities   (E. coli, enterococci)   *Pathogens            *Mercury
+                    (EPA recommends the      *Nuisance plant Growth   *Nitrates             *Chlordane
+                    use of at least two      *Flow                    *Salinity             *DDT
+                    assemblages)             *Nutrients               *Sediments/TDS        *PCBs
+                    *Dissolved oxygen        *Chlorophyll             *Flow                 *Landscape
+                    *Temperature             *Landscape conditions    *Landscape            conditions (e.g., %
+                    *Conductivity            (e.g., % cover of land   conditions (e.g., %   cover of land uses)
+                    *pH                      uses)                    cover of land uses)
+                    *Habitat assessment
+                    *Flow                    Additional indicators
+                    *Nutrients               for lakes:
+                    *Landscape conditions    *Secchi depth
+                    (e.g., % cover of land
+                    uses)                    Additional indicators
+                                             for wetlands:
+                    Additional indicators    *Wetland
+                    for lakes:               hydrogeomorphic
+                    *Eutrophic condition     settings and functions
+
+                    Additional indicators
+                    for wetlands:
+                    *Wetland
+                    hydrogeomorphic
+                    settings and functions
+
+ Supplemental       *Ambient toxicity        *Other chemicals of      *VOCs (in             *Other chemicals of
+ Indicators         *Sediment toxicity       concern in water         reservoirs)           concern in water
+                    *Other chemicals of      column or sediment       *Hydrophyllic         column or sediment
+                    concern in water         *Hazardous chemicals     pesticides
+                    column or sediment       *Aesthetics              *Nutrients
+                    *Health of organisms                              *Other chemicals of
+                                                                      concern in water
+                                                                      column or sediment
+                                                                      *Algae
+
+
+
+documents how the State monitoring program will plan, implement, and assess the effectiveness
+of its quality assurance and quality control operations. Quality Assurance Project Plans (QAPPs)
+document the planning, implementation, and assessment procedures for a particular project, as
+well as any specific quality assurance and quality control activities. EPA guidance on developing
+QMPs and QAPPs is available at www.epa.gov/quality.
+
+These plans should reflect the level of data quality that is appropriate for the specific uses of the
+data, such as comprehensive assessment and listing of impaired waters, TMDL development,
+NPDES permit issuance, and NPS effectiveness. Data quality and quantity needs are expected to
+vary according to the consequences of the resulting water quality decisions.
+
+                                                      -8-
+Under 40 CFR 130.4(b), State monitoring programs are to include collection and analysis of
+physical, chemical, and biological data, and quality assurance and control programs to ensure the
+data are scientifically valid. Under 40 CFR 31.45, if a grantee’s project involves environmentally
+related measurements or data generation, the grantee must develop and implement quality
+assurance practices consisting of policies, procedures, specifications, standards, and
+documentation sufficient to produce data of adequate quality to meet project objectives and
+minimize loss of data due to out-of-control conditions or malfunctions.
+
+A grantee that uses Section 106 funds for monitoring activities should include, in its Quality
+Assurance Program Plan (QAPP) or equivalent document, a description of how:
+
+•    Each study or monitoring program objective is defined in specific qualitative and
+     quantitative terms and linked to an environmental management decision or reporting
+     requirement associated with the goals of the Clean Water Act.
+
+•    Selected indicators offer the most direct means of assessing the environmental attribute
+     under study, based upon the associated requirement and goals of the Clean Water Act.
+
+•    The uncertainty associated with estimates and conclusions drawn from each component of
+     the monitoring program are understood, quantified, and limited to a reasonable extent,
+     commensurate with the potential costs (both monetary and environmental) of decision
+     errors.
+
+•    The proposed sampling scheme will yield data that are representative of the environmental
+     attribute under study, with consideration of statistical probabilities associated with
+     sampling.
+
+•    The quality of the data is assessed and validated to ensure that the data quality objectives of
+     the programs were met.
+
+F. Data Management
+
+The State uses an accessible electronic data system for water quality, fish tissue, toxicity,
+sediment chemistry, habitat, and biological data (following appropriate metadata and
+State/Federal geo-locational standards) with timely data entry and public access.
+
+EPA’s new STORET (STOrage and RETrieval) system provides an accessible, nationwide
+central repository of water information of known quality. In the future, EPA will require that all
+States use STORET either directly or indirectly (e.g., via the Central Data Exchange (CDX)
+which will include the Monitoring Data Standard). For States that do not currently operate
+STORET, their monitoring strategies should provide for the use of STORET as soon as is
+practicable. EPA is committed to providing updates and improvements to STORET to meet user
+needs and to providing the State with training and other technical support. See
+
+
+                                                -9-
+www.epa.gov/storet for further information on STORET, including system updates for users and
+instructions on how to download data via the Web.
+
+In addition, the State should store its assessment information in an accessible electronic database.
+For the 2004 305(b) reports and 303(d) lists, EPA strongly recommends that all States use either
+the Assessment Database (ADB) or an equivalent relational database for storing WQS attainment
+status for each assessment unit. See Appendix B of the 2002 Integrated Water Quality
+Monitoring and Assessment Report Guidance [5] for further information on the electronic
+reporting format. This guidance is available at: www.epa.gov/owow/tmdl/2002wqma.html
+
+The State also provides appropriate geospatial data to enable the use of current Geographic
+Information System (GIS) tools. The 2002 Integrated Water Quality Monitoring and Assessment
+Report Guidance, Appendix B, asks states to define the geographic location of assessment units
+using the National Hydrography Dataset (NHD). The use of NHD is strongly recommended for
+the 2004 305(b) reports and 303(d) lists. The 1998 Content Standard for Digital Geospatial
+Metadata [6] to label geospatial datasets applies to States and EPA. It provides for characterizing
+geospatial data so that users can determine the data’s fitness for their purpose. For more
+information, visit http://www.fgdc.gov/metadata/metadata.html.
+
+G. Data Analysis/Assessment
+
+The State has a methodology for assessing attainment of water quality standards based on
+analysis of various types of data (chemical, physical, biological, land use) from various
+sources, for all waterbody types and all State waters. The methodology should describe how
+existing and available data and information relevant to applicable water quality standards,
+including both core and supplemental indicators, will be compiled and analyzed to make
+attainment decisions about State waters. The methodology describes how the state integrates its
+primary data – collected specifically for making attainment decisions according to a State QAPP
+– with data from secondary sources, collected for a variety of purposes under a variety of quality
+control practices. (Secondary data could include, for example, volunteer monitoring data or
+discharge monitoring reports.) The methodology should:
+
+•    Identify the required or likely sources of existing and available data and information and
+     procedures for collecting or assembling it;
+
+•    Describe or reference requirements relating to data quality and representativeness, such as
+     analytical precision, temporal and geographical representation, and metadata documentation
+     needs;
+
+•    Include or reference procedures for evaluating the quality of datasets; and
+
+•    Explain data reduction procedures (e.g., statistical analyses) appropriate for comparing data
+     to applicable water quality standards.
+
+
+                                               -10-
+For more information on developing assessment methodologies, see 40 CFR 130.7(b)(6)(iv) and
+www.epa.gov/owow/monitoring/calm.html.
+
+H. Reporting
+
+The State produces timely and complete water quality reports and lists. The Clean Water
+Act requires the State to provide certain reports and lists, including those listed below. EPA
+encourages consolidation of reports wherever possible.
+
+•    The Section 305(b) water quality inventory report, which includes Section 314 Lakes
+     Assessments, characterizes the condition and quality trends of monitored waters within the
+     State and is due on April 1 of even-numbered years. This is the primary State monitoring
+     program report to EPA and draws upon information from the Clean Lakes program,
+     nonpoint source program, TMDLs, and other national, State, and local assessments.
+
+•    The Section 303(d) list identifies all impaired waters based on existing and readily available
+     information. The list is also due on April 1 of even-numbered years.
+
+•    Section 406 of the Clean Water Act, as amended by the Beaches Environmental Assessment
+     and Coastal Health Act of 2000, requires States with Section 406 grants to submit
+     information on monitoring and notification programs for coastal recreation waters.
+
+Other reports and products resulting from water monitoring program activities include, for
+example, reports or analyses to support triennial reviews, use attainability analyses (UAAs),
+standards revisions, water quality based effluent limits (WQBELs) in permits, total maximum
+daily loads (TMDLs), nonpoint source programs, and watershed plans.
+
+The 2002 Integrated Water Quality Monitoring and Assessment Report Guidance (November 19,
+2001) provides States, Territories, and authorized Tribes with guidance for integrating the
+development and submission of 2002 305(b) water quality reports and Section 303(d) lists of
+impaired waters. The Integrated Report will satisfy CWA reporting requirements for both
+Section 305(b) water quality reports and Section 303(d) lists.
+
+As explained in the FY 2001 Clean Water Act Section 106 Grant Guidance and the March 1,
+2002 memorandum, “2002 Integrated Section 305(b) Reports and 303(d) Lists and the impact of
+the 305(b) Reports on Annual S106 Grant Funding Targets”, EPA will not award any Section
+106 funding under a Section 106 grant or performance partnership grant (PPG) unless a State has
+annually updated its monitoring data in accordance with Section 106(e), and submitted the most
+recently required Section 305(b) report [7, 8]. The annual update requirement may be satisfied
+by uploading monitoring data to the national STORET warehouse or updating the 305(b)
+assessment information in the National Assessment Database.
+
+
+
+
+                                               -11-
+The State is encouraged to report to the public on water quality, taking into account the needs of
+interested audiences. Many States use various formats and media such as technical reports,
+brochures, posters and other visual aids, oral presentations, newspaper articles, and the Internet.
+
+I. Programmatic Evaluation
+
+The State, in consultation with its EPA Region, conducts periodic reviews of each aspect of
+its monitoring program to determine how well the program serves its water quality
+decision needs for all State waters, including all waterbody types. This should involve
+evaluating the monitoring program to determine how well each of the 10 elements is addressed,
+and determining how needed changes and additions are incorporated into future monitoring
+cycles. This evaluation will take into consideration the effects of funding shortfalls on a State’s
+implementation of its monitoring program strategy. EPA and States recognize the importance of
+a nationally consistent approach for evaluating state monitoring programs.
+
+Since water quality monitoring programs are effective only when they meet the information
+needs of water quality resource managers, the State should have a feedback mechanism for
+reporting useful information to water quality managers and incorporating their input on future
+data needs. Information needs may include site-specific criteria modification studies, support for
+enforcement actions, validation of the success of control measures, modeling for TMDLs,
+monitoring unassessed waters, and other activities. Decision-makers at the national, regional,
+State, and local levels should be considered in this process.
+
+The State should evaluate its overall monitoring program as part of a continuous improvement
+feedback loop. This may include, for example, undertaking audits of the monitoring program,
+quality assurance protocols, laboratory procedures, and data assessment procedures. See 40 CFR
+130.5 and 130.6.
+
+J. General Support and Infrastructure Planning
+
+The State identifies current and future monitoring resources it needs to fully implement its
+monitoring program strategy.
+
+As part of an ongoing integrated planning process, the following needs (staff and training,
+laboratory resources, and funding) should be assessed, considering current conditions and
+planned improvements, and discussed with the Regions during negotiation for Section 106 grants
+and PPGs that include Section 106 funds (Note: States may rely on workload models to assess
+needs).
+
+Staff and Training: The State should identify the required number of staff needed for a State
+monitoring program, as well as needed training for field, laboratory, data management, and data
+assessment staff, and should document adequacies and shortfalls. States should also address staff
+and staff training needs for unassessed waterbody types.
+
+
+                                                -12-
+Laboratory Resources: The State should identify needed laboratory support (and should
+document adequacies and shortfalls) to satisfy scientifically appropriate documented methods,
+such as methods listed in 40 CFR Part 136, published in Standard Methods for the Examination
+of Water and Wastewater, or published by the U.S. Geological Survey. U.S. EPA also
+encourages the use of performance-based methods (i.e., scientifically appropriate methods that
+meet established criteria for accuracy, sensitivity, bias, and precision and comply with specified
+data quality needs or requirements).
+
+Funding: The State should identify required funding (e.g., for salaries, training, travel,
+equipment, laboratory analysis) for a State monitoring program, along with anticipated sources
+and amounts of funding and the effects of any shortfalls.
+
+K. References
+
+1. Intergovernmental Task Force on Monitoring Water Quality. February 1995. The Strategy
+for Improving Water Quality Monitoring in the United States: Final Report of the
+Intergovernmental Task Force on Monitoring Water Quality.
+http://water.usgs.gov/wicp/itfm.html
+
+2. Yoder, C.O. 1997. Important Concepts and Elements of an Adequate State Watershed
+Monitoring and Assessment Program. ASIWPCA Standards and Monitoring Task Force.
+Prepared for U.S. EPA Office of Water Cooperative Agreement CX825484-01-0. Washington,
+DC.
+
+3. National Research Council. 2001. Assessing the TMDL Approach to Water Quality
+Management, Committee to Assess the Scientific Basis of the Total Maximum Daily Load
+Approach to Water Pollution Reduction. National Academy Press, Washington, D.C.
+
+4. U.S. EPA. 2002. Consolidated Assessment and Listing Methodology - Toward a
+Compendium of Best Practices. http://www.epa.gov/owow/monitoring/calm.html
+
+5. U.S. EPA. November 19, 2002. 2002 Integrated Water Quality Monitoring and Assessment
+Report Guidance. http://www.epa.gov/owow/tmdl/2002wqma.html
+
+6. Federal Geographic Data Committee. June 1998. Content Standard for Digital Geospatial
+Metadata (FGDC-STD-001-1998). http://www.fgdc.gov/metadata/metadata.html
+
+7. U.S. EPA. 2001. Memorandum on FY 2001 Clean Water Act Section 106 Grant Guidance
+signed February 16, 2001 by Michael B. Cook, Director, EPA Office of Wastewater
+Management.
+
+
+
+
+                                               -13-
+8. U.S. EPA. 2002. Memorandum on 2002 Integrated Section 305(b) Reports and 303(d) Lists
+and the impact of the 305(b) Reports on Annual S106 Grant Funding Targets signed March 1,
+2002 by Michael B. Cook, Director, EPA Office of Wastewater Management.
+
+
+
+
+                                           -14-
+

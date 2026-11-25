@@ -1,0 +1,1436 @@
+Final Report                    2014
+
+
+
+
+  Review of the Surface Water
+  Ambient Monitoring Program
+  (SWAMP)
+
+  December 2014
+  SWAMP-RR-SB-2014-0001
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+
+     Table of Contents
+     Executive Summary ................................................................................................................................................................... 3
+     Introduction .................................................................................................................................................................................. 6
+     What is SWAMP? ......................................................................................................................................................................... 6
+     SWAMP Achievements .............................................................................................................................................................. 8
+     Structure and Methods of the Program Review............................................................................................................. 9
+     Findings of the Program Review ....................................................................................................................................... 10
+     Recommendations ................................................................................................................................................................... 19
+     References ................................................................................................................................................................................... 21
+     Appendix I: Ten-Element Review of SWAMP ............................................................................................................... 22
+     Appendix II: Coordination Case Studies ......................................................................................................................... 25
+
+
+
+
+   December 2014                                                                                                                                                                                         2
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+
+    Executive Summary
+    Purpose of the SWAMP Program Review
+
+    In February of 2014, the Water Boards assembled a “Review Team” to conduct an internal programmatic
+    review of the Surface Water Ambient Monitoring Program (SWAMP). The purpose of the review was to
+    evaluate SWAMP’s program functions and effectiveness, and to recommend actions to ensure the program’s
+    continued success. The review was requested by Water Board managers from the State Water Board and the
+    Regional Water Boards, for three primary reasons. First, SWAMP is undergoing a major transition whereby
+    key statewide infrastructure functions (i.e., data management, quality assurance, and logistical/contract
+    support) are being converted from contract personnel to civil service. Second, the Water Boards are
+    currently considering a similar transition whereby contract personnel that provide support to regional
+    SWAMP programs may also be converted to civil service. And third, the State Water Board’s executive
+    management asked the SWAMP program to make recommendations about whether and how the SWAMP
+    program could be refocused, retooled, and/or supplemented to take on the responsibility of coordinating all
+    of the Water Boards’ myriad surface water monitoring efforts.
+
+
+    Findings of the Review
+
+    1.   A robust surface water ambient monitoring program is essential for the Water Boards to achieve
+         their mission. The Water Boards, water resource managers, the Legislature, and the public need
+         information about all of California’s water resources, not just those waters that are monitored at sites
+         where waste discharges are regulated.
+
+    2.   Since SWAMP was created in the year 2000, the Water Boards have built and maintained a
+         technically capable and functioning monitoring program. This review—and prior external
+         reviews—have found that SWAMP has both the systems and expertise to meet California’s ambient
+         monitoring needs. SWAMP’s capacity to answer management questions is limited primarily by the level
+         of available resources.
+
+    3.   Both statewide assessments and regional assessments are needed to provide information at the
+         scales needed by the Water Boards and society at large. Statewide assessments provide a “big
+         picture” of the overall status and trends of water quality in California, while regional assessments
+         provide the more detailed information needed by water regulators and resource managers to detect and
+         fix specific problems.
+
+    4. Numerous Water Board programs (and external entities) utilize and value SWAMP data and
+         products. The review found that SWAMP data and tools are used in many ways, but the benefits of their
+         use (e.g., inter-program consistency, and the usability and comparability of data) could be significantly
+         increased if Water Board managers direct other Water Board programs to use SWAMP tools.
+
+
+
+
+   December 2014                                                                                                     3
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+     5.   Water Board monitoring needs greatly exceed existing resources. The SWAMP program currently
+          is funded at a small fraction of the originally identified need, and the costs of monitoring increase every
+          year, further reducing what can be accomplished with available resources. Numerous human health and
+          resource issues are not being addressed, or are being only partially addressed.
+
+     6.   Millions of dollars are spent each year on surface water monitoring for Water Board and other
+          agency programs but the monitoring is not fully coordinated among programs. Better
+          coordination could provide multiple benefits, but effective coordination is time-consuming and
+          resource intensive. Coordination of all Water Board (and external) monitoring efforts is a laudable
+          goal, and the SWAMP program has the expertise to perform this function. But experience gained over
+          the past decade demonstrates that such coordination is extremely time intensive, and the SWAMP
+          program cannot effectively fulfill this role without substantial additional staff resources.
+
+     7.   While SWAMP has developed a robust and mature ambient monitoring program over the past
+          fourteen years, improvements can be made. Specific suggestions compiled during the review
+          include: i) establish an annual strategic planning process to align SWAMP’s statewide assessments with
+          management priorities and available resources; ii) create a feedback loop for users of SWAMP
+          assessments, data and tools to suggest improvements; and iii) use SWAMP’s experience at monitoring
+          and assessment to identify new or improved outcome-based performance measures for the Water
+          Boards.
+
+
+     Key Recommendations
+
+     1.   SWAMP should maintain its focus on ambient monitoring as its core function. The SWAMP Review
+          Team is keenly aware that the Water Boards have myriad needs for other (i.e., “targeted”) types of
+          monitoring throughout their regulatory, planning, enforcement, and other programs. Despite those
+          needs, Water Board managers should remain cognizant of the fact that ambient monitoring is
+          absolutely essential to achieving the mission of the Water Boards. SWAMP’s core focus on ambient
+          monitoring should not be sacrificed to provide the “targeted” monitoring or coordination needs of other
+          programs.
+
+     2.   SWAMP should maintain robust statewide assessments and regional assessments. Given the
+          utility of ambient monitoring information gathered at multiple spatial scales, and as previously
+          recommended by external program reviewers (Batiuk and others 2006), SWAMP should continue its
+          dual-scale assessments whereby the State Water Board leads the management of statewide
+          assessments, and the Regional Water Boards conduct assessments at the regional, watershed, and
+          water body scales.
+
+     3.   The Deputy Management Committee (DMC) should confer with SWAMP as the DMC refines the
+          Water Boards’ process for allocating “discretionary” contract funds for targeted monitoring
+          projects. The DMC currently is deliberating a process for addressing the many targeted monitoring
+          needs of multiple Water Board programs via discretionary contract funds. The SWAMP Review Team
+          applauds this effort, and invites the DMC to consult with SWAMP as these deliberations proceed.
+
+
+
+   December 2014                                                                                                    4
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+         Such consultation could maximize coordination with SWAMP’s assessments, and ensure the
+         comparability and usability of “targeted” data collected by other programs.
+
+    4.   In regards to monitoring coordination, Water Board executives should establish a process to
+         compile coordination needs, set priorities, and deliberate options for fostering the highest
+         priority coordination tasks. The DMC (or some other panel of Water Board executives and/or
+         managers) should lead SWAMP and other programs to: i) compile and prioritize the many needs for
+         increased coordination of monitoring (and related functions, such as data management, water quality
+         assessment, electronic data submittals, quality assurance, etc.); ii) define the specific coordination tasks
+         necessary to meet each identified need; iii) quantify the resources needed to complete each task; and iv)
+         evaluate the options for completing the highest priority tasks. In doing so, the integrity of SWAMP’s
+         ambient assessments should not be compromised to provide for increased coordination among the
+         Water Boards’ various programs. The Review Team recommends that managers consider other options,
+         such as identifying/shifting resources from the affected/benefitting programs in order to fund the
+         desired types and levels of coordination, and/or seeking new/additional resources to fund increased
+         coordination.
+
+    5.   Water Board managers should promote question-driven science to answer key management
+         questions, in part by encouraging (or requiring) other programs to utilize the many available
+         “SWAMP Tools.” One outcome of this review is the realization that other Water Board programs do not
+         take full advantage of existing SWAMP tools (i.e., assessment framework, monitoring SOPs, QA
+         protocols, data management structures, etc.). Water Board management can promote inter-program
+         consistency, data usability, and data comparability by encouraging (or directing) other programs to use
+         relevant SWAMP tools and to more fully take advantage of SWAMP’s experience and expertise.
+
+    6.   The SWAMP Review Team should update the SWAMP work plan as requested by the DMC. On
+         November 6, 2013 the DMC released a document titled Water Board Roundtables Composition, Role, and
+         Responsibilities, which directs all Water Board roundtables to develop an annual work plan. The SWAMP
+         Review Team should develop a work plan that considers all items from the DMC’s Roles and
+         Responsibilities document, as well as the following:
+
+         a.   Define the roles and responsibilities for both the full SWAMP Roundtable and the smaller Review
+              Team.
+         b.   Establish an annual strategic planning process to evaluate (and adjust as appropriate) the
+              objectives and priorities for SWAMP’s statewide ambient assessments.
+         c.   Develop a specific definition of monitoring “coordination” and articulate the coordination tasks to
+              be conducted (with available funds) by SWAMP staff at the State and Regional Water Boards.
+         d.   Specify actions to synthesize data into information that can readily be used by managers to aid in
+              decision-making.
+         e.   Create a feedback loop for users of SWAMP tools to communicate issues, problems, and ideas/
+              suggestions for improvement.
+         f.   Identify new or improved outcome-based Performance Measures for the Water Boards based
+              on SWAMP’s assessments, data, and tools.
+
+
+
+   December 2014                                                                                                        5
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+
+    Introduction
+    From February through June of 2014, the Water Boards’ Surface Water
+    Ambient Monitoring Program (SWAMP) conducted an internal programmatic
+    review to evaluate program functions and effectiveness, and to recommend
+    actions to ensure the program’s continued success. The review was
+    requested by Water Board managers from the State Water Board and the
+    Regional Water Boards, for three primary reasons. First, SWAMP is
+    undergoing a major transition whereby key statewide infrastructure
+    functions (i.e., data management, quality assurance, and logistical/contract
+    support) are being converted from contract personnel (currently through the
+    San Jose State University Research Foundation) to civil service (i.e., 12 new
+    positions being created at the State Water Board). Second, the Water Boards
+    are currently considering a similar transition whereby contract personnel
+    that provide support to regional SWAMP programs may also be converted to
+    civil service positions. And third, the State Water Board’s executive management asked the SWAMP program
+    to make recommendations about whether and how the SWAMP program could be refocused, retooled, and/
+    or supplemented to take on the responsibility of coordinating all of the Water Boards’ myriad surface water
+    monitoring efforts.
+
+
+
+    What is SWAMP?
+    SWAMP was created in response to the need for a comprehensive surface water monitoring and assessment
+    program in California. Prior to the creation of SWAMP, the Water Boards for decades conducted mostly
+    discharge-focused, compliance-based monitoring. This left most of California’s water resources
+    unmonitored. In 1999, the Legislature directed the State Water Board to prepare a proposal for a
+    comprehensive monitoring program for all of California’s surface waters, and it provided funding for such a
+    program beginning in 2000.
+
+    SWAMP is, by definition, an ambient monitoring program. Ambient monitoring considers all waters of the
+    State, while compliance-based monitoring is limited to determining compliance with permit limits or other
+    specific regulatory requirements. Compliance-based monitoring, by itself, produces fragmented and
+    inconsistent monitoring data, making broad synthesis and analysis difficult or impossible. In contrast,
+    SWAMP’s more comprehensive monitoring programs evaluate the overall condition of surface waters
+    throughout the State, thereby providing the information needed by Water Board staff, water managers, the
+    Legislature, and the public to understand and better manage California’s precious water resources.
+
+    SWAMP’s high-quality data and assessments, and the tools SWAMP has developed for use by others (e.g.,
+    standardized sampling methods, robust quality assurance procedures, consistent data reporting templates)
+    provide a foundation for technically sound, science-based decisions by the Water Boards and others.
+    SWAMP data, assessments, and tools are used by the Water Boards to (among other things):
+
+
+
+
+   December 2014                                                                                                  6
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+    1.   Assess status (e.g., Are the State’s waters in good, fair, or poor condition?)
+    2.   Track trends (e.g., Is the quality of the State’s waters improving or declining over time?)
+
+    3.   Prioritize management actions (e.g., What are the most polluted water bodies in need of corrective or
+         regulatory action/s?)
+
+    4.   Evaluate the effectiveness of Water Board programs (e.g., Have regulatory actions and grant
+         programs improved water quality? Is a water body in good condition after multiple dischargers have
+         met all of their individual permit limits?)
+
+    5.   Identify emerging threats to human health and resources (e.g., How are new/emerging chemicals,
+         harmful algal blooms, invasive species, and climate change affecting our waters?)
+    6.   Characterize “reference conditions” (i.e., conditions at minimally disturbed sites) to track the effects of
+         climate change and to support development and refinement of water quality objectives, biological
+         expectations, in-stream flow requirements, and other permit requirements. (e.g., What should be the
+         expected water quality and benthic condition for a creek in this ecoregion? How should the expected
+         condition be adjusted over time in response to factors such as climate change?)
+
+    In addition, SWAMP’s monitoring and assessment projects provide information about water quality and the
+    attainment of beneficial uses at multiple spatial scales (i.e., water body, watershed, regional, and statewide
+    scales). This information is often used to adjust compliance-based monitoring requirements, and can even
+    reduce monitoring burden—and associated compliance costs—for regulated entities within the affected
+    watershed or region.
+
+                                     In 1999, the California State Legislature directed the State Water Board to
+                                     prepare a proposal for a comprehensive surface water monitoring program
+                                     (AB 982, Statutes of 1999). The resulting Report to the Legislature estimated
+                                     that a comprehensive surface water ambient monitoring program for
+                                     California would require between 87–132 positions and cost between $59
+                                     and $115 million per year. SWAMP currently is funded at a small fraction of
+                                     the identified need: $8 million per year with 17 staff positions. SWAMP’s
+                                     funding currently comes from two sources: 1) a State Ambient Water
+                                     Monitoring Surcharge on waste discharge permit fees, and 2) federal Clean
+                                     Water Act (CWA) Section 106 Grant funds. Staff positions are divided
+                                     between the State and Regional Water Boards. Funding has fluctuated (both
+                                     up and down) over the years, but is currently about the same as when the
+    program was first created in 2000. While resources have remained relatively flat overall, demands on the
+    program have steadily increased, and costs have substantially increased. The result is that SWAMP’s
+    capacity to generate information is substantially less than when it was created, and (if resources remain
+    static) its capacity will continue to decline year-after-year.
+
+
+
+
+   December 2014                                                                                                       7
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+
+    SWAMP Achievements
+    In the fourteen years since SWAMP was created, the program has produced many valuable achievements.
+    SWAMP has improved the quality and consistency of data collected by the Water Boards, the regulated
+    community, NGOs, and citizen monitors. SWAMP has used its monitoring resources and expertise to
+    leverage funds across programs and agencies, and to design, coordinate, and lead major statewide and
+    regional assessments. And SWAMP tools and data have supported key regulatory programs and
+    management actions. Examples include:
+
+        SWAMP provided most of the data used for developing California’s 2010 “Integrated Report” (a report
+         required by the Clean Water Act sections 303(d) and 305(b) that includes statewide water quality
+         assessments and the listing and de-listing of impaired water bodies)—and SWAMP’s standardized data
+         formats have helped to “automate” and streamline the assessment process;
+
+        SWAMP data and tools support numerous key Water Board policies and actions, including: biological
+         objectives, nutrient objectives, trash control policy, wetland and riparian protection policies, and the
+         Statewide Mercury Program;
+
+        SWAMP’s Perennial Streams Assessment showed that about 50% of the State’s streams are in good
+         condition (i.e., supporting healthy aquatic communities), and it identified streams where actions are
+         needed to improve/restore stream health;
+
+        SWAMP’s Reference Condition Management Program sampled more than 600 “reference” (i.e.,
+         minimally disturbed) streams across the State. Data from these sites provided the “yardstick” for
+         judging stream health and established a baseline for tracking the effects of climate change;
+
+        SWAMP’s Bioaccumulation Monitoring Program conducted the first-ever statewide assessments of
+         contamination in fish from lakes, rivers, and coastal waters across the State. The results demonstrated
+         widespread contamination of fish tissue and led the State Water Board to initiate development of a
+         statewide Total Maximum Daily Load (TMDL) for mercury in reservoirs. And follow-up monitoring has
+         been conducted to support the development of fish consumption advisories to alert the public about
+         significant health threats at specific water bodies.
+
+        SWAMP’s Stream Pollution Trends Monitoring Program (SPoT) measures contaminants and toxicity in
+         the bottom sediments of rivers and streams, and correlates the findings to surrounding land uses. SPoT
+         has detected declines in long-banned (organochlorine) pesticides, but increases in contamination and
+         toxicity due to newer pesticides, such as pyrethroids. SPoT collaborates with multiple entities to
+         leverage resources, and the findings will help managers and regulators to better control contamination
+         in California’s rivers and streams.
+
+    Additional examples and more information about SWAMP projects and accomplishments can be found in the
+    online SWAMP Achievements Report.
+
+
+
+
+   December 2014                                                                                                    8
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+
+     Structure and Methods of the
+                                                                                          Data Management
+     Program Review                                                                        for Irrigated
+                                                                                           Lands Programs
+     The team responsible for conducting this review (referred to                          in Central Coast
+     as the “Review Team”) was assembled in March 2014 and                                and Central Valley
+     included the following personnel: 1) SWAMP staff and managers                      Regions
+     from the State Water Board; 2) SWAMP coordinators from each of the
+                                                                                In Region 3, the Cooperative
+     nine Regional Water Boards; 3) two Regional Water Board Assistant
+                                                                                Monitoring Program for
+     Executive Officers (representing the Water Boards’ Deputy
+                                                                                Agriculture (CMP) has
+     Management Committee); 4) the Executive Director of the California
+                                                                                collected data at 50 sites on a
+     Water Quality Monitoring Council; and 5) a representative of the U.S.
+                                                                                monthly basis since 2006. In
+     Environmental Protection Agency.
+                                                                                Region 5, third-party
+                                                                                coalition groups have
+     The Program Review consisted of the following steps:
+                                                                                monitored surface water at
+     i.    The Review Team revisited the 2010 “SWAMP Strategy” (SWAMP           more than 200 sites since
+           2010)—the program’s most recent strategic planning                   2004 under the Irrigated
+           document—to determine where the program currently stands             Lands Regulatory Program
+           vis-a-vis the goals established for the program in 2010.             (ILRP). SWAMP staff in both
+                                                                                Regions 3 and 5 have worked
+     ii.   The Review Team revisited prior program evaluations to               with irrigated lands program
+           determine what prior recommendations had (and had not) been          staff and representatives of
+           implemented, which prior recommendations were still relevant         the agricultural industry to
+           today, and which prior recommendations should be carried             ensure that data collected for
+           forward as part of this review. The prior program evaluations        these programs are of known
+           included two major external program reviews: 1) a 2002-06            quality and accessible via the
+           external review of the SWAMP program that was conducted by a         California Environmental
+           blue-ribbon panel of scientists and managers with experience at      Data Exchange Network
+           large statewide and/or national monitoring programs (Scientific      (CEDEN). One of the
+           Planning and Review Committee, “SPARC”; Batiuk and others,           advantages of these efforts is
+           2006); and 2) a 2008-09 USEPA-sponsored review of the Water          that the irrigated lands
+           Board’s freshwater biological assessment programs that was           monitoring data is available
+           conducted by a team of nationally-recognized experts in the          for other assessments. In
+           fields of bioassessment and biocriteria (Yoder and Plotnikoff        2011, CMP, ILRP, and SWAMP
+           2009).                                                               toxicity monitoring data were
+                                                                                combined to produce a
+     iii. The USEPA’s representative on the Review Team evaluated the           statewide assessment of
+          SWAMP program against the USEPA’s Elements of a State Water           Toxicity in California.
+          Monitoring and Assessment Program (known colloquially as “the
+          Ten Elements,” USEPA 2003).
+
+
+
+
+   December 2014                                                                                                  9
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+     iv. Members of the Review Team attended other Water Board program “Roundtables” to ask whether and
+         how each program is using SWAMP data and tools, and to solicit other Water Board programs’ and
+         Monitoring Council input about what SWAMP is doing well, and what could be improved.
+
+     v.   The Review Team engaged in multiple facilitated deliberations to make findings and develop
+          recommendations.
+
+
+
+     Findings of the Program Review
+     1.   A robust surface water ambient monitoring program is essential for the Water Boards to achieve
+          their mission.
+
+          In order to achieve the Water Boards’ mission “to preserve, enhance and restore the quality of
+          California’s water resources,” the Water Boards and others (i.e., water resource managers, the
+          Legislature, NGOs, and the public-at-large) need information about all of California’s water resources—
+          not just information about the relatively small percentage of the State’s waters where waste discharges
+          are regulated.
+
+          Ambient monitoring allows the Water Boards to (over time) assess the status of all California waters.
+          Those waters found to be in good condition can be protected by applying anti-degradation policies and
+          regulations. It is much less expensive to prevent degradation of high-quality waters than to restore
+          them after degradation has occurred. The necessary first step is to identify water body segments that
+          currently are in good condition—and this can only be accomplished via ambient monitoring. And where
+          water bodies are found to be degraded (as is the case for thousands of water body segments in
+          California), ambient monitoring data are needed in order to prioritize restoration activities, and to set
+          restoration goals.
+
+          Ambient monitoring also allows the Water Boards to track trends in water quality over time, to
+          prioritize management actions, to evaluate the effectiveness of Water Board programs, to identify
+          emerging or previously unknown threats, and to characterize “reference conditions” at minimally
+          disturbed sites (in order to establish—and adjust over time—expectations for water quality at sites
+          where waste is discharged). Only via ambient monitoring can the Water Boards and our society at large
+          truly have the perspective to judge the level and significance of degradation at sites affected by waste
+          discharges.
+
+     2.   Since SWAMP was created in the year 2000, the Water Boards have built and maintained a
+          technically capable and functioning monitoring program.
+
+          The first programmatic review of SWAMP was conducted in 2005-06 by an external, multi-national
+          panel of experts who have broad experience at managing large national, regional, and state monitoring
+          programs. That review:
+
+
+
+
+   December 2014                                                                                                  10
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+             “…showed clearly that the SWAMP has achieved notable
+             successes at both regional and statewide levels. The [panel]        Trash Monitoring Data in
+             was particularly impressed by these accomplishments, given          Southern California Used to
+             the relatively small budget the program has to work                 Support Ban on Plastic Bags
+                                                                                 in the City of Los Angeles
+             with” (Batiuk and others, 2006).
+                                                                                 Trash monitoring data had an
+        In 2008, a USEPA-sponsored review of SWAMP’s bioassessment               influential role in the Los
+        program, which also was conducted by nationally recognized               Angeles City Council’s
+        experts, concluded that:                                                 decision to ban plastic bags in
+                                                                                 the City of Los Angeles. The
+             “As determined by the U.S. EPA Critical Technical Elements
+                                                                                 monitoring data used in the
+             methodology, California’s bioassessment program is currently
+                                                                                 decision were collected under
+             at an above average level of rigor… With continued                  a southern California regional
+             management support, SWAMP and DFG-ABL are capable of                monitoring program
+             building, maintaining and refining the technical tools that the     conducted by the Stormwater
+             Water Boards will need to incorporate biological criteria and       Monitoring Coalition (SMC),
+             assessments into their water quality programs” (Yoder and           which is partly funded by the
+             Plotnikoff 2009).                                                   SWAMP programs of the
+                                                                                 Santa Ana, Los Angeles, and
+        At the outset of the current review (i.e., in March 2014), the Water
+                                                                                 San Diego Regional Water
+        Boards asked staff from USEPA Region 9 to evaluate the SWAMP
+                                                                                 Quality Control Boards. This
+        program against the USEPA’s Elements of a State Water Monitoring
+                                                                                 regional trash assessment is
+        and Assessment Program (known colloquially as “the Ten
+                                                                                 one of the first probabilistic
+        Elements,” USEPA 2003). That review (conducted by Terrence
+                                                                                 surveys of its type in the
+        Fleming, USEPA Water Quality Standards lead for Region 9 States,
+                                                                                 nation, and provides the first
+        Tribes and Territories [Appendix I]) concluded that SWAMP was
+                                                                                 estimates about the true
+        above average (or better) in every category. Thus, according to the
+                                                                                 extent of trash in coastal
+        USEPA’s widely acknowledged “Ten Elements,” the SWAMP
+                                                                                 watersheds in the region. The
+        program has the appropriate devices, methods, systems, and
+                                                                                 results from the trash
+        procedures necessary to monitor and to compile and analyze data
+                                                                                 assessment indicated that
+        on the quality of surface waters throughout California.                  plastic bags were the most
+                                                                                 prevalent trash item in
+        All of the above is in stark contrast with the situation that existed
+                                                                                 southern California’s streams,
+        prior to SWAMP—only fourteen years ago—when the Water
+                                                                                 representing nearly 20% of
+        Boards had no comprehensive statewide ambient monitoring
+                                                                                 all items found
+        program, no publicly accessible database, no standardized
+                                                                                 during the
+        protocols, and either no quality assurance or (at best) inconsistent
+                                                                                 survey.
+        and/or undocumented quality assurance programs.
+
+        While the Water Boards’ ambient monitoring needs exceed current
+        resources (see Finding #5, below), the SWAMP program is technically sound,
+        and poised to effectively utilize resources that are made available, now and into
+        the future.
+
+
+
+
+   December 2014                                                                                                   11
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+     3.   Both statewide assessments and regional assessments are needed to provide information at the
+          scales needed by the Water Boards and society at large.
+
+          SWAMP’s statewide assessments provide a “big picture” of the overall status and trends of water
+          quality throughout California, while its regional assessments provide the more detailed information
+          needed by water regulators and managers to detect and fix specific problems. An expert panel of water
+          scientists and managers that reviewed the SWAMP program in 2005-06 recommended specifically that
+          the Water Boards carefully design and implement multiple robust statewide assessments “without
+          losing valuable regional flexibility” (Batiuk and others, 2006).
+
+          SWAMP’s statewide assessments. SWAMP’s four ongoing statewide assessments are:
+
+          Bioaccumulation Monitoring Program – This program is focused on testing contaminants in fish and
+          shellfish from lakes, rivers, streams, and coastal waters to assess whether the fish and shellfish are safe
+          to eat.
+
+          Stream Pollution Trends (SPoT) Monitoring Program – The SPoT program monitors trends in sediment
+          toxicity and sediment contaminant concentrations in selected large rivers throughout California, and
+          relates contaminant concentrations to watershed land uses. This helps water regulators and managers
+          to quantify and understand the causes of toxicity in the State’s large watersheds.
+
+          Perennial Streams Assessment (PSA) – The PSA monitors the biota and habitat of rivers and streams
+          throughout California to assess their overall health. The PSA determines whether streams are in good,
+          fair, or poor condition, and tracks trends in river/stream health over time. The PSA also correlates
+          biological conditions to associated stressors, to aid in the identification of corrective actions where
+          stream health is degraded.
+
+          Reference Condition Management Program (RCMP) — The RCMP monitors a network of stream and
+          river “reference sites” (i.e., minimally disturbed sites) and uses the results to establish “reference
+          conditions” (i.e., the yardstick used to judge stream and river health).
+
+          The above statewide assessments allow the Water Boards, the USEPA, and many others to protect
+          public health, identify and characterize threats to California’s water resources, and to track and
+          understand the overall status and trends in water quality over time.
+
+          SWAMP’s regional assessments. SWAMP’s regional assessments are planned and executed by each of
+          the nine Regional Water Quality Control Boards. Each region identifies its own ambient monitoring
+          priorities, and designs assessments at the appropriate scale (i.e., regional, watershed, or water body
+          scale) to answer specific monitoring questions. SWAMP’s regional assessments supply numerous
+          crucial benefits to the Water Boards. For example, the regions design SWAMP monitoring to:
+
+                 identify pollutant sources
+                 provide long-term data sets (to track trends over time)
+                 target information gaps (to meet the needs of multiple programs)
+
+
+
+   December 2014                                                                                                    12
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+
+                support CWA 303(d) listing and de-listing decisions
+                support enforcement actions                                                   Clean Water
+                measure success of regulatory/management efforts                               Team
+                match/leverage funding of multiple partners                                      Citizen
+                pilot innovations (which, once vetted, are used by                              Monitors are
+                 others)                                                                       important
+                                                                                          players in protecting
+         SWAMP’s regional assessments complement the statewide
+                                                                                water quality. Concerned
+         assessments by allowing the flexibility needed to address the
+                                                                                citizens conducting science in
+         highest priority ambient monitoring needs at each region. For
+                                                                                the watersheds also serve as
+         example, some (primarily urban) regions use much of their
+                                                                                “watchdogs” and have
+         SWAMP resources to partner with other entities (such as
+                                                                                discovered many pollution
+         regulated dischargers) to establish and implement coordinated
+                                                                                events. SWAMP tools and
+         regional monitoring partnerships, while other (primarily rural)
+                                                                                products help citizen monitors
+         regions have (depending on the watershed) fewer potential
+                                                                                produce data that is useable
+         partners, and therefore use their SWAMP resources to conduct
+                                                                                and of known quality while
+         monitoring on their own.
+                                                                                also ensuring value to their
+                                                                                volunteers’ time. For example,
+         The regions also use SWAMP funds to conduct crucial follow-up
+                                                                                all of San Diego Coastkeeper’s
+         in response to the findings of SWAMP’s statewide assessments.
+                                                                                monitoring activities follow
+         For example, SWAMP’s statewide Bioaccumulation Monitoring
+                                                                                SWAMP quality assurance and
+         Program has identified a significant threat to human health due
+                                                                                sampling protocols and share
+         to mercury and other contaminants in fish tissue. But the
+                                                                                data using CEDEN. In
+         statewide assessments are only “screening” studies, and as such
+                                                                                September 2011, during
+         they do not generally capture enough fish to allow the
+                                                                                routine monthly monitoring,
+         development of specific fish consumption advisories. As funding
+                                                                                volunteers observed gray
+         allows, the regions have followed up by capturing and testing
+                                                                                colored water, dead fish, and a
+         enough fish for Cal/EPA-OEHHA to develop consumption advice
+                                                                                strong sewage odor. Follow up
+         for specific water bodies. The resulting “Safe Eating Guidelines”
+                                                                                investigations determined that
+         are disseminated to warn the public about the hazards, and to
+                                                                                Los Penasquitos Lagoon, a
+         inform anglers about which species of fish at a particular water
+                                                                                State Park Preserve, was the
+         body are/aren’t safe to eat. Without this crucial follow-up by the
+                                                                                victim of a 3.5 million gallon
+         Regional Water Boards, Cal/EPA-OEHHA would not have the data
+                                                                                sewage spill. Coastal waters
+         to develop Safe Eating Guidelines.
+                                                                                were also impacted and
+    4.   Numerous Water Board programs (and external entities)                  deemed unsafe for recreational
+         utilize and value SWAMP data and products.                             contact. The San Diego Water
+                                                                                Board used Coastkeeper’s data
+         SWAMP provides a majority of the data used by the Water                to establish a baseline for
+         Boards for conducting the assessments required by the Clean            water quality conditions that
+         Water Act (CWA) sections 303(d) and 305(b). Of the 22,251              were used as a target for
+         “lines of evidence” created for the 2010 Integrated Report,            cleanup and restoration.
+
+
+
+
+   December 2014                                                                                                  13
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+         11,743 (53%) were based on SWAMP data. SWAMP data also are invaluable for “de-listing” water
+         bodies (i.e., removing water bodies/segments from the CWA 303(d) list of impaired waters) when
+         water bodies are no longer impaired or were mistakenly listed.
+
+         SWAMP data are crucial for the Water Boards to develop and implement key policies and programs,
+         such as biological objectives, nutrient objectives, trash control policy, wetland and riparian protection
+         policies, and the Statewide Mercury Program. SWAMP data are widely used to characterize background
+         receiving water quality for numerous permits, water quality certifications, enforcement actions, and
+         many other Water Board programs. The Cal/EPA Office of Environmental Health Hazard Assessment
+         (Cal/EPA-OEHHA) uses SWAMP data to develop fish consumption advisories to protect human health.
+         And numerous other external entities (such as water managers, federal agencies, universities, NGOs,
+         and interested citizens) often request SWAMP data for myriad other uses.
+
+         The SWAMP program has for more than a decade focused a considerable amount of attention and
+         resources on building tools that the Water Boards will need to succeed in the 21st century. During the
+         course of this review, the Review Team heard from numerous Water Board roundtables and staff that
+         SWAMP-funded tools are both used and highly valued. In fact, many programs now require that
+         monitoring activities utilize SWAMP methods and/or adhere to SWAMP quality assurance and data
+         management protocols. SWAMP field/lab protocols, quality assurance procedures, and data formats are
+         now required in numerous permits, water quality certifications, grant projects, and enforcement orders,
+         which fosters consistency and ensures data usability and comparability.
+
+         As part of this review, SWAMP staff solicited feedback from other Water Board programs at Roundtable
+         meetings and found that although most programs use SWAMP data and tools to some extent, many
+         other needs exist—from technical assistance to monitoring that is needed to answer specific
+         (“targeted”) questions. Another challenge is that, in some cases, staff from other Water Board programs
+         do not take full advantage of existing SWAMP data and tools, or are unaware that they may contact
+         SWAMP staff for technical assistance.
+
+    5.   Water Board monitoring needs greatly exceed existing resources.
+
+         SWAMP’s statewide and regional monitoring programs have been very successful at addressing
+         numerous key monitoring questions. However, since SWAMP was created fourteen years ago, the fact
+         remains that only a fraction of California’s surface waters (i.e., 211,000 miles of rivers and streams, 1.6
+         million acres of lakes, 1,100 miles of coastline, and 1.3 million acres of bays and estuaries) have been
+         comprehensively assessed.
+
+         As discussed above (see section titled “What is SWAMP?”), the SWAMP program currently is funded at
+         only a small fraction of the originally identified need. And the costs of monitoring increase every year,
+         further reducing what can be accomplished with available resources. The end result is that numerous
+         human health and other water resource issues are not being addressed, or are being only partially
+         addressed.
+
+
+
+
+   December 2014                                                                                                       14
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+        Over the past several years, SWAMP’s four existing statewide assessments and all of its regional
+        programs have been scaled back, due to static (or declining) resources and increasing costs. If budgets
+        remain steady, SWAMP’s assessments will need to be further curtailed as costs continue to rise.
+
+        While SWAMP’s four existing statewide assessments have been
+        scaled back due to rising costs, other (currently unfunded)             Enforcement Action – CCAMP
+        statewide assessments are needed to protect human health and to         Follows Trail of Broccoli to
+                                                                                Successful Enforcement
+        fill other key data gaps, such as:
+                                                                                In 2006, upstream of a routine
+        1) Bacteria in inland waters. Swimming safety is a core Clean           monitoring site, Central Coast
+           Water Act use to be protected. There currently is no statewide       Ambient Monitoring Program
+           program to assess indicator bacteria in inland waters, leaving       (CCAMP) field staff observed
+           the Water Boards and water managers unable to answer the             discharge of foul smelling
+           question: “Is it safe to swim in freshwater lakes and streams?”      water from a storm drain
+                                                                                entering the waterway.
+        2) Cyanotoxins. A number of toxins released by cyanobacteria
+                                                                                Monitoring data showed very
+           (blue-green algae) can be toxic to humans, pets, livestock, and
+                                                                                high nutrient and coliform
+           wildlife, and harmful algae blooms are becoming increasingly
+                                                                                concentrations, and a trail of
+           common as climate change proceeds. Yet there is no
+                                                                                broccoli (along with produce
+           comprehensive monitoring program for these toxins in
+                                                                                labels) being discharged from
+           California.
+                                                                                the drain. Follow-up toxicity
+        3) The effects of contaminants (such as mercury) on non-                sampling showed zero
+           human endpoints. SWAMP’s Bioaccumulation Monitoring                  survival to Ceriodaphnia and
+           Program measures contaminants in sport fish that are                 lethal concentrations of
+           consumed by humans, but there is little monitoring of smaller        chlorpyrifos and diazinon in
+           “prey” fish or egg shells to assess toxic effects on wildlife.       the discharge. Enforcement
+        4) Biological integrity of numerous water body types.                   staff were notified and action
+           SWAMP’s Perennial Streams Assessment measures the health             was taken. The packing plant
+           of perennial rivers and streams, but there is no such program        ultimately complied by
+           for lakes, wetlands, non-perennial streams, or coastal/ocean         moving their discharge into
+                                                                                the City’s industrial waste
+           waters.
+                                                                                system. The case resulted in
+        5) Constituents of emerging concern (CECs). The State Water             fines of $107,820 and
+           Board’s recycled water program includes a modest component           resolution of the toxic
+           to monitor for CECs. But new chemicals continually enter the         discharge.
+           marketplace (and therefore the environment), often with little
+           or no monitoring.
+
+        6) Monitoring the effects of climate change on water quality
+           and beneficial uses of water. SWAMP’s Reference Condition
+           Management Program measures changes in ecological
+           conditions at perennial river/stream “reference sites”
+           throughout the State. Such data are essential for developing
+           (and adjusting over time) water quality objectives, biological
+
+
+
+   December 2014                                                                                                  15
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+             expectations, in-stream flow requirements and other permit requirements. But that program has
+             been scaled back due to budget cuts and rising costs—and there are no equivalent programs for
+             lakes, wetlands, non-perennial streams, or coastal/ocean waters.
+
+         7) Other key statewide assessments. In addition to the above, needs have been identified for
+            numerous other statewide assessments, such as the effects of algae and trash on recreation
+            beneficial uses, the extent and magnitude of pesticide contamination of California’s surface waters,
+            and the need for additional multi-indicator tools to assess biological integrity of numerous water
+            body types.
+
+         Despite the identified need for additional statewide assessments, given its current budget SWAMP is
+         not able to initiate any new statewide assessments at this time. Nor can SWAMP (given its current
+         budget and rising costs) conduct regional assessments for any more than a few of the highest priority
+         concerns at each Regional Water Board.
+
+         The Regional Water Boards are increasingly unable to follow up on the findings of SWAMP’s statewide
+         assessments. For example, most Regional Water Boards have in the past used a portion of their SWAMP
+         allocations to follow up on the statewide Lakes Survey by collecting additional data to facilitate the
+         development of fish consumption advisories (to warn the public of significant health risks) at specific
+         lakes and reservoirs where fish are contaminated. However, this follow-up is limited by budget
+         constraints, meaning human health may be at risk at lakes where follow-up has not yet occurred.
+
+         In addition to the Water Boards’ ambient monitoring needs, many Water Board programs also have
+         substantial needs for “targeted” monitoring. For example, “targeted” monitoring is needed to: develop
+         TMDLs, to develop/refine water quality standards, to determine specific pollutant sources (in order to
+         assign responsibility and design corrective measures), to support enforcement actions, to support “de-
+         listing” of water bodies that are listed as impaired, etc. Given its current budget, SWAMP cannot fulfill
+         the many targeted monitoring needs of the Water Boards’ many other programs.
+
+    6.   Millions of dollars are spent each year on surface water monitoring for Water Board and other
+         agency programs but the monitoring is not fully coordinated among programs. Better
+         coordination would provide multiple benefits, but is time-consuming and resource intensive.
+
+         The Water Boards’ executive management has expressed a desire for better coordination of the surface
+         water monitoring and assessment efforts conducted by the various Water Board programs and external
+         entities. Improved coordination can result in increased efficiencies, improved data comparability and
+         usability, cost savings in some areas, reduced cost of compliance for dischargers, and better
+         management decisions. But experience has shown that such coordination is time-intensive, and
+         therefore has substantial costs (See Appendix II for examples).
+
+         SWAMP possesses the expertise to foster and/or lead the coordination of surface water monitoring
+         efforts, but it currently has insufficient resources to do so. This longstanding issue was raised previously
+         by a panel of external scientists and managers who reviewed the SWAMP program in 2005-06. That
+
+
+
+
+   December 2014                                                                                                     16
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+        expert panel concluded that there is “insufficient funding”
+        and “insufficient institutional support for monitoring
+                                                                                         SWAMP
+        coordination” at the Water Boards (Batiuk and others,
+                                                                                         Bioassessment Data
+        2006, at p. 4).                                                                  Provided Critical
+                                                                                         Information in the
+        In 2007, the California Water Quality Monitoring                                Adoption of the New
+        Council (Council) was created to develop a strategy to                       Riverside Municipal
+        coordinate water quality and related ecosystem monitoring               Stormwater Permit (San Diego
+        efforts throughout California. The Council’s primary goal is to         Region)
+        improve the efficiency and effectiveness of California’s
+                                                                                In preparation for the
+        monitoring, assessment, and reporting through better
+                                                                                Riverside Municipal Separate
+        coordination. In 2010, the Council and SWAMP aligned their
+                                                                                Storm Sewer System (MS4)
+        efforts by writing strategic plans that assign to SWAMP the lead
+                                                                                Permit reissuance, a review of
+        role for coordinating the monitoring of bioaccumulation (i.e., the
+                                                                                SWAMP bioassessment data
+        accumulation of contaminants in fish and shellfish) and the health
+                                                                                demonstrated that the
+        of aquatic life in streams, rivers, and lakes (CWQMC 2010;
+                                                                                ecological health of urban sites
+        SWAMP 2010). The coordination of other assessments was
+                                                                                in southwestern Riverside
+        assigned to other entities. However, the Council has no budget
+                                                                                County was consistently poor
+        allocation for implementation (i.e., for monitoring, coordination,
+                                                                                and had declined over the past
+        or to develop or maintain its web portals), and SWAMP was not
+                                                                                several years. The degradation
+        allocated any additional resources to conduct its coordination
+                                                                                of water quality was
+        role. Ever since, SWAMP has carefully balanced the needs for
+                                                                                sufficiently troubling to
+        coordination with the needs for monitoring, assessment, and data
+                                                                                warrant permit changes. The
+        management/display.
+                                                                                San Diego Water Board
+        SWAMP’s current staff resources thus (in most situations) provide       adopted a new MS4 Permit for
+        only for “opportunistic” coordination (i.e., to pursue prospects for    southwestern Riverside
+        matching funds or leveraging resources), and/or when planning           County on November 10, 2010.
+        and executing a specific SWAMP monitoring project. Such                 The new permit is comparable
+        coordination efforts are necessarily limited and uneven. As a           to the Orange County
+        result, data collected by other Water Board programs and by             Municipal Stormwater Permit
+        external entities often are not collected or managed in a way in        that was adopted in 2009.
+        which those data can be combined with SWAMP data to answer              These two municipal
+        management questions, the quality of the non-SWAMP data is not          stormwater permits now
+        documented, and/or the quality of the non-SWAMP data is not             include numeric action levels,
+        sufficient for Water Board staff to use.                                detailed and extensive
+                                                                                monitoring requirements, as
+        SWAMP has in the past contributed substantial staff time and            well as the inclusion of low
+        financial resources to the inter-agency California Water Quality        impact development mandates
+        Monitoring Council in order to produce a series of Internet pages       and the obligation to develop
+        to make SWAMP data and assessments more widely available to             hydro-modification
+        the public. The Council’s “My Water Quality” website provides an        management plans.
+        interactive, user-friendly portal for the public to obtain
+
+
+
+   December 2014                                                                                                   17
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+        information about the State’s water resources—but it has
+        essentially no dedicated funding, and relies mostly on voluntary         TMDL Outcomes in the Central
+        contributions from member agencies and external partners. It is an       Coast Region
+        open question whether the “My Water Quality” concept is                  Of the seven TMDL outcome
+        sustainable without a dedicated funding source. SWAMP’s ability to       reports posted by the Central
+        contribute to the Council’s website is being increasingly impacted       Coast Region, six have been
+        by rising costs in all areas of the program.                             based on data from the
+                                                                                 SWAMP program in Region 3
+        Initially (in the year 2000), the “Clean Water Team” had four staff      (CCAMP). Two of these
+        members assigned to coordinate citizen monitoring efforts                reports, for dissolved oxygen
+        throughout California. The Team’s efforts help to ensure that            and nitrate in Chorro Creek,
+        citizen monitoring data are accessible and of sufficient quality to be   show improvements
+        useful in Water Board programs, such as the Integrated Report and        associated with a treatment
+        enforcement of water quality standards and permit requirements.          plant upgrade and other
+        Due to declining budgets and continuously rising costs, SWAMP’s          watershed management
+        Clean Water Team now consists of one staff member to coordinate          activities. CCAMP data were
+        citizen monitoring throughout the entire State of California.            able to support a proposed
+                                                                                 delisting of the creek for
+        Additional monitoring coordination needs are large. The Water            dissolved oxygen (target > 7.0
+        Boards require most of the 514 wastewater dischargers and 376            mg/L). If improving trends for
+        large municipal stormwater dischargers to conduct surface water          nitrate continue, the Nitrate
+        and/or receiving water monitoring. Another 156 small municipal           target (<1.5 mg/L) will be met
+        stormwater dischargers will be monitoring surface water under            by the proposed 2016 target
+        the new permit adopted in July 2013. All of the 180 TMDLs that the       deadline.
+        Water Boards have adopted include surface water monitoring
+        requirements. The number of adopted TMDLs (and associated                TMDL Outcome reports are
+        monitoring requirements) will increase significantly in the coming       available at the
+        years as the remaining 2,000 listings for water quality impairment       State Water
+        are addressed. The Water Boards regulate nearly 40,000                   Board
+        agricultural operations that are required to monitor water quality       website.
+        at approximately 118 sites on a monthly basis. Monitoring is also
+        required by numerous other programs, such as waste discharge
+        requirements (WDRs), water quality certifications, nonpoint source, Water Code
+        Section 13267 orders, enforcements orders, and clean water grants. And new
+        regulatory programs—such as Biological Objectives, the Statewide Mercury Program, and the Grazing
+        Regulatory Action Project—are currently being developed that will likely require at least some
+        additional new monitoring. And that is just what the Water Boards require. Other entities—such as
+        federal agencies, other state agencies, universities, NGOs, and citizen monitors—conduct surface water
+        monitoring that represent a very large additional coordinating need with significant staffing resource
+        costs.
+
+        To address the myriad coordination needs, the Water Boards need staff dedicated to coordination.
+        Those staff should inventory, understand, and evaluate monitoring questions and designs; understand
+
+
+
+   December 2014                                                                                                  18
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+         met/unmet and current/future monitoring needs; work with programs and stakeholders to prioritize
+         and integrate monitoring; make recommendations for monitoring designs; ensure consistency by
+         applying SWAMP quality assurance and data management tools to all monitoring; ensure data are
+         stored, managed and made readily available; and ensure data are assessed, integrated and turned into
+         information to support management decisions. (See Appendix II for coordination examples.)
+
+         Because SWAMP has a finite budget that is insufficient to conduct comprehensive monitoring and full
+         coordination, increasing either activity would necessarily occur at the expense of the other. Further
+         shifting of SWAMP’s focus from ambient monitoring to coordination could result in the loss of the Water
+         Board’s robust ambient monitoring and assessment capabilities. Such trade-offs should be thoroughly
+         weighed and judiciously deliberated before any changes are made to SWAMP’s current carefully
+         balanced strategy.
+
+    7.   While SWAMP has developed a robust and mature ambient monitoring program over the past
+         fourteen years, improvements can be made.
+
+         During this review, the Review Team heard and compiled several suggestions that could be
+         implemented to improve the program’s effectiveness and utility, including:
+
+         i.    The SWAMP Review Team should establish an annual strategic planning process to evaluate (and
+               adjust as appropriate) the objectives and priorities for SWAMP’s statewide ambient assessments.
+               The four existing statewide assessments have been curtailed in recent years due to budget cuts and
+               cost increases. A deliberative process is needed to more carefully allocate funding among SWAMP’s
+               statewide assessments, to optimize the expenditure of scarce resources and ensure the greatest
+               utility toward answering key management questions.
+
+         ii.   The SWAMP Roundtable should create a “feedback loop” for users of SWAMP tools to communicate
+               issues, problems, and ideas/suggestions for improvement and to prioritize improvement.
+
+         iii. The SWAMP Roundtable should suggest new and/or improved Performance Measures for the
+              Water Boards that focus on environmental outcomes, based on lessons learned from the past
+              decade of assessments, data, and tools.
+
+
+
+    Recommendations
+    1.   SWAMP should maintain its focus on ambient monitoring as its core function. The Review Team is
+         keenly aware that the Water Boards have myriad needs for other (i.e., “targeted”) types of monitoring
+         throughout their regulatory, planning, enforcement, and other programs. Despite those needs, the
+         fundamental fact remains that ambient monitoring is absolutely essential to achieving the mission of the
+         Water Boards. SWAMP’s core focus on ambient monitoring should not be sacrificed to provide the
+         “targeted” monitoring needs of other programs.
+
+
+
+
+   December 2014                                                                                                19
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+    2.   SWAMP should maintain robust statewide assessments and regional assessments. Given the
+         utility of ambient monitoring information gathered at multiple spatial scales, and as previously
+         recommended by a blue-ribbon panel of external program reviewers (SPARC 2006), SWAMP should
+         continue its dual-scale assessments whereby the State Water Board leads the management of statewide
+         assessments, and the Regional Water Boards conduct assessments at the “local” (i.e., regional,
+         watershed, and water body) scales.
+
+    3.   The Deputy Management Committee (DMC) should work with SWAMP as the DMC refines the
+         Water Boards’ process for allocating “discretionary” contract funds toward targeted monitoring
+         projects. The DMC currently is deliberating a process for addressing the many “targeted” monitoring
+         needs of multiple Water Board programs via “discretionary” contract funds. The SWAMP Review Team
+         supports this effort, and should be consulted as those deliberations proceed. Such consultation could
+         maximize coordination with SWAMP assessments, and ensure the comparability and usability of
+         “targeted” data collected by other programs.
+
+    4.   In regards to monitoring coordination, Water Board executives should establish a process to
+         compile coordination needs, set priorities, and deliberate options for fostering the highest
+         priority coordination tasks. The DMC (or some other panel of Water Board executives and/or
+         managers) should lead SWAMP and other programs to: i) compile and prioritize the many needs for
+         increased coordination of monitoring (and related functions, such as data management, water quality
+         assessment, electronic data submittals, quality assurance, etc.); ii) define the specific coordination tasks
+         necessary to meet each identified need; iii) quantify the resources needed to complete each task; and iv)
+         evaluate the options for completing the highest priority tasks. In doing so, the integrity of SWAMP’s
+         ambient assessments should not be compromised to provide for increased coordination among the
+         Water Boards’ various programs. The Review Team recommends that managers consider other options,
+         such as identifying/shifting resources from the affected/benefitting programs in order to fund the
+         desired types and levels of coordination, and/or seeking new/additional resources to fund increased
+         coordination.
+
+    5.   Water Board management (MCC, DMC, State Board Exec) should promote question-driven
+         science to answer key management questions, in part by encouraging (or requiring) other
+         programs to utilize the many available “SWAMP Tools.” One outcome of this review is the
+         realization that other Water Board programs do not take full advantage of existing SWAMP tools (i.e.,
+         assessment framework, monitoring SOPs, QA protocols, data management structures, etc.). Water Board
+         management can promote inter-program consistency, data usability, and data comparability by
+         encouraging (or directing) other programs to use relevant SWAMP tools and to more fully take
+         advantage of SWAMP staffs’ experience and expertise.
+
+    6.   The SWAMP Review Team (Water Board and USEPA staff) should update the SWAMP work plan
+         as requested by the DMC. On November 6, 2013 the DMC released the Water Board Roundtables
+         Composition, Role, and Responsibilities document, which directed all Water Board roundtables to
+         develop an annual work plan. The SWAMP Review Team should develop a work plan that considers all
+         items from the DMC’s Roles and Responsibilities document, as well as the following:
+
+
+
+
+   December 2014                                                                                                   20
+Review of the Surface Water Ambient Monitoring Program (SWAMP) – Final Report
+
+
+
+        a.   Define the roles and responsibilities for both the full SWAMP Roundtable and the smaller Review
+             Team.
+
+        b.   Establish an annual strategic planning process to evaluate (and adjust as appropriate) the
+             objectives and priorities for SWAMP’s statewide ambient assessments.
+
+        c.   Develop a specific definition of monitoring “coordination” and articulate the coordination tasks to
+             be conducted (with available funds) by SWAMP staff at the State and Regional Water Boards.
+
+        d.   Specify actions to synthesize data into information that can readily be used by managers to aid in
+             decision-making.
+
+        e.   Create a feedback loop for users of SWAMP tools to communicate issues, problems, and ideas/
+             suggestions for improvement, and to prioritize improvements.
+
+        f.   Identify new or improved environmental outcome-based Performance Measures for the Water
+             Boards based on SWAMP’s assessments, data, and tools.
+
+
+
+    References
+    Batiuk, R., B. Bernstein, C. Hawkins, F. Holland, P. Kazyak, J. Maxted, R. Ward. 2006. Review of California’s
+    Surface Water Ambient Monitoring Program (SWAMP). Technical Report #486, Southern California Coastal
+    Water Research Project. May 2006. 25 pp.
+
+    California Water Quality Monitoring Council. 2010. A Comprehensive Monitoring Program Strategy for
+    California: Recommendations of the California Water Quality Monitoring Council. State of California.
+    December 23, 2010. 48 pp. plus appendices.
+
+    Surface Water Ambient Monitoring Program. 2010. 2010 SWAMP Strategy: 2010 Update of the
+    Comprehensive Monitoring and Assessment Strategy to Protect and Restore California’s Water Quality.
+    California State Water Resources Control Board, Sacramento, CA. December 2010. 54 pp. plus appendices.
+
+    U.S. Environmental Protection Agency. 2003. Elements of a State Water Monitoring and Assessment
+    Program. EPA-841-B-03-003. Office of Wetlands, Oceans and Watersheds, U.S. Environmental Protection
+    Agency. March 2003.
+
+    Yoder, C.O., and R. Plotnikoff. 2009. Evaluation of the California State Water Resources Control Board's
+    Bioassessment Program. Final Report to USEPA's Office of Science and Technology and Region IX. May 15,
+    2009. 42 pp.
+
+
+
+
+   December 2014                                                                                                    21
+Appendix I – Ten-Element Review of SWAMP
+
+
+
+
+    Appendix I: Ten-Element Review of SWAMP
+    This review includes an evaluation of the monitoring program strategy to determine how well each of the
+    ten elements is addressed and how to incorporate needed changes and additions into future monitoring
+    cycles. This evaluation takes into consideration the effects of funding shortfalls on implementation of the
+    monitoring program strategy. Similar reviews were performed in 2005 at the beginning of the SWAMP and
+    again in 2010. A summary of the SWAMP’s progress in 2015 toward meeting the ten monitoring program
+    elements is provided below.
+
+    Strategy. SWAMP’s mission is to provide resource managers, decision makers, and the public with timely, high
+    quality information to evaluate the condition of surface waters throughout California. State Water Board does
+    not have the resources to monitor all water resources within the State. In 2010, the SWAMP Strategy was
+    revised to acknowledge the formation of the California Water Quality Monitoring Council (CWQMC) to
+    provide for increased coordination of monitoring and assessment. The program has been successful at
+    providing information to the general public and managers, but it is less clear how the program is affecting
+    decisions at the State and Regional Boards.
+
+    Objectives. Our vision is to clearly articulate monitoring objectives as attainable targets for producing the
+    information needed to answer assessment questions at the Statewide and Regional levels. The original Strategy
+    called for SWAMP to answer questions about the quality of four core beneficial uses (swimmable, fishable,
+    aquatic life use, drinking water) in multiple water body types across the state. SWAMP has focused on
+    aquatic life use in streams and fish tissue contamination in lakes, rivers, and the coast. Through coordination
+    with the CWQMC, assessment questions are being addressed to assess aquatic life use in wetlands, estuaries
+    and the rocky intertidal; swimming use at coastal beaches; and drinking water use in both surface and
+    groundwater.
+
+    Design. Our vision is to develop scientifically sound monitoring designs to guide the efficient collection of data
+    to meet SWAMP's monitoring objectives with available resources, and to coordinate monitoring designs among
+    SWAMP programs, other Water Board programs, and other agencies and partners through the CWQMC.
+    Statewide probability monitoring programs have leveraged and influenced monitoring efforts where the
+    focus has been on large scale assessments. Monitoring designs at the Regional Boards vary widely, due to
+    difference in priorities and the need for finer scale assessments necessary for Water Board programs such
+    as listings, permits, compliance, enforcement or TMDLs. Instead, SWAMP focus has been on consistency of
+    methods, performance and integration of data for SWAMP-funded projects.
+
+    Indicators and Thresholds. Our vision is to develop, select, and implement indicators and assessment
+    thresholds that appropriately represent the condition of the environmental attributes and beneficial uses to be
+    assessed, diagnose the causes and sources of impairment, and evaluate the effectiveness of management actions
+    to improve water quality in California. SWAMP emphasis has been on direct indicators of beneficial uses. This
+    work is primarily focused on aquatic life in perennial streams, fish tissue contamination fish from multiple
+    habitats, and toxicity tests in freshwater and coastal environments. Some have expressed interest in
+    developing biological indicators for other habitats (e.g. lakes, large rivers, and non-perennial streams). The
+
+
+
+
+   December 2014                                                                                                     22
+Appendix I – Ten-Element Review of SWAMP
+
+
+
+
+    lack of agreed upon thresholds and techniques for causal assessment may be impeding the use of biological
+    indicators in Water Board programs.
+
+    QA/QC. Our vision is to develop, implement, and maintain the quality assurance tools and
+    capabilities needed by SWAMP, and shared with partner programs, to allow comparable data from many
+    sources to be used in comprehensive water quality assessments. The role of SWAMP’s quality assurance
+    program is to foster the production of data to inform decision-making (i.e., identifying water quality
+    impairments, fish consumption advisories, TMDL targets, etc.). The SWAMP QA/QC program is used for all
+    SWAMP activities. However, integrating SWAMP QA/QC into Water Boards programs remains a challenge.
+    Efforts are underway for Water Board programs to develop QA program plans. However, it is unclear if
+    Water Board programs will be able to support the level of QC required by the SWAMP Program Plan.
+
+    Information Management. Our vision is to manage the flow of data from initial measurement, through
+    acquisition and storage in data management systems, to data output and assessment, so that accurate
+    information is available in a timely manner to decision makers and the public. The SWAMP investments in the
+    SWAMP database and the California Environmental Data Exchange Network (CEDEN) have substantially
+    increased the amount of data used in 303(d) assessments. SWAMP and CEDEN also provide information for
+    the My Water Quality Portal. However, with the transition from contract to personnel, SWAMP will need to
+    evaluate if it can maintain the SWAMP database in its current form. SWAMP has also made significant
+    investments in CEDEN as a tool for agencies to share data and will need to evaluate if it can continue to
+    support two data systems.
+
+    Analysis and Assessment. Our vision is to provide a consistent science-based assessment framework that
+    integrates data from SWAMP and partner programs to effectively answer assessment questions and inform
+    water quality management decisions at the State and Regional levels. SWAMP’s question-based framework
+    for assessing beneficial uses has allowed better integration of monitoring data. The portal workgroups also
+    provide a forum for integrating data around a common assessment question. However, as much as the State
+    Board priorities are driven by the 303(d) list, SWAMP should consider closer coordination with the 303(d)
+    listing staff and ways to improve the listing policy.
+
+    Reporting. Our vision is to make all SWAMP data available to the public, to translate SWAMP data into
+    information useful for making resource management decisions, and to provide timely reports in formats most
+    accessible to target audiences. SWAMP continues to produce several statewide condition surveys and
+    numerous regional reports. SWAMP has also produced a diverse array of other products including regional
+    reports, special studies, fact sheets, newsletters, press releases, and presentations at professional meetings.
+    Production of reports has fallen recently and certain SWAMP publications are missing the SWAMP brand. On
+    the other hand, there has been increased focus on portals and the State Board Achievement Reports.
+
+    Programmatic Evaluation. Our vision is to conduct periodic reviews of each aspect of the program to
+    determine its scientific validity, whether it is being implemented as designed, and how well it serves the water
+    quality decision needs of the state. A programmatic peer review of the SWAMP was completed in 2005. Since
+    then, peer reviews have been focused on particular aspects of the program. Both BOG and SPoT have annual
+    reviews from a Technical Committee. The Regional Board work plans to undergo a peer review at the State
+    Board.
+
+
+   December 2014                                                                                                   23
+Appendix I – Ten-Element Review of SWAMP
+
+
+
+    Infrastructure Planning. Our vision is to provide the support needed to implement a coordinated and
+    comprehensive monitoring and assessment program, and to maintain the infrastructure and program
+    capabilities necessary to accomplish program goals. Funding for basic infrastructure is switching from a
+    contractor-supported system to in-house staff support, which requires new hires at the State Board. 2014-
+    15 will be a period of transition. A plan for long-term stability of the program will need to be developed.
+
+
+
+
+   December 2014                                                                                                  24
+Appendix II – Coordination Case Studies
+
+
+
+
+     Appendix II: Coordination Case Studies
+     The Central Coast Region
+     The Central Coast Region has augmented staffing and fiscal resources for monitoring significantly over that
+     provided through the SWAMP program. A significant portion of the additional staff time goes towards
+     coordinating internal and external monitoring, quality assurance, and data management activities. This case
+     study will highlight one of those projects.
+
+     Background
+
+     Additional Staffing Resources – The SWAMP program provides the Central Coast Region with 0.8 PY for
+     SWAMP monitoring. This staff time is spent coordinating Central Coast Ambient Monitoring Program
+     (CCAMP) field monitoring activities and those of our contractors, processing data for SWAMP delivery,
+     verifying data quality, working with laboratories to ensure that data meets SWAMP Measurement Quality
+     Objectives (MQOs), developing work plans, assessing data, writing reports, and other work directly
+     associated with spending SWAMP funds. This work fully expends the 0.8 PY provided by SWAMP, and is
+     comparable work to that done in other Regions with their SWAMP dollars.
+
+     For over ten years, the Central Coast Region has funded an additional PY to support a Senior Environmental
+     Scientist to conduct monitoring and assessment activities above and beyond the work described above.
+     Other than attending the SWAMP Roundtable and working on assessment and reporting of CCAMP data, this
+     additional position is not directly involved in the daily work of managing the CCAMP monitoring program.
+     The PY has been supported each year by a “tax” on other programs (typically between 0.1 and 0.3 PY per
+     program per year) that benefit from monitoring coordination activities. These programs have included
+     Basin Planning, Irrigated Lands, Nonpoint Source Pollution, National Pollutant Discharge Elimination
+     System (NPDES), Storm Water, Grants, and others.
+
+     Additional Fiscal Resources – The Central Coast Water Board set up an endowment to support monitoring
+     activities in 2000. This endowment is held by a non-profit organization and has been supported by
+     settlement funds from two different enforcement cases. The fund has allowed CCAMP to hire field staff,
+     provide lab contracting needs, and hire a contracted software designer to support data management and
+     assessment activities. From the standpoint of coordination, particularly for data management and data
+     display purposes, the extra staffing resources provided by the software contract position have been
+     invaluable.
+
+     CCAMP Coordination Activities – Much of the monitoring coordination work undertaken by CCAMP staff
+     (with support by the software contractor) has required new program development, which often requires a
+     very large initial amount of time invested, and then smaller amounts of time to support ongoing activities.
+     Activities have centered around regional monitoring program development, Monitoring and Reporting
+     Program (MRP) development for permits, and quality assurance plan review and data management to
+     support these programs. The senior position also fulfills the “unfunded mandate” of quality assurance lead,
+
+
+
+   December 2014                                                                                                   25
+Appendix II – Coordination Case Studies
+
+
+
+
+     which requires review and approval of quality assurance plans associated with grants projects, regional
+     monitoring programs, and other efforts. Coordination projects over the past decade have included:
+
+            Irrigated Agriculture monitoring program development and support
+            Regional Stormwater Program development and support
+            Regional Ocean Discharger Monitoring Program development and support
+            Volunteer monitoring data management coordination
+            Data synthesis projects (organizing data from multiple monitoring entities into a single format for
+             delivery into a single database [pre-CEDEN])
+            Grants data delivery system
+            303(d) data organization and tool development for creating lines of evidence (now used at State
+             Board)
+            Web site development for display of data from multiple projects (including CCAMP)
+            Web site based report card of health for display of multiple data sets, including programmatic
+             performance data from storm water and ag programs (currently in development).
+
+     In spite of this additional effort, other coordination needs exist in Region 3 (e.g., NPDES electronic data
+     submittal and quality assurance, TMDL monitoring needs, programmatic quality assurance planning
+     documents, internal staff trainings, etc.). But the additional Region 3 staffing support provides a good
+     example of what types of coordinating work can be accomplished with additional monitoring resources.
+     Below is one case study highlighting the types of work undertaken by monitoring staff in support of another
+     program at the Central Coast Water Board.
+
+
+     Case Study: Central Coast Irrigated Lands Program
+
+     Purpose/Goal: Develop MRPs and provide associated technical expertise, tools, and other support to
+     Irrigated Lands monitoring programs.
+
+     Tasks
+         A. Assess available data to describe the regional impacts associated with irrigated agriculture. Develop
+            a comprehensive report to the Board on surface water findings to support the Agricultural Order –
+            0.4 PY. This task required compilation of data from multiple sources, development of a report card
+            approach to view major problem areas in the region, development of a written synthesis report
+            along with a wiki report of findings, assessment of Marine Protected Areas at high risk from loading
+            of chemical contamination, and presentation of findings at multiple Board workshops and public
+            hearings.
+         B. Develop overall study design and associated MRP for regional agricultural receiving water
+            monitoring – 0.2 PY. This task required study design expertise in monitoring program development,
+            framed in the context of the regulatory requirements of the Ag Order. The MRP required ongoing
+            trend monitoring at 50 sites in ag areas that were associated with 303(d) listings for ag chemicals.
+
+
+
+
+   December 2014                                                                                                   26
+Appendix II – Coordination Case Studies
+
+
+
+
+         C.   Develop overall study design and associated MRP individual discharge monitoring for high risk
+              growers – 0.15 PY. This task required that a simple monitoring program framework be developed
+              to be implemented at the farm scale. The monitoring design balanced cost with information needs
+              for decision-making. Three different MRPs were developed to support the three tiers of growers,
+              based on threat to water quality.
+
+         D. Develop a Quality Assurance Project Plan (QAPP) template for use by individual growers required
+            to monitor their discharge – 0.15 PY. This task involved adapting the standard QAPP framework for
+            use by growers. The template provides a “fill-in-the blank” approach with detailed instructions and
+            significant portions of required text already prepared, based on the details of the MRP. This
+            template proved to be a successful approach to managing multiple QAPP deliveries from
+            inexperienced growers, greatly reducing time spent to review and finalize these documents.
+
+         E.   Facilitate delivery of agricultural data to the Regional Data Center through the development of an
+              online data delivery system – 0.4 PY. A Data Uploading and Checking tool was developed specifically
+              to support Agriculture program needs in 2006. The tool served its purpose for a number of years,
+              before being transferred to Moss Landing to support the Regional Data Center. It was then modified
+              to support other data delivery types, including grants and volunteer programs.
+
+         F.   Make agricultural program data available to the public online, along with CCAMP data, at the
+              CCAMP website – 0.3 PY. This task involved significant time to quality check data delivered from the
+              Ag program, along with software development to adapt the existing CCAMP Data Navigator for data
+              from multiple sources. Agricultural data has been available on the CCAMP website since 2006.
+         G. Review and approve all QAPPs for agricultural monitoring programs – 0.2 PY. This task has
+            included review and approval of the regional ag receiving water program QAPP, as well as
+            approximately a dozen individual discharger monitoring QAPPs. Once approved, these projects may
+            at times need document amendment or technical support.
+         H. Provide continuing technical support to the Irrigated Ag program via data synthesis and analysis,
+            technical report review, MRP product reviews, quality assurance support, technical feedback on
+            data quality to monitoring organizations, etc. – 0.2 PY ongoing.
+
+     Experiences
+
+     The receiving water monitoring program for agriculture (managed by a non-profit) has been in continuous
+     operation since 2005, sampling 50 sites on a monthly basis for long-term trends, and is a successful and
+     relatively stable program. The data to a great extent is SWAMP comparable, meeting SWAMP MQOs and
+     documentation requirements. The data set is of extremely high value, and can now show significant trends
+     over time for multiple analytes. It nearly doubles the amount of data available in our Region (with CCAMP
+     providing the other primary source). Between these two monitoring programs, the Region has 80 locations
+     being monitored monthly for long-term trends, which is a tremendous resource for understanding program
+     effectiveness. However, the effort to develop and support this program has been enormous and the
+     development period (prior to adoption of the Order) required essentially two monitoring PYs working full
+     time on monitoring program and software development. After adoption of the Order, the monitoring
+     coordination and support requirements dropped considerably, but data management and quality assurance
+     issues remain time consuming.
+
+
+   December 2014                                                                                                 27
+Appendix II – Coordination Case Studies
+
+
+
+
+     The individual discharge monitoring programs are challenging to manage because of the lack of experience
+     of the growers and the highly technical nature of the data. The quality assurance template was very
+     successful at getting growers to submit documents that met the needs of the quality assurance review
+     process in a relatively consistent way. Approximately a dozen documents were reviewed and approved. The
+     growers who have sought professional consulting assistance are fairing better than those who have
+     attempted to do the monitoring themselves. The program is still too young to evaluate comprehensively, but
+     data reports from several farms have been received and in some cases show high nitrate loads and toxic
+     discharges entering receiving waters.
+
+     Staff time required: 1.8 PY for project development; 0.2 PY ongoing
+
+
+
+     The San Diego Region
+     A Case Study in the San Diego River Watershed
+
+     It is critical to coordinate monitoring and assessment with other programs and agencies in order to build a
+     strong, efficient, cost-effective, and coordinated monitoring and assessment program. The newly adopted
+     Monitoring and Assessment Framework for the San Diego Region outlines the need for coordination, and a
+     10-step collaborative process for developing monitoring and assessment programs. The fundamental
+     purposes for a monitoring and assessment program, at a watershed scale, are the following: (1) Providing a
+     framework for periodic and comprehensive assessments of watershed condition, (2) Expanding the
+     monitoring of ambient conditions related to key beneficial uses to the entire watershed and to a broader
+     range of indicators, and (3) Improving the coordination and cost-effectiveness of disparate monitoring
+     efforts.
+
+     In 2011, the San Diego Water Board initiated monitoring coordination in one of its eleven watersheds and
+     formed a collaborative workgroup for the San Diego River watershed. Dr. Brock Bernstein, independent
+     consultant, was supported by SWAMP regional funds in order to facilitate the coordination process. Several
+     San Diego Water Board staff members were involved in the coordination process, including the Region 9
+     SWAMP coordinator, staff from the Monitoring, Assessment and Research Unit, and staff from other Water
+     Board programs, including municipal stormwater, TMDLs, nonpoint source, and 401s. The workgroup
+     included over twenty external stakeholder groups from State and federal regulatory agencies, key
+     permittees in the watershed, other resource management agencies, academic institutions, and conservation
+     organizations active in the watershed.
+
+     The watershed monitoring and assessment program is structured around the following four key
+     management questions: (1) Are aquatic ecosystems healthy? (2) Is water quality safe for swimming? (3) Are
+     fish and shellfish safe to eat? (4) Is water safe to drink? For each question, the monitoring program
+     describes a monitoring approach, including a basic design and rationale, indicators to be measured, and
+     expected data products. The workgroup identified and evaluated adjustments and additions to current
+     monitoring programs in the San Diego River watershed that would increase coordination and efficiency, and
+     improve the capability to conduct watershed-scale assessment.
+
+
+
+
+   December 2014                                                                                                   28
+Appendix II – Coordination Case Studies
+
+
+
+
+     The watershed monitoring and assessment program reflects substantial input from and discussion among a
+     broadly representative group of stakeholders in the watershed. It represents a significant advance towards
+     the broader integration of monitoring efforts and data for the purpose of assessing watershed condition.
+     The proposed program clearly recognizes that any final decisions about modifications to existing monitoring
+     efforts and/or about the initiation of new efforts will depend on detailed negotiations among the major
+     stakeholders (San Diego Water Board, NPDES permittees, conservation groups, other potential partners
+     such as State and federal resource agencies) in the watershed.
+
+     In 2013, program implementation began for some components of the monitoring and assessment program.
+     Additional components will be phased in during 2014. In addition, the workgroup will evaluate and choose
+     among alternatives for managing the watershed program over the longer term. These building blocks
+     provide tools that can be used to adapt the monitoring and assessment program over time in response to
+     improved knowledge and/or shifting management information needs.
+
+     The coordination effort in the San Diego River watershed includes a high level of complexity, a large
+     stakeholder group, multiple partnerships, the design of a monitoring program with a large set of indicators,
+     and the development of watershed report cards as an assessment tool. So far, Dr. Brock Bernstein, who
+     facilitated the coordination process, has spent over 700 hours on this project. In addition, external
+     stakeholders and staff from the San Diego Water Board have spent several hundred hours to work on the
+     coordination process. It is expected that the implementation phase of the coordination program will include
+     significant additional efforts to complete; however, the benefits of having a coordinated monitoring and
+     assessment program for the San Diego River watershed are invaluable, and the San Diego River watershed
+     monitoring and assessment program can serve as a pilot study for other watersheds in the region. In times
+     of limited resources, coordination between and among water quality agencies and stakeholders is essential
+     to produce information that is needed to protect and restore California’s water resources.
+
+
+
+
+   December 2014                                                                                                29
+

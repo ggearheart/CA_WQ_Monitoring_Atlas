@@ -1,0 +1,1396 @@
+                                                    1
+
+
+
+
+Long-term Monitoring Plan for the Bioaccumulation
+             Monitoring Program
+                    2025 - 2029
+
+                    PREPARED FOR THE
+        SURFACE WATER AMBIENT MONITORING PROGRAM
+
+
+                        AUTHORS
+
+                       J.A. DAVIS
+             SAN FRANCISCO ESTUARY INSTITUTE
+
+                       A. HOLDER
+          STATE WATER RESOURCES CONTROL BOARD
+
+                       A. BONNEMA
+            MOSS LANDING MARINE LABORATORIES
+
+                     DECEMBER 2024
+                                                                                  2
+
+
+
+
+Suggested Citation
+
+Davis, J.A., A. Holder, and A. Bonnema. 2024. Long-term Monitoring Plan for the
+Bioaccumulation Monitoring Program. A Report of the Surface Water Ambient
+Monitoring Program (SWAMP). California State Water Resources Control Board,
+Sacramento, CA.
+                                                                                                                                                 3
+
+
+
+Table of Contents
+Long-term Monitoring Plan for the Bioaccumulation Monitoring Program .................................... 1
+Executive Summary ...................................................................................................................... 4
+   Tier 2: Current Funding ($650,000 per year) ............................................................................. 5
+   Tier 1: Reduced Funding ($375,000 per year) .......................................................................... 6
+   Tier 3: Moderate Funding Increase ($1,000,000 per year) ........................................................ 7
+   Tier 4: Robust Funding ($2,000,000 per year) .......................................................................... 7
+The Need for Robust and Comprehensive Bioaccumulation Monitoring in California .................. 9
+Statewide Bioaccumulation Monitoring in California To Date ..................................................... 10
+Program Planning for 2025 - 2029 .............................................................................................. 12
+   Planning Process .................................................................................................................... 12
+   Outcomes of the Planning Process ......................................................................................... 15
+Program Design Options for Different Funding Tiers .................................................................. 17
+   Tier 2: Current Funding ($650,000 per year) ........................................................................... 18
+   Tier 1: Reduced Funding ($375,000 per year) ........................................................................ 20
+   Tier 3: Moderate Funding Increase ($1,000,000 per year) ...................................................... 22
+   Tier 4: Robust Funding ($2,000,000 per year) ........................................................................ 27
+References.................................................................................................................................. 30
+Figures ........................................................................................................................................ 31
+   Figure 1. Annual Program Funding Allocations. ...................................................................... 31
+   Figure 2. Timeline of Program Monitoring. .............................................................................. 32
+Tables ......................................................................................................................................... 33
+   Table 1. Long-term Monitoring Priorities Assessment Process Participants ........................... 33
+   Table 2. Summary of Priorities from Long-term Monitoring Priorities Assessment Process
+   Participants.............................................................................................................................. 34
+Appendices ................................................................................................................................. 36
+   Appendix 1. Long-term Monitoring Priorities Assessment STEW Meetings. ........................... 36
+                                                                                            4
+
+
+
+Executive Summary
+Bioaccumulation of multiple contaminants is negatively impacting the beneficial uses of
+many water bodies in California by making fish and shellfish unsafe for human and
+wildlife consumption. California's bioaccumulation problem has a strong connection to
+environmental justice, as many disadvantaged communities depend most heavily on
+consumption of fish and shellfish from California water bodies, often in relatively
+contaminated locations, and as a result face disproportionately high contaminant
+exposure and health risks. Bioaccumulation monitoring is crucial in identifying the extent
+of impairment in California, identifying and prioritizing management actions, tracking
+whether impairment is being reduced in response to management, and informing the
+public on how to minimize health risks related to consumption of wild-caught fish.
+
+Since 2007 the Bioaccumulation Monitoring Program (Program), a component of the
+California State Water Resources Control Board's Surface Water Ambient Monitoring
+Program, has been the primary source of information in California to meet these needs.
+The design of the Program evolved over the years in response to changing information
+needs and fluctuations in funding. Beginning in 2021, the Program initiated a
+Realignment process - a new direction with the goal of working with communities within
+Water Board Regions to fill data, information, and communication gaps and to
+characterize the exposure of communities that rely most heavily on fishing for
+consumption, subsistence, sustenance, and cultural purposes. The Realignment
+process has been a robust and notable environmental justice project, driven by
+engaging with communities to select the locations, species, and analytes to monitor.
+
+In 2024 the Program completed a second round of statewide monitoring and reached a
+point where priorities and long-term plans needed to be established for the next phase
+of Program monitoring. In 2023 and 2024, the Program facilitated Safe to Eat
+Workgroup (STEW) participants through a thoughtful and deliberate process to
+determine those priorities and plans. This report documents that process and its
+outcomes.
+
+The mission of the Program has been to provide statewide monitoring data and
+information that is used to:
+   1. assess and contribute to the protection and restoration of fishing and aquatic life
+      beneficial uses that are impacted by the bioaccumulation of pollutants in
+      California's waterbodies, and
+                                                                                          5
+
+
+   2. assess the human health risks associated with the consumption of contaminated
+      fish and shellfish in California's freshwater and coastal ecosystems and use that
+      information to support the development of advisories that inform consumers of
+      significant health risks associated with the consumption of particular species.
+
+Overall, a total of 27 groups provided input on their priorities. Interest was roughly
+equally distributed across the three major water body types (lakes and reservoirs,
+coastal areas, rivers and streams). Fish was the primary species type of interest, but
+shellfish were a priority for about half of the respondents. Metals and PFAS were the top
+two contaminant priorities, but there was also significant interest in algal toxins,
+microplastics, PCBs, and organochlorine pesticides. The two major sticking points were
+lack of funding (cited by all respondents) and lack of information on consumption
+patterns, particularly for those who consume fish and shellfish for subsistence, tribal, or
+cultural reasons.
+
+Given uncertainty surrounding future funding, SWAMP management directed the
+Program consider what could be accomplished under several funding scenarios. Four
+scenarios for future Program funding are presented. A description of the plan for the
+FY 24/25 funding level ($650,000) is presented first ("Tier 2"), followed by consideration
+of designs at a reduced funding level ($375,000) and two increased funding levels
+($1M per year and $2M per year).
+
+Tier 2: Current Funding ($650,000 per year)
+
+This is the FY 24/25 funding level for the Program. The general distribution of the funds
+each year would be as follows:
+
+   ● Realignment: $200K for monitoring and honoraria for tribal and community
+     participants
+   ● SFEI: $100K for role in co-chairing STEW and lead scientist for the Program,
+     honoraria for advisors
+   ● Moss Landing Marine Laboratories (MLML) and chemistry lab: $350K for role in
+     Program management plus sampling and analysis for statewide monitoring
+
+This level of funding would allow the Realignment to continue at approximately the
+same level of effort as the last three years, although inflation would gradually reduce the
+amount of sampling and analysis that could occur over the next five years.
+
+For statewide monitoring, $350K per year to MLML and the chemistry lab would be
+enough to sample approximately 15 lakes, river stations, or coastal zones per year.
+                                                                                                6
+
+
+This level of effort is not sufficient to support a systematic sampling design across the
+hundreds of sampling locations of interest across the state. The best application of this
+level of funding to statewide monitoring is to sample locations with high priority data
+gaps.
+
+Tier 1: Reduced Funding ($375,000 per year)
+
+For a reduced funding scenario, options for a 50% decrease (i.e., $375,000 per year)
+are considered. A starting point for the discussion is to assume that the priorities
+expressed in the $650,000 plan would also apply, with a balance between Realignment
+monitoring and statewide monitoring. Based on these priorities, the budget could be
+distributed as follows.
+
+   ● Realignment: $150K for monitoring and honoraria for tribal and community
+     participants
+   ● SFEI: $50K for role in co-chairing STEW and lead scientist for the Program,
+     honoraria for advisors
+   ● MLML and chemistry lab: $175K for role in Program management plus sampling
+     and analysis for statewide monitoring
+
+Realignment is given a higher relative priority in this limited funding scenario (i.e., only
+reduced 25% rather than 50% like the other elements). This might be enough to keep
+the Realignment effort moving forward at a level that the community and tribal partners
+find satisfactory.
+
+With $175K for statewide monitoring it would only be possible to sample approximately
+seven or eight lakes, river stations, or coastal zones per year. At this level of funding, it
+would probably not be worth the effort required to coordinate and manage statewide
+monitoring. One way to have a better balance of sampling to management would be to
+perform the statewide sampling every other year or every third year. At this pace of
+sampling, only the very highest priority data gaps could be filled.
+
+A significant drawback of less frequent sampling would be maintaining the engagement
+of the various people and organizations involved for such a low level of activity and
+impact, and with significant gaps between active periods. This level of monitoring
+activity would also fall far short of addressing the information needs of water quality and
+public health agencies to manage the significant impairments of beneficial uses and
+health risks in California due to bioaccumulation.
+
+In a reduced funding scenario, it may be preferable to focus on funding one primary
+program element relatively well rather than two at insufficient levels. If the budgets for
+                                                                                          7
+
+
+Realignment and traditional monitoring are combined, $325K could be applied to either
+Realignment, statewide monitoring, or a multi-year effort to conduct a statewide survey
+of fish consumption.
+
+Tier 3: Moderate Funding Increase ($1,000,000 per year)
+
+A moderate increase in funding for the Program would allow the Program to continue
+the level of statewide monitoring that was conducted from 2015-2023, covering about
+30 locations per year, while continuing Realignment monitoring at the FY 24/25 level. To
+a large degree, this funding increase would allow the Program to keep up with the
+inflation that occurred from 2011 to 2024 while the budget for the Program remained
+essentially flat. A few options are described for how this level of funding could be used
+to address priority information needs:
+
+   ● Option A: most of the increased funding would go to maintain statewide
+     monitoring at the level achieved from 2015-2023
+   ● Option B: would mostly go to accelerating the Realignment effort
+   ● Option C would support a multi-year statewide consumption survey
+   ● Option D would support a multi-year statewide survey of contaminants in shellfish
+
+Tier 4: Robust Funding ($2,000,000 per year)
+
+A more robust level of funding (e.g., $2,000,000 per year or more) would be more
+commensurate with the legislatively mandated task of monitoring, managing, and
+communicating the substantial risks to humans and aquatic life from bioaccumulation in
+a state as large and diverse as California. Contaminant bioaccumulation is causing
+widespread and significant impairment of beneficial uses related to human and wildlife
+health in California. Information on bioaccumulation is needed to support impairment
+assessments, to track trends and short-term and long-term responses to management
+actions, to support implementation and assessment of Tribal Beneficial Uses throughout
+the state, and to support development and updating of fish consumption advisories so
+consumers can minimize their exposure and risk.
+
+Bioaccumulation impact on fishing beneficial uses has a strong connection to
+environmental justice, which heightens data needs and calls for a more expensive but
+important approach to monitoring that includes strong community engagement,
+relationship building, and partnership. Data gaps continue to exist for legacy
+contaminants (mercury and PCBs), while data needs are growing due to the emergence
+of PFAS as a contaminant of significant concern and the need for surveillance for other
+emerging contaminants (e.g., microplastics) and algal toxins.
+                                                                                           8
+
+
+An approximate general distribution of the funds each year for Tier 4 could be as
+follows.
+
+   ● Realignment: $600K for monitoring, process facilitation, and honoraria for tribal
+     and community participants
+   ● SFEI: $150K for role in co-chairing STEW and lead scientist for the Program,
+     honoraria for advisors
+   ● MLML and chemistry lab: $1,000K for role in Program management plus
+     sampling and analysis for statewide monitoring
+   ● Contractors to-be-determined: $250K for special studies on a variety of priority
+     topics
+
+This level of funding for Realignment could allow the Program to increase the pace of
+Realignment monitoring so that one region is monitored per year (instead of every three
+years). This would allow statewide coverage in a nine-year period, which is more in line
+with the importance and urgency of this environmental justice-related work. State Board
+staff time and third-party facilitation support would also need to be increased to support
+this accelerated effort.
+
+$1 million per year to MLML and the chemistry lab for statewide monitoring would be
+enough to bring the Program back to monitoring approximately 40 water bodies per year
+as was done in the bass lake monitoring effort from 2015-2023.
+
+The funding for special studies could be applied over time to a series of high priority
+topics, including:
+
+   ● a multi-year, statewide consumption survey;
+   ● a multi-year, statewide shellfish survey;
+   ● further development of open and interactive data resources for all fishers;
+   ● monitoring of bioaccumulation impacts on aquatic life;
+   ● monitoring of contaminants of emerging concern (CECs); and
+   ● evaluation of whole fish and fish body parts.
+
+The $250,000 per year allocated for special studies in Tier 4 would allow for gradual
+progress to be made on this list of topics, but it would likely take 10-15 years to make
+significant progress. While a Program budget of $2 million per year would be a large
+improvement over the current funding level, it is still not adequate to address, in a timely
+manner, the many urgent data, information, communication, and meaningful tribal and
+community engagement needs related to the bioaccumulation problem in California.
+                                                                                       9
+
+
+
+The Need for Robust and Comprehensive
+Bioaccumulation Monitoring in California
+Bioaccumulation of multiple contaminants is negatively impacting the beneficial uses of
+many water bodies in California by making fish and shellfish unsafe for human and
+wildlife consumption. The 2024 California Integrated Report (Clean Water Act Section
+303(d) List and 305(b) Report) assessed over 19,000 water bodies for bioaccumulation-
+related beneficial uses and resulted in 51 water body-pollutant combinations being
+added to the 303(d) list of impaired waters due to elevated concentrations of mercury,
+PCBs, legacy pesticides, selenium, and other bioaccumulative contaminants. Only three
+water bodies were identified as Category 1, which means that none of the beneficial
+uses assessed were impaired. Mercury bioaccumulation is the most pervasive problem,
+and prompted a special statewide mercury program that set mercury limits to protect the
+beneficial uses associated with the consumption of fish by both people and wildlife,
+established three new beneficial use definitions for use by the State and Regional Water
+Boards (Tribal Traditional Culture, Tribal Subsistence Fishing, and Subsistence
+Fishing), and initiated an effort to develop a statewide control program for reservoirs.
+California's bioaccumulation problem has a strong connection to environmental justice,
+as many disadvantaged communities depend most heavily on consumption of fish from
+California water bodies, often in relatively contaminated locations, and as a result face
+disproportionately high contaminant exposure and health risks.
+
+Contaminant bioaccumulation has also prompted the California Office of Environmental
+Health Hazard (OEHHA) assessment to issue more than 150 fish consumption
+advisories for California water bodies. Most of these are for specific water bodies, but
+the bioaccumulation is so pervasive that OEHHA has also issued statewide advisories
+for California water bodies without specific advice, including lakes and reservoirs;
+coastal locations; rivers, streams, and creeks; and for fish species that migrate. The
+statewide advisories recommend that the sensitive population (women age 18-49 and
+children 1-17) should not eat any amount of several fish species.
+
+Bioaccumulation monitoring is crucial in identifying the extent of impairment in
+California, identifying and prioritizing management actions, tracking whether impairment
+is being reduced in response to management, and informing the public on how to
+minimize health risks related to consumption of wild-caught fish.
+
+Since 2007 the Bioaccumulation Monitoring Program (Program), a component of the
+California State Water Resources Control Board's Surface Water Ambient Monitoring
+Program, has been the primary source of information in California to meet these needs.
+In 2024 the Program completed a second round of statewide monitoring and has
+                                                                                       10
+
+
+reached a point where priorities and long-term plans need to be established for the next
+phase of Program monitoring. In 2023 and 2024, the Program facilitated Safe to Eat
+Workgroup (STEW) participants through a thoughtful and deliberate process to
+determine those priorities and plans. This report documents that process and its
+outcomes.
+
+
+Statewide Bioaccumulation Monitoring in California
+To Date
+The mission of the Program is to provide statewide monitoring data and information that
+is used to:
+
+   1. assess and contribute to the protection and restoration of fishing and aquatic life
+      beneficial uses that are impacted by the bioaccumulation of pollutants in
+      California's waterbodies, and
+
+   2. assess the human health risks associated with the consumption of contaminated
+      fish and shellfish in California's freshwater and coastal ecosystems, and use that
+      information to support the development of advisories that inform consumers of
+      significant health risks associated with the consumption of particular species.
+
+The design of the Program has evolved as it has responded to information needs and
+fluctuations in funding. The first five years of the Program focused on addressing the
+lack of systematic statewide assessment of bioaccumulation in sport fish. A relatively
+high level of funding at the beginning of the Program allowed it to perform robust
+statewide monitoring. The Program began with a quite extensive statewide survey of
+lakes and reservoirs in 2007 and 2008. In these two years, fish were collected from 272
+lakes and analyzed for mercury, PCBs, dieldrin, DDTs, chlordanes, and selenium. The
+effort included a random sampling of 50 lakes to obtain an unbiased estimate of
+average condition, and targeted sampling of 222 lakes considered to be high priority
+locations for assessing bioaccumulation. This was followed in 2009 and 2010 by a
+survey of the same list of contaminants in fish from 68 coastal zones, and then a similar
+survey in 2011 of 63 river and stream locations.
+
+Funding for the Program after these initial statewide surveys levelled off at
+approximately $500,000 per year from 2012 through 2024 (Figure 1). The statewide
+surveys were followed by several years with a focus on special studies: a two-year
+statewide study of mercury accumulation and risks in grebes in 25 lakes in 2012 and
+2013, a one-year study in 2014 of 23 lakes with relatively low concentrations of mercury
+                                                                                          11
+
+
+in fish to confirm the low levels and to try to identify factors associated with them, and a
+one-year effort in 2016 to sample 37 lakes that were identified as having data gaps.
+
+Sampling from 2015 through 2024 focused on revisiting high priority locations to provide
+up-to-date information on contamination status and begin to build a dataset on long-term
+trends. A multi-year plan for sampling lakes with black bass was initiated in 2015. For
+this effort a set of 190 high priority lakes was identified based on input from the
+Regional Boards. To fit within the available budget, these lakes were divided into five
+subsets, with 36 lakes sampled every second year from 2015 through 2023. A second
+survey of the coast was initiated in 2018. This survey was spread over three years
+(2018, 2020, and 2024) to fit within the available budget and logistical limitations
+imposed during the COVID-19 pandemic.
+
+Beginning in 2021, $200,000 per year of the Program budgets were allocated to support
+the Realignment Process – a new direction for the Program with the goal of working
+with communities within Water Board Regions to fill data, information, and
+communication gaps and to characterize the exposure of communities that rely most
+heavily on fishing for consumption, subsistence, sustenance, and cultural purposes. The
+Realignment Process is based on engaging with these communities to build
+relationships, get a better understanding of data and information needs, and select the
+locations, species, and analytes to monitor. Given funding and staffing constraints, this
+work is being done one Water Board Region at a time, with three years spent per
+region: engagement and study design in year 1, monitoring in year 2, and reporting in
+year 3. The Realignment Process began with the San Diego Region in 2021 and was
+initiated for the San Francisco Bay Region in 2024.
+
+With the completion of the 10-year bass lake effort in 2023 and the second round of
+coastal monitoring in 2024, the Program reached a point where there was a need to
+decide on a plan for the next phase of the Program for 2025 and beyond, in a manner
+that makes optimal use of the limited funding available to address information needs in
+relation to management of the state's bioaccumulation problem, and to support the
+protection and restoration of water quality to support all beneficial uses throughout the
+state.
+                                                                                     12
+
+
+
+Program Planning for 2025 - 2029
+Planning Process
+
+The Program, through the STEW, initiated a "Long-term Monitoring Priorities
+Assessment Process" to develop a workplan for 2025 and beyond, beginning at the
+November 2022 STEW meeting. This very deliberate and thoughtful process was
+designed to gather input on bioaccumulation information needs from an array of state,
+federal, and local agencies, Tribal governments, and communities that are responsible
+for managing or are affected by California's bioaccumulation problem (Table 1).
+Extensive efforts were made to reach out to groups that were thought likely to be
+interested. These groups were asked to begin considering their information needs in
+early 2023 in preparation for a formal process of sharing and discussing them in late
+2023 and early 2024.
+
+The groups were asked to consider the following two main questions:
+   ● What are your priorities over the coming years and how could the Program and
+     STEW support?
+   ● How can we most effectively use our SWAMP Bioaccumulation Monitoring
+     Program funds and leverage other monitoring efforts and partnerships?
+
+The desired outcomes of the process were to:
+   ● get a better understanding of the long-term (5-10 years) monitoring and analysis
+     needs and priorities of the bioaccumulation monitoring partners and larger
+     community;
+   ● make general plans for statewide SWAMP Bioaccumulation Monitoring over the
+     next 5 years;
+   ● make more specific plans for statewide SWAMP Bioaccumulation Monitoring for
+     2025 and 2026; and
+   ● support the need for more advanced timelines for permitting process.
+
+Two main written tools were used to obtain input. The first tool was a written template
+for Regional Water Boards or External Partners (i.e., Tribes, Agencies, or Community-
+Based Organizations). Groups interested in participating in the Long-term Monitoring
+Priorities Assessment Process were asked to fill in components of the template;
+Regional Boards were required to complete everything, and others could complete only
+those components that applied to them.
+                                                                                         13
+
+
+The template asked for information on the following items:
+   ● contacts within their organization;
+   ● recent monitoring conducted by that group;
+   ● anticipated future monitoring that would be conducted by that group;
+   ● monitoring wish list;
+   ● Program sticking points; and
+   ● additional information or resources.
+
+The second written tool was a Google form. The Google form was intended to be used
+by those that may not have the interest, time, or capacity to complete template, but still
+wanted to provide feedback and participate in the process. The form asked respondents
+about their priorities for:
+   ● water body types;
+   ● specific water bodies;
+   ● type of species (fish, shellfish, other);
+   ● specific species; and
+   ● contaminants.
+
+In addition to providing this written input, the groups with active participation were asked
+to give presentations to the STEW on their priorities. A special series of five extra
+STEW meetings (in addition to the usual quarterly meetings) was held for these
+discussions. The special meetings were held from November 2023 through March 2024.
+Presentations were made by the nine Regional Boards, the State Water Board (Division
+of Water Quality), OEHHA, the California Department of Public Health (CDPH), and the
+San Francisco Bay, Southern California Bight, and Delta regional monitoring programs.
+
+The links to relevant STEW meeting slides, notes and recordings are listed in
+Appendix 1. Links to completed templates provided by presenters are provided in the
+meeting notes associated with each respective item.
+
+Overall, a total of 27 groups provided input on their priorities (Table 1). A high-level
+summary of priorities across all these groups is shown in Table 2. Interest was roughly
+equally distributed across the three major water body types (lakes and reservoirs,
+coastal areas, rivers and streams). Fish was the primary species type of interest, but
+shellfish were a priority for about half of the respondents. Metals and PFAS were the top
+two contaminant priorities, but there was also significant interest in algal toxins,
+microplastics, PCBs, and organochlorine pesticides. The two major sticking points were
+                                                                                        14
+
+
+lack of funding (cited by all respondents) and lack of information on consumption
+patterns.
+
+Input from three partner agencies with a statewide perspective on bioaccumulation
+information needs are particularly noteworthy. The Standards and Assessment Section
+of the State Water Board's Division of Water Quality (DWQ) identified the following
+priorities in their presentation to the STEW on January 24, 2024.
+
+   1. Continue to sample waters with known bioaccumulation problems if there are
+      control actions that might change conditions. Prioritize those sites where more
+      people are likely to consume fish or shellfish.
+
+   2. Sample waters where we have some indication there is a bioaccumulation
+      problem but not enough data to conclude if there is or is not a problem. Use the
+      303(d) Category 3 list (also known as the "Watch List") to identify waters with
+      monitoring data gaps.
+
+   3. Support OEHHA fish consumption advisories. Ask OEHHA if there are waters for
+      which a few more samples might provide enough data to determine if an advisory
+      is necessary or to develop an advisory.
+
+   4. Sample waters that we have not monitored yet but where people are consuming
+      fish or shellfish, especially if underserved or tribal communities, and consuming
+      at subsistence level.
+
+   5. Continue sampling rivers and streams where people are eating resident fish
+      species with greater bioaccumulation rates. For example, it’s not as critical to
+      sample rivers where people eat salmon, but more critical where bass are caught
+      and consumed.
+
+   6. Compile documentation demonstrating that people are eating fish in waterbodies
+      not currently assigned the Commercial and Sportfishing (COMM) beneficial use.
+
+OEHHA, in addition to identifying many specific needs for particular water bodies,
+species, and contaminants, recommended the following two priorities as important for
+long-term monitoring statewide.
+
+   1. Collection and analysis of contaminants in shellfish that are consumed by
+      humans from freshwater, estuarine, and marine waters.
+
+   2. Analysis of PFAS in both fish and shellfish.
+                                                                                      15
+
+
+CDPH made the following recommendations for statewide monitoring, based largely on
+their studies of consumption by Asian communities as part of their Biomonitoring
+California Program.
+
+   1. Measure levels of mercury and PFAS in paired fillet/whole fish samples and/or
+      individual fish parts. Focus on salmon, often promoted as a low-contaminant fish
+      and highly consumed by ACE participants.
+
+   2. Archive whole fish, heads, skin, and/or organs for future testing for mercury and
+      PFAS.
+
+   3. Measure levels of mercury and PFAS in crab and other shellfish, which were
+      highly consumed by ACE participants.
+
+After the last special STEW meeting on this topic in March 2024, the information was
+presented to SWAMP management for them to make final decisions on priorities. These
+decisions were then reported back to the STEW at their April 2024 meeting.
+
+Outcomes of the Planning Process
+
+Based on the input received during the long-term planning process, SWAMP
+management provided the following direction to the Program and STEW in April 2024.
+
+   ● Opportunities for feedback and identifying specific monitoring and analysis
+     requests will continue to be supported by the Program through the annual
+     monitoring plan development, review, and feedback process.
+
+   ● Bioaccumulation monitoring needs will continue to change and there is the
+     expectation from SWAMP management that the Program will reassess priorities
+     and revisit long-term monitoring plans on a five-year cycle. The plan resulting
+     from the 2023-2024 planning process can be adapted as information needs and
+     resources evolve.
+
+   ● Given the current budget (as of March 2024), Realignment monitoring will
+     continue at its present funding level ($200,000 per year) and pace. After the
+     effort currently underway in Region 2 (2024-2026), the Realignment process will
+     begin in a third region that has not yet been selected.
+
+   ● For the next five years the Program will focus on filling gaps and priorities
+     identified during the planning process and addressing specific equity and
+     management questions, rather than on sampling with a statewide or probabilistic
+     design.
+                                                                                     16
+
+
+   ● Data gaps for lakes and reservoirs will be monitored in 2025 and 2026, followed
+     by rivers and streams in 2027, and the coast in 2028 and 2029 (Figure 2).
+     Focusing on lakes and reservoirs first aligns well logistically with existing
+     contracts. Monitoring rivers and streams in 2027 will give the Regional Boards
+     time to determine whether and how they would like to augment that effort.
+     Coastal monitoring will focus on data gaps in the Southern California Bight in
+     2028 to allow alignment with the Bight Program. Monitoring in 2029 will cover the
+     rest of the coast (i.e., the Central and North Coast regions).
+
+   ● Monitoring for trends and to update older data can be included based on specific
+     requests shared by STEW partners during annual feedback process, as budget
+     allows.
+
+   ● The Program should consider reducing the emphasis on mercury, and only
+     analyze for mercury for water bodies and species where OEHHA or the DWQ
+     indicate more samples are needed for advisories or listing decisions, or STEW
+     partners explicitly request it during the annual feedback process to address data
+     gaps.
+
+   ● The plan that is in development for analyzing PFAS in archived samples should
+     be implemented. In addition, PFAS should be analyzed in water bodies that are
+     close to known PFAS sources (e.g., industrial complexes and airports). More
+     extensive statewide PFAS monitoring will be considered after completion of the
+     archive study.
+
+   ● Statewide designs and trend monitoring will be reconsidered after interpretive
+     reports on the 10-year bass lake study and the second round of coast monitoring
+     are completed (in 2025 and 2026, respectively).
+
+SWAMP management directed the Program to develop a plan for 2025-2029 based on
+these considerations and the current understanding of anticipated funding (i.e.,
+$650,000 per year for the next five years). In addition, the Program was directed to
+consider what could be accomplished under other funding scenarios, including reduced
+funding and increased funding.
+                                                                                       17
+
+
+
+Program Design Options for Different Funding Tiers
+Uncertainty and limitations regarding the annual availability of funding are among the
+primary challenges facing the Program. SWAMP management directed the Program to
+consider what could be accomplished under several funding scenarios, including
+reduced funding and increased funding.
+
+Funding for the Program in the first few years of the Program (FY 06/07 through
+FY 10/11) fluctuated from year to year. In the first two years $2.1 million was allocated
+to cover the extensive lakes survey. Funding for the next three years averaged about
+$750,000 per year. From FY 11/12 through the current fiscal year (FY 24/25) the annual
+allocations ranged between $450,000 and $650,000 (Figure 1). Beginning in FY 21/22,
+$650,000 was allocated annually to the Program, with $200,000 going to the
+Realignment effort.
+
+Given the uncertainty surrounding future funding, SWAMP management directed the
+Program leads to develop a series of monitoring design options for different funding
+levels, including a scenario where Program funding is reduced below the current level.
+
+This approach is similar to what was done for a previous report on recommendations for
+SWAMP bioaccumulation monitoring that was prepared in the early years of the
+Program (Davis 2008). The Davis (2008) report provides useful context for the present
+consideration of funding and design options for 2025 and beyond. The 2008 report
+described three tiers of funding.
+
+   ● Tier 1 was $500,000 per year, which was considered a low level of funding in
+     2008, especially given the much larger scope of the program during the initial
+     lakes survey in 2007 and 2008 ($2.1 million over two years, allowing monitoring
+     of 272 lakes for the full suite of contaminants - mercury, PCBs, organochlorine
+     pesticides, and selenium). In 2008, $500,000 ($750,000 in 2023 dollars) was
+     considered enough to sample 40 targeted sites per year.
+
+   ● Tier 2 was $1.5M per year ($2.25M in 2023 dollars). Funding at this level was
+     considered sufficient to cover the 40 targeted sites from Tier 1, plus a series of
+     other suggested elements: more intensive monitoring in a region, statewide
+     random sampling (which had been a component of the 2007-2008 lakes survey),
+     prey fish monitoring and bird egg monitoring to assess status and trends in
+     regard to wildlife, and additional special studies.
+
+   ● Tier 3 was $3.3M per year ($5M in 2023 dollars). This level was described as
+     being "commensurate with the task of monitoring and reducing risks from
+     bioaccumulation in a state as large and diverse as California.” Tier 3 included
+                                                                                           18
+
+
+       increased scopes of the elements of Tier 2 with the additions of shellfish
+       monitoring and a major environmental justice-oriented component that would
+       integrate monitoring with advisory development and risk communication and
+       include the funded participation of representatives of affected communities. The
+       vision was that stepwise region-by-region effort would develop consumption
+       advice with complete coverage of the State in a 10-year period, along with risk
+       communication efforts integrated into the program that could reduce human
+       health risks significantly in a 10-year period without necessarily reducing fishing
+       or fish consumption (through directing anglers to less contaminated fish species
+       and locations). This concept was similar to the Realignment effort that the
+       Program is currently implementing.
+
+The Tier 1 funding level is what actually was approximately available from 2012-2024,
+ranging from $450,000 to $650,000 per year (Figure 1). The number of sites that could
+be sampled each year over this period gradually decreased due to inflation - $650K in
+2023 dollars would have been $460K in 2012. The Realignment effort was initiated in
+2021, which reduced the funds available for statewide monitoring. From 2015 through
+2023 the Program was able to sample approximately 35 lakes per year to complete
+statewide, systematic, “long-term” bass lakes monitoring effort that began in 2015
+(with five rounds of sampling over a 10-year period). However, with inflation and
+Realignment, 35 lakes or stations per year is not sustainable at the current funding
+level. At present, the funding projected for the next five years is sufficient to cover
+Realignment sampling plus approximately 15 water bodies (lakes, river stations, or
+coastal zones) for statewide sampling per year.
+
+Four scenarios for future Program funding are presented here. A description of the plan
+for the current funding level ($650,000) is presented first ("Tier 2"), followed by
+consideration of designs at a reduced funding level ($375,000) and two increased
+funding levels ($1M per year and $2M per year).
+
+Tier 2: Current Funding ($650,000 per year)
+
+This is the current funding level for the Program. The general distribution of the funds
+each year would be as follows.
+
+   ● Realignment: $200K for monitoring and honoraria for tribal and community
+     participants
+
+   ● SFEI: $100K for role in co-chairing STEW and lead scientist for the Program,
+     honoraria for advisors
+                                                                                        19
+
+
+   ● Moss Landing Marine Laboratories (MLML) and chemistry lab: $350K for role in
+     Program management plus sampling and analysis for statewide monitoring
+
+This level of funding would allow the Realignment to continue at approximately the
+same level of effort as the last three years, although inflation would gradually reduce the
+amount of sampling that occurs over the next five years.
+
+For statewide monitoring, $350K per year to MLML and the chemistry lab would be
+enough to sample approximately 15 lakes, river stations, or coastal zones per year. This
+level of effort is not sufficient to support a systematic sampling design across the
+hundreds of sampling locations of interest across the state. The best application of this
+level of funding to statewide monitoring is to sample locations with high priority data
+gaps.
+
+Thoughtful prioritization will be key to maximizing the value of all of the designs
+presented in this report, but even more important for lower levels of funding. As part of
+the planning process, survey participants provided input on specific water bodies that
+they consider to be high priorities for sampling (Feedback Synthesis Table). The highest
+priority subset of these water bodies should be sampled.
+
+Coordination with other monitoring programs would be another way to maximize and
+expand the monitoring performed for both Realignment and statewide monitoring. The
+Realignment effort in the San Francisco Bay Region (Region 2) in 2024 focused on
+gathering and documenting information on monitoring priorities of communities and
+tribes. The Regional Monitoring Program for Water Quality in San Francisco Bay (Bay
+RMP) is conducting Bay-wide fish monitoring in 2024 and is monitoring one of the
+locations (Hunters Point) identified through the Realignment discussions. In addition, in
+2025 the Bay RMP will begin a new program element to monitor in partnership with
+communities, with community members collecting fish. This work is intended to
+complement and expand on the priorities identified in the Region 2 Realignment
+Monitoring Plan.
+
+For the rivers sampling in 2027, the Delta Regional Monitoring Program (Delta RMP)
+has expressed interest in coordinated sampling of stations in the Delta. This
+collaboration would allow the Program to have greater overall coverage of river stations,
+including Delta stations, that have exhibited some of the highest mercury concentrations
+observed in the state. The Delta RMP would benefit from not having to pay for project
+management, QA, data management, and reporting.
+
+Since its beginning the Program has collaborated with the Southern California Bight
+Regional Monitoring Program (Bight Program) for monitoring 27 zones that span the
+Bight. The Bight Program contributes substantial resources toward chemical analysis of
+                                                                                       20
+
+
+the samples and led reporting for the 2018 effort. With $350,000 per year for statewide
+monitoring, however, sampling the Bight would take approximately the entire two-year
+allotment of Program funding for the coast in 2028 and 2029. The Program would need
+to decide whether to use this allotment to sample the 27 Bight zones or to reduce the
+effort in the Bight to allow inclusion of zones in the North and Central Coast regions.
+
+If funding for statewide monitoring is lower than the Tier 2 amount, a point will be
+reached where the value of the information generated does not outweigh the effort that
+goes into planning, coordinating, managing, providing QA, managing data, reporting,
+and peer-reviewing. The $350,000 funding level, with sampling of approximately 15
+locations per year, is quickly approaching that point.
+
+If the Regions are able to contribute funds to augment the statewide monitoring that
+would help to improve the ratio of information generated relative to project
+management.
+
+Given the limited funding, another option suggested in the planning process was to drop
+the Realignment effort and apply those funds toward statewide monitoring until the
+funding situation improves. However, SWAMP Management has made clear that doing
+so is unlikely.
+
+Tier 1: Reduced Funding ($375,000 per year)
+
+For a reduced funding scenario, options for a 50% decrease (i.e., $375,000 per year)
+are considered. A starting point for the discussion is to assume that the priorities
+expressed in the current $650,000 plan would also apply, with a balance between
+Realignment monitoring and statewide monitoring. Based on these priorities, the budget
+could be distributed as follows.
+
+   ● Realignment: $150K for monitoring and honoraria for tribal and community
+     participants
+
+   ● SFEI: $50K for role in co-chairing STEW and lead scientist for the Program,
+     honoraria for advisors
+
+   ● MLML and chemistry lab: $175K for role in Program management plus sampling
+     and analysis for statewide monitoring
+
+The Realignment is given a higher relative priority in this limited funding scenario
+(i.e., only reduced 25% rather than 50% like the other elements). This may or may not
+be enough to keep the Realignment effort moving forward at a level that the community
+and tribal partners find satisfactory.
+                                                                                           21
+
+
+With $175K for statewide monitoring it would only be possible to sample approximately
+seven or eight lakes, river stations, or coastal zones per year. At this level of annual
+sampling the value of the information generated would not be worth the investment of
+effort that would go into planning, coordinating, managing, providing quality assurance
+and data management, reporting, and peer-reviewing (these activities will be referred to
+collectively below as "management"). One way to have a better balance of sampling to
+management would be to perform the statewide sampling every other year or every
+third year. At this pace of sampling, only the very highest priority data gaps could be
+filled. A significant drawback of less frequent sampling would be maintaining the
+engagement of the various people and organizations involved for such a low level of
+activity and impact, and with significant gaps between active periods. At this level of
+funding, it would probably not be worth the effort required to coordinate and manage
+statewide monitoring. This level of monitoring activity would also fall far short of
+addressing the information needs of water quality and public health agencies to manage
+the significant impairments of beneficial uses and health risks in California due to
+bioaccumulation.
+
+This low level of effort would also make it challenging to collaborate with and leverage
+the efforts of other monitoring programs. The possibility of coordinating with the Delta
+RMP on rivers sampling would have to be evaluated relative to other statewide
+priorities. Collaboration with the Bight Program as has been done in the past
+(i.e., covering 27 zones) would require three- or four-years’ worth of the statewide
+monitoring funding allocation. Therefore, in this funding scenario, the number of zones
+would likely need to be pared back.
+
+In a reduced funding scenario, it may be preferable to focus on funding one primary
+program element relatively well rather than two at insufficient levels. Options for this
+would include the following.
+
+Option 1A - $325K for Realignment
+This would allow an increase in Realignment monitoring relative to what has been done
+or is being done in the San Diego and San Francisco Bay Regions, respectively. Since
+the Realignment work is geographically focused (i.e., one region at a time), this would
+support a robust sampling of areas of interest to communities and tribes. At the present
+rate of Realignment progress, however - three years per region - each region would
+only be sampled by the Program once every 27 years. With the increased funding for
+Realignment this rate could possibly be increased to two years per region, which would
+allow each region to be sampled once every 13-14 years. State Board staff time and
+support from third party facilitation would also need to be increased for coordinating the
+effort.
+                                                                                         22
+
+
+Option 1B - $325K for Statewide Monitoring
+This amount of funding would allow statewide monitoring to continue at a slightly
+reduced level compared to the current plan described under Tier 2. All the same
+considerations discussed for statewide monitoring in that section would apply for this
+scenario as well.
+
+Option 1C - $325K for Consumption Surveys
+Information on fish consumption was identified as a priority need by eight of the nine
+regional Water Boards. This amount of funding could support a robust effort to plan and
+implement a project to collect consumption information across the state. Multiple years
+of funding at this level would be needed, but the funding would be adequate to address
+this high-priority, longstanding information gap. Ideally such a project would obtain
+information from both the general fishing population and tribal and subsistence fishers.
+Engaging, or, even better, partnering with community organizations and tribal
+governments would allow this work to be done in a manner that addresses
+environmental justice. The funding would primarily go to a contractor with expertise in
+conducting fish consumption surveys to lead and coordinate the overall effort.
+
+Tier 3: Moderate Funding Increase ($1,000,000 per year)
+
+A moderate increase in funding for the Program would allow the Program to continue
+the level of statewide monitoring that was conducted from 2015-2023, covering about
+30 locations per year, while continuing Realignment monitoring at its current level. To a
+large degree, this funding increase would allow the Program to keep up with the inflation
+that has occurred over the last 14 years while the budget for the Program has remained
+essentially flat. A few options are described below for how this level of funding could be
+used to address priority information needs.
+
+Option 3A: Statewide Monitoring Focus
+This option basically continues the overall design that has been implemented since
+Realignment began in FY 21/22. The approximate general distribution of the funds each
+year for Option 3A would be as follows.
+
+   ● Realignment: $250K for monitoring and honoraria for tribal and community
+     participants
+
+   ● SFEI: $100K for role in co-chairing STEW and lead scientist for the Program,
+     honoraria for advisors
+                                                                                         23
+
+
+   ● MLML and chemistry lab: $650K for role in Program management plus sampling
+     and analysis for statewide monitoring
+
+This option would continue the Realignment Process at approximately the same level of
+effort as the last three years, although inflation will gradually reduce the amount of
+sampling that occurs over the next five years. Additional funds could be shifted to the
+Realignment to allow that element to keep pace with inflation.
+
+This option would allow the statewide monitoring element to catch up to some degree
+with the inflation that has occurred while the Program budget has been fixed over the
+last 14 years. $700,000 per year would be enough to sample approximately 30 lakes,
+river stations, or coastal zones per year. This level of funding for statewide monitoring
+could support a multi-year statewide systematic sampling design for lakes, like the one
+implemented from 2015-2023 where 190 lakes were sampled across the state through
+five rounds of sampling (38 lakes per round). The lake sampling could continue to
+address data gaps identified by STEW partners, and with advance planning possibly
+include an element of randomization that would allow for tracking of statewide trends.
+Monitoring of the coast on a 10-year cycle could also continue, with a two- or three-year
+effort sufficient to cover the 65 zones sampled in two previous rounds. One or two
+years' worth of effort could also be allocated to a statewide sampling of priority river
+stations. The statewide monitoring could include targeted sampling of mercury, PCBs,
+and PFAS, and prey fish.
+
+With this option, continued collaboration with the Bight Program would be similar to past
+collaborations in 2009 and 2018. The coordinated sampling effort could be completed in
+one year.
+
+Option 3B: Realignment Focus
+The approximate general distribution of the funds each year for Option 3B would be as
+follows.
+
+   ● Realignment: $500K for monitoring, facilitation support, and honoraria for tribal
+     and community participants
+
+   ● SFEI: $100K for role in co-chairing STEW and lead scientist for the Program,
+     honoraria for advisors
+
+   ● MLML and chemistry lab: $400K for role in Program management plus sampling
+     and analysis for statewide monitoring
+                                                                                           24
+
+
+This would allow a major increase in Realignment monitoring relative to what has been
+done or is being done in the San Diego and San Francisco Bay Regions, respectively.
+Since the Realignment work is geographically focused (i.e., one region at a time), this
+would support a robust sampling of areas of interest to communities and tribes. At the
+present rate of Realignment progress, however - three years per region - each region
+would only be sampled by the Program once every 27 years. With the increased funding
+for Realignment this rate could possibly be increased to two regions every three years,
+which would allow each region to be sampled once every 13-14 years. The more than
+doubling of the funds going to Realignment (from $200K to $500K per year) would allow
+for more extensive monitoring each year and for keeping pace with inflation. State
+Board staff time and third-party facilitation support would also need to be increased for
+coordinating the effort.
+
+Statewide monitoring would be increased by a limited amount to allow this element to
+keep pace with inflation. Aside from that, the same considerations described for
+Option 2 would apply to this option.
+
+Option 3C: Consumption Survey Focus
+The approximate general distribution of the funds each year for Option 3B would be as
+follows.
+
+   ● Realignment: $250K for monitoring and honoraria for tribal and community
+     participants
+
+   ● SFEI: $100K for role in co-chairing STEW and lead scientist for the Program,
+     honoraria for advisors
+
+   ● MLML and chemistry lab: $400K for role in Program management plus sampling
+     and analysis for statewide monitoring
+
+   ● Contractor: $250K for a special project - a statewide consumption survey
+
+This option would slightly increase the budgets for Realignment and statewide
+monitoring to allow them to continue at the current level of effort (i.e., the Option 2 level)
+and keep pace with inflation. This option would also include a significant additional
+element: a robust statewide project to plan and implement an effort to collect
+consumption information across the state.
+
+Multiple years of funding at this level would be needed, but the funding would be
+adequate to address this high-priority, longstanding information gap. Ideally such a
+project would obtain information from both the general fishing population and tribal and
+                                                                                           25
+
+
+subsistence fishers. Engaging, or, even better, partnering with community organizations
+and tribal governments would allow this work to be done in a manner that addresses
+environmental justice. The funding would primarily go to a contractor with expertise in
+conducting fish consumption surveys to lead and coordinate the overall effort.
+
+Option 3D: Shellfish Focus
+The approximate general distribution of the funds each year for Option 3D would be as
+follows.
+
+   ● Realignment: $250K for monitoring and honoraria for tribal and community
+     participants
+
+   ● SFEI: $100K for role in co-chairing STEW and lead scientist for the Program,
+     honoraria for advisors
+
+   ● MLML and chemistry lab: $650K - $400K for role in Program management plus
+     sampling and analysis for statewide fish monitoring, and $250K for adding
+     statewide shellfish monitoring.
+
+This option would slightly increase the budgets for Realignment and statewide
+monitoring to allow them to continue at the current level of effort (i.e., the Option 2 level)
+and keep pace with inflation. This option would also include a significant additional
+element: a robust statewide project to plan and implement an effort to conduct a
+statewide survey of contaminants in shellfish.
+
+From the late 1970s through the 1990s, California conducted extensive statewide
+monitoring of contaminants in bivalves (reviewed by Melwani et al. [2013]). California
+initiated the State Mussel Watch Program (SMW) in 1977 to provide the State and
+Regional Boards with an indication of the spatial and interannual trends in selected toxic
+pollutants, principally heavy metals, PCBs, legacy pesticides, and PAHs, in the
+California coastal zone (Martin 1985). The SMW continued to conduct annual
+monitoring until 2003. The Program yielded a wealth of useful information on water
+quality in California (Stephenson et al. 1995, Davis et al. 2007, Tetra Tech 2008). Many
+instances of severe contamination were identified, leading to cleanup actions to reduce
+exposure of humans and wildlife. In addition, many relatively uncontaminated areas
+were identified. SMW documented the successful management of many pollutants that
+posed serious threats to wildlife and human health in the 1970s and 1980s. The SMW
+was instituted just in time to document the rapid improvements in water quality that
+resulted from bans on PCBs and legacy pesticides, reductions in metals due to
+wastewater treatment, and other improvements. The SMW was discontinued when
+                                                                                         26
+
+
+plans for the State Board’s new statewide Surface Water Ambient Monitoring Program
+(SWAMP) for water quality began to take shape.
+
+Statewide shellfish monitoring has not been conducted since the State Mussel Watch
+ended. This has been the case despite the long-recognized concern and need for
+understanding the impact of bioaccumulation in shellfish on beneficial uses. In 2006,
+SWAMP formed the STEW to develop plans for and to guide the implementation of
+SWAMP's statewide Bioaccumulation Monitoring Program. In 2009 the California Water
+Quality Monitoring Council designated the STEW as its workgroup for assessing the
+question: "Is it safe to eat fish and shellfish from our waters?" The stated mission of the
+STEW is "to assess the impacts of contaminants in fish and shellfish on beneficial uses
+in California water bodies through statewide monitoring." The STEW developed a Safe
+to Eat portal that is intended provide access to data and information on contaminants in
+fish and shellfish.
+
+Despite being explicitly included in legislation that created the Program (Assembly Bill
+No. 2872, 2000) and the mission of the Program and STEW, statewide shellfish
+bioaccumulation monitoring has not been conducted for over 20 years. Furthermore,
+even the monitoring that was done by the SMW prior to the Program was focused only
+on bivalves (not including other shellfish species) and not on characterizing human
+exposure (but rather on spatial and temporal trends in contamination). Both of the public
+health agencies that actively participate in the STEW have expressed strong interest in
+and need of information on contaminant bioaccumulation in shellfish. OEHHA
+recommended "contaminants in shellfish that are consumed by humans from
+freshwater, estuarine, and marine waters" as a priority for statewide monitoring, and
+recommended including PFAS in this monitoring. CDPH also identified a need for
+information on bioaccumulation in multiple types of shellfish, including clams, crab,
+crayfish, lobster, and mussels. Four regions, two tribes, and the Division of Water
+Quality also expressed a need for shellfish monitoring.
+
+This option would include $250K per year to support a statewide shellfish monitoring
+effort. With this level of funding, over the course of several years, a statewide
+assessment of bioaccumulation in shellfish could be obtained. Ideally, the effort would
+focus on locations and species with high consumption rates (i.e., popular shellfish
+gathering areas), and additionally examine areas that are anticipated to have high
+contaminant exposure (i.e., contaminated areas). Shellfish species in freshwater
+(crayfish and clams) and estuarine and marine waters (clams, mussels, oysters, crabs,
+and lobsters) should be included. Tissues that are popular for consumption (e.g., lobster
+tail) or that pose high risk (e.g., crab hepatopancreas) should be examined. The
+common bioaccumulative contaminants of concern (mercury, PCBs, and PFAS) should
+be included. Mercury would need to be analyzed as methylmercury because the fraction
+                                                                                         27
+
+
+of mercury present as methylmercury in shellfish tissue is variable. As with Program
+sport fish monitoring, one of the primary goals would be to generate the data OEHHA
+needs to include shellfish species in advisories. This would be a new element for the
+Program that would require a significant initial effort to develop a quality assurance
+project plan (QAPP) that articulates plans for sampling, analysis, quality assurance, and
+data management for shellfish monitoring and data management.
+
+Tier 4: Robust Funding ($2,000,000 per year)
+
+A more robust level of funding (e.g., $2,000,000 per year or more) would be more
+commensurate with the legislatively mandated task of monitoring, managing, and
+communicating the substantial risks to humans and aquatic life from bioaccumulation in
+a state as large and diverse as California. Contaminant bioaccumulation is causing
+widespread and significant impairment of beneficial uses related to human and wildlife
+health in California. Information on bioaccumulation is needed to support impairment
+assessments, to track trends and short-term and long-term responses to management
+actions, to support implementation and assessment of Tribal Beneficial Uses throughout
+the state, and to support development and updating of advisory information so
+consumers can minimize their exposure and risk. Bioaccumulation impact on fishing
+beneficial uses has a strong connection to environmental justice, which heightens data
+needs and calls for a more expensive but important approach to monitoring that
+includes strong community engagement and partnership. Data gaps continue to exist for
+legacy contaminants (mercury and PCBs), while data needs are growing due to the
+emergence of PFAS as a contaminant of significant concern and the need for
+surveillance for other emerging contaminants (e.g., microplastics) and algal toxins.
+
+Tier 4 outlines a plan for how an annual budget of $2 million could be used to address
+the most urgent bioaccumulation information needs.
+
+An approximate general distribution of the funds each year for Tier 4 could be as
+follows.
+
+   ● Realignment: $600K for monitoring, facilitation support, and honoraria for tribal
+     and community participants
+
+   ● SFEI: $150K for role in co-chairing STEW and lead scientist for the Program,
+     honoraria for advisors
+
+   ● MLML and chemistry lab: $1,000K for role in Program management plus
+     sampling and analysis for statewide monitoring
+                                                                                           28
+
+
+   ● Contractors to-be-determined: $250K for special studies on a variety of priority
+     topics
+
+This level of funding for the Realignment could allow the Program to increase the pace
+of Realignment monitoring so that one Region is monitored per year. This would allow
+statewide coverage in a nine-year period, which is more in line with the importance and
+urgency of this environmental justice-related work. State Board staff time and third-party
+facilitation support would also need to be increased to support this accelerated effort.
+
+The amount of funding for SFEI to lead this larger program and provide honoraria would
+need to be increased.
+
+$1 million per year to MLML and the chemistry lab for statewide monitoring would be
+enough to bring the Program back to monitoring approximately 40 water bodies per year
+as was done in the bass lake monitoring effort from 2015-2023.
+
+The funding for special studies could be applied to a series of priority topics, some of
+which were described above, and are summarized again below.
+
+   ● A coordinated, multi-year statewide effort to obtain consumption information
+     (described under option 1C and 3C).
+
+   ● A multi-year statewide shellfish monitoring survey, including PFAS (described
+     under option 3D).
+
+   ● Further development of open and interactive data resources. Some work along
+     these lines is already underway or planned. The SWAMP Data Dashboard was
+     recently released and provides access to Program data. A plan for developing a
+     fish harvest and consumption application for tribes and subsistence fishers is
+     awaiting funding. Easy access to advisories and Program information via
+     smartphones would greatly enhance the use of the information by fishers when
+     they are out fishing.
+
+   ● Monitoring of bioaccumulation impacts on aquatic life. A 25 lake Program
+     statewide survey in 2012-2013 showed significant risks of mercury impact on
+     reproduction of grebes, with 24% of the lakes having a high risk of impact
+     (Ackerman et al. 2015). Other limited studies have found contaminants above
+     thresholds for concern in marine mammals, including seals, sea lions, and sea
+     otters (e.g., Kannan et al. 2006, Meng et al. 2009, Sedlak et al. 2017). No further
+     monitoring of wildlife has been done by the Program since the grebe study.
+
+   ● Monitoring of contaminants of emerging concern (CECs). The Program is just
+     beginning to move (with PFAS work) beyond the list of legacy contaminants that
+                                                                                       29
+
+
+      it has been monitoring since 2007, and that were monitored before that by earlier
+      programs (Toxic Substances Monitoring Program, State Mussel Watch) since the
+      1970s. Even within the PFAS class, there is a need to move beyond analysis of
+      legacy PFAS. Including monitoring of CECs in the Program would support a
+      more proactive and effective approach to protection of beneficial uses related to
+      bioaccumulation.
+
+   ● Evaluation of whole fish and fish body parts. CDPH surveys have shown that fish
+     consumers commonly eat more than just skinless fillets, including skin, heads,
+     eyes, and organs. Consumption of whole fish is also a common practice. Studies
+     to assess contaminant levels in whole fish and fish body parts would support
+     exposure reduction through more detailed consumption advice.
+
+This Tier 4 outline allocates $250,000 per year for these special studies. This amount of
+funding would allow for gradual progress to be made on this list of topics, but it would
+likely take 10-15 years to make significant progress. While a Program budget of $2
+million per year would be a large improvement over the current funding level, it is still
+not adequate to address, in a timely manner, the many data, information,
+communication, and meaningful tribal and community engagement needs related to the
+bioaccumulation problem in California.
+                                                                                        30
+
+
+
+References
+Ackerman, J.T., Hartman, C.A., Eagles-Smith, C.A., Herzog, M.P., Davison, J.,
+      Ichikawa, G. and Bonnema, A. 2015. Estimating exposure of piscivorous birds
+      and sport fish to mercury in California lakes using prey fish monitoring: a
+      predictive tool for managers (No. 2015-1106). US Geological Survey.
+
+Davis, J.A., Grenier, J.L., Melwani, A.R., Bezalel, S.N., Letteney, E.M., Zhang, E.J. and
+       Odaya, M. 2007. Bioaccumulation of pollutants in California waters: a review of
+       historic data and assessment of impacts on fishing and aquatic life. California
+       State Water Resources Control Board, Sacramento, California, USA.
+
+Davis, J.A. 2008. Recommendations for a Bioaccumulation Monitoring and Human
+       Health Risk Reduction Program for California. Contribution #545. San Francisco
+       Estuary Institute, Richmond, CA.
+
+Kannan, K., Perrotta, E. and Thomas, N.J. 2006. Association between perfluorinated
+     compounds and pathological conditions in southern sea otters. Environmental
+     science & technology, 40(16), pp.4943-4948.
+
+Martin, M., 1985. State mussel watch: toxics surveillance in California. Marine Pollution
+       Bulletin, 16(4), pp.140-146.
+
+Melwani et al 2013. Melwani, A.R., Gregorio, D., Jin, Y., Stephenson, M., Ichikawa, G.,
+     Siegel, E., Crane, D., Lauenstein, G. and Davis, J.A. 2014. Mussel watch update:
+     long-term trends in selected contaminants from coastal California, 1977–
+     2010. Marine pollution bulletin, 81(2), pp.291-302.
+
+Meng, X.Z., Blasius, M.E., Gossett, R.W. and Maruya, K.A. 2009. Polybrominated
+      diphenyl ethers in pinnipeds stranded along the southern California
+      coast. Environmental Pollution, 157(10), pp.2731-2736.
+
+Sedlak, M.D., Benskin, J.P., Wong, A., Grace, R. and Greig, D.J. 2017. Per-and
+      polyfluoroalkyl substances (PFASs) in San Francisco Bay wildlife: Temporal
+      trends, exposure pathways, and notable presence of precursor
+      compounds. Chemosphere, 185, pp.1217-1226.
+
+Stephenson, M.D., Martin, M. and Tjeerdema, R.S. 1995. Long-term trends in DDT,
+      polychlorinated biphenyls, and chlordane in California mussels. Archives of
+      Environmental Contamination and Toxicology, 28, pp.443-450.
+
+Tech, Tetra., 2008. Technical memorandum 2: North San Francisco Bay selenium data
+      summary and source analysis. Tetra Tech, Inc., Lafayette, CA.
+                                                                        31
+
+
+Figures
+Figure 1. Annual Program Funding Allocations.
+
+          Program allocations from FY 2011/2012 through FY 2024/2025.
+                                                                                                 32
+
+
+Figure 2. Timeline of Program Monitoring.
+
+          Actual elements shown for 2007 through 2024, planned elements for 2025 through 2029.
+                                                                                           33
+
+
+
+Tables
+Table 1. Long-term Monitoring Priorities Assessment Process Participants
+
+Participant Category            Participant Name
+
+                                Nine Regional Water Quality Control Boards
+California Water Boards
+                                State Water Board Division of Water Quality
+
+                                California Office of Environmental Health Hazard (OEHHA)
+
+Other California State Agencies California Department of Public Health (DPH)
+
+                                California Department of Fish and Wildlife (CDFW)
+
+                                San Francisco Bay RMP
+Other Bioaccumulation
+                                Bight Program
+Monitoring Programs
+                                Delta RMP
+
+                                Big Valley Band of Pomo Indians
+
+                                Habematolel Pomo Of Upper Lake
+California Native American
+                                Resighini Rancheria
+Tribal Governments
+                                Tolowa Dee-ni' Nation
+
+                                Pinoleville Pomo Nation
+
+Community Based                 Concerned Citizens of Lake Arrowhead
+Organizations                   APA Family Support Services
+                                                                                                   34
+
+Table 2. Summary of Priorities from Long-term Monitoring Priorities Assessment
+Process Participants
+Percentage Legend: Dark Purple > 70%; Dark Blue = 50 - 70%; Blue = 25 - 49%; Light Blue < 25%
+
+
+                                                                      Percent of Participants that
+                       Priority Recommendation Category
+                                                                    Identified Category as a Priority
+
+                       Water Body Types
+
+                       Lakes and Reservoirs                                        64%
+
+                       Coastal Areas                                               55%
+
+                       Rivers & Streams                                            64%
+
+                       Species Types
+
+                       Fish                                                        95%
+
+                       Shellfish                                                   45%
+
+                       Other                                                       14%
+
+General Priority Contaminant Classes
+Recommendations
+                       Algal Toxins / Cyanotoxins                                  55%
+                       Dioxins                                                     18%
+
+                       Metals (Arsenic, Mercury, Selenium)                         82%
+                       Microplastics                                               45%
+
+                       OC pesticides (e.g. DDT, dieldrin)                          41%
+
+                       PBDEs                                                       14%
+
+                       PCBs                                                        41%
+
+                       PFAS                                                        64%
+                       Other                                                        9%
+                                                                                              35
+
+
+
+                                                                Percent of Participants that
+                   Priority Recommendation Category
+                                                              Identified Category as a Priority
+
+                   Lack of Funding                                         100%
+
+                   Lack of Staff                                            44%
+
+                   Lack of Time / Bandwidth / Capacity                      22%
+Sticking Points    Lack of Subject Matter Expertise                         56%
+
+Percentages        Lack of Info on Consumption Patterns
+                                                                            89%
+calculated for           (aka want a consumption survey)
+Regional Water
+Boards Responses   Lack of coordination                                     22%
+Only
+                   Lack of outreach to affected communities                 22%
+
+                   Time between monitoring & advisory
+                                                                            11%
+                         development
+
+                   Other                                                    33%
+                                                                                                    36
+
+
+Appendices
+Appendix 1. Long-term Monitoring Priorities Assessment STEW Meetings.
+Links to completed templates are provided in the meeting notes associated with each respective item.
+
+ Meeting Date    Key Agenda Items                                            Meeting Documents
+
+ Jan. 18, 2023   Item 6. Planning for 2024 Long-term Monitoring Priorities   Slides (pg. 32 - 35)
+                        Assessment                                           Notes (pg. 7 - 8)
+                                                                             Recording
+
+ Oct. 18, 2023   Item 7. 2024 Long-term Monitoring Priorities Assessment     Slides (pg. 72 - 82)
+                 Process                                                     Notes (pg. 8 - 10)
+                                                                             Recording
+
+ Nov. 29, 2023   Item 2. Long-term Monitoring Priorities Assessment          Slides
+                        Process - Overview & Update                          Notes
+                                                                             Recording
+                 Item 3. Long-term Monitoring Priorities Assessment
+                        Process - Q&A / Open Forum
+
+ Dec. 20, 2023   Item 3. San Diego Regional Water Quality Control Board      Slides
+                        (Region 9) Monitoring Priorities                     Notes
+                                                                             Recording
+                 Item 4. Los Angeles Regional Water Quality Control Board
+                        (Region 4) Monitoring Priorities
+                 Item 5. Lahontan Regional Water Quality Control Board
+                        (Region 6) Monitoring Priorities
+
+ Jan. 24, 2024   Item 3. North Coast Regional Water Quality Control Board    Slides
+                        (Region 1) Monitoring Priorities                     Notes
+                                                                             Recording
+                 Item 4. San Francisco Regional Water Quality Control
+                        Board (Region 2) Monitoring Priorities
+                 Item 6. Central Valley Regional Water Quality Control
+                        Board (Region 5) Monitoring Priorities
+                 Item 7. Colorado River Basin Regional Water Quality
+                        Control Board (Region 7) Monitoring Priorities
+                 Item 8. Santa Ana Regional Water Quality Control Board
+                        (Region 8) Monitoring Priorities
+                 Item 9. State Board Division of Water Quality (DWQ)
+                        Monitoring Priorities
+                                                                                                  37
+
+Meeting Date    Key Agenda Items                                           Meeting Documents
+
+Jan. 31, 2024   Item 4. Office of Environmental Health Hazard Assessment Slides
+                       (OEHHA) Monitoring Priorities                     Notes
+                                                                         Recording
+
+Feb. 28, 2024   Item 3. Biomonitoring California Monitoring Priorities     Slides
+                                                                           Notes
+                Item 4. Regional Monitoring Program for Water Quality in
+                                                                           Recording
+                       San Francisco Bay (Bay RMP) Monitoring Priorities
+                Item 5. Southern California Bight Regional Monitoring
+                       Program (Bight RMP) Monitoring Priorities
+                Item 6. Delta Regional Monitoring Program (Delta RMP)
+                       Monitoring Priorities
+                Item 7. Central Coast Regional Water Quality Control
+                       Board (Region 3) Monitoring Priorities
+
+Mar. 27, 2024   Item 2. Long-term Monitoring Priorities Assessment         Slides
+                       Process - Overview & Update                         Notes
+                                                                           Recording
+                Item 3. Long-term Monitoring Priorities Assessment
+                       Process - Feedback Synthesis
+                Item 4. Long-term Monitoring Priorities Assessment
+                       Process - Priority Discussion & Open Forum
+
+Apr. 24, 2024   Item 3: Long-term Monitoring Priorities Assessment         Slides (pg. 11 - 33)
+                       Process - Decisions & Next Steps                    Notes (pg. 4 - 6)
+                                                                           Recording
+

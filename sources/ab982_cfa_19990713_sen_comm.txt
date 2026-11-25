@@ -1,0 +1,175 @@
+                                                                                                                                                                                       AB 982    Assembly Bill - Bill Analysis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            BILL ANALYSIS                                                                                                                                                                                                    
+                                                     AB 982
+           SENATE COMMITTEE ON ENVIRONMENTAL QUALITY
+                    Byron D. Sher, Chairman
+                   1999-2000 Regular Session
+BILL NO:    AB 982
+AUTHOR:     Ducheny
+AMENDED:    July 8, 1999
+FISCAL:     Yes               HEARING DATE:     July 12, 1999
+URGENCY:    No                CONSULTANT:       Kip Lipper
+SUBJECT  :    WATER QUALITY; FEDERAL CLEAN WATER ACT
+            COMPLIANCE; IMPAIRED WATER BODIES
+  SUMMARY  :    
+  Existing law  :
+1) Under federal Clean Water Act (33 U.S.C.A. Sections  
+   1251-1387):
+   a)   Requires the state to identify those waters within its  
+     boundaries which are not sufficiently protected by state  
+     and federal water quality standards (identified as  
+     "impaired water bodies"), to rank such waters based upon  
+     the severity of their pollution, and to establish total  
+     maximum daily loads (TMDL's) for pollutants found in  
+     those waters.
+   b)   Authorizes any citizen to commence a civil action  
+     against the US Environmental Protection Agency (EPA) for  
+     the enforcement of any water quality standard established  
+     under the federal Act.
+2) Under the Porter-Cologne Water Quality Control Act  
+   (Division 7 (commencing with Section 13000) of the Water  
+   Code):
+   a)   Generally requires the State Water Resources Control  
+     Board (SWRCB) and the nine regional water quality control  
+     boards (RWQCB's) to protect and maintain the beneficial  
+     uses of the waters of the state.
+   b)   Delegates, with several exceptions, responsibility for  
+                                                     AB 982
+                                                      Page 2
+     overseeing state compliance with the federal Clean Water  
+     Act to the State and regional water boards.
+   c)   Requires each RWQCB to adopt a water quality control  
+     plan for its region which provide for the reasonable  
+     protection of the beneficial uses of waters in that  
+     region and the prevention of nuisance.
+  This bill  :
+1) Requires the SWRCB to convene one or more advisory groups  
+   to assist in the evaluation of the program structure and  
+   effectiveness of the impaired water bodies program required  
+   to be implemented by the board pursuant to the federal  
+   Clean Water Act, and specifies the membership and  
+   procedures for operation of the advisory group or groups.
+2) Requires the SWRCB to report to the Legislature on the  
+   structure and effectiveness of its water quality program as  
+   it relates to the federal Act on or before November 30,  
+   2000, and periodically thereafter, and requires the board  
+   to take into consideration the recommendations of the  
+   advisory group or groups established pursuant to (1) above.
+3) On or before November 30, 2000, requires the SWRCB to  
+   report to the Legislature on the state's and regional  
+   boards' current surface water monitoring programs for the  
+   purpose of designing a unified surface water monitoring  
+   program for the state, and to include specified elements in  
+   that report. 
+  COMMENTS  :
+1)  Purpose of Bill  .  According to the author's office, this  
+   measure is intended to provide a framework for the  
+   implementation of the state's impaired water bodies program  
+   required pursuant to the federal Clean Water Act.  The  
+   author notes that, in response to federal litigation, the  
+   US EPA and the state board have both been compelled to move  
+   forward in order to comply with the requirements of Section  
+   3030(d) of the federal Act.  This measure is intended to  
+   ensure that the Legislature is kept apprised of that  
+   process and that various stakeholders have input into the  
+                                                     AB 982
+                                                      Page 3
+   process.
+2)  Impaired Water Bodies Program Described  .  The following is  
+   taken from an April 1999 Report issued by the California  
+   Research Bureau, entitled  TMDL's The Revolution in Water  
+   Quality Regulation  (Ruffulo):
+"California's "modern" legal arrangements for cleaning up its  
+   rivers, lakes, and coastal waters go back 30 years to the  
+   state's Porter-Cologne Act and especially to the federal  
+   Clean Water Act of 1972.  The main thrust of the CWA was to  
+   require cities and industries to clean up the waste water  
+   they discharged from their "point sources," which were  
+   mostly sewer outfalls and an assortment of other pipes and  
+   ditches.  This approach had much to recommend it.  A  
+   sizeable portion of water pollution came from these kinds  
+   of sources, the pollution was orderly in the sense that it  
+   was already contained in a pipe or channel, there was  
+   little ambiguity about who caused the pollution, and  
+   workable treatment technologies existed.  There were  
+   complaints, it was expensive, but enormous progress was  
+   made in cleaning up the state's surface water.
+The Clean Water Act also included a second, conceptually  
+   different and broader approach to cleaning up our water.   
+   This second approach drew little attention when the CWA was  
+   passed, or for more than a decade after that, until it was  
+   "discovered" by environmental litigants and the courts.  It  
+   required each state to assess the actual water quality of  
+   each of its water bodies.  Even after imposing stringent  
+   controls on point water pollution sources, it is perhaps  
+   not surprising that most states found that many water  
+   bodies were still somewhat polluted.  The second front of  
+   the CWA seems to require states, including California, to  
+   establish the total amount of each category of pollutant  
+   that each water body can absorb each day without becoming  
+   "polluted" (called Total Maximum Daily Loading, or TMDL)  
+   and to somehow ensure that that limit is not exceeded.
+Exactly how this TMDL requirement is going to work is far from  
+   clear; almost everything about it is cloaked in controversy  
+                                                     AB 982
+                                                      Page 4
+   or at least ambiguity.  However, the weight of court  
+   decisions from around the country and especially in  
+   California suggest the very real possibility that water  
+   quality regulation is in the act of changing in quite  
+   fundamental ways.  The most important change is also the  
+   simplest: if water bodies must be made cleaner, then one of  
+   two things must happen.  Either point sources, such as  
+   municipalities and factories, must clean up their  
+   discharges even further, even though additional purity  
+   comes at great expense, or nonpoint sources, such as farms,  
+   timber operators, and urban runoff, must be subject to  
+   stringent water quality controls that they have avoided so  
+   far.
+TMDL requirements have the potential to greatly expand the  
+   scope, impact, and economic cost of water quality  
+   regulations, and could change the way that the agriculture,  
+   forestry, and construction industries do business.   
+   Estimates of the regulatory cost of this program range from  
+   $5 million to $1 billion, excluding the costs to industries  
+   and urban areas of pollution controls needed to meet more  
+   stringent standards.
+3)  1999-2000 Budget Act Contains Funds and Reporting  
+   Requirements for Impaired Water Bodies Program  .  The  
+   recently enacted State Budget appropriated $9 million for  
+   implementation of the impaired water bodies program  
+   required pursuant to federal law and consent decrees.  It  
+   also included several million dollars for increased water  
+   quality monitoring.  Due to ongoing concerns related to the  
+   SWRCB's general implementation of its core regulatory  
+   program, the Legislature additionally established an  
+   extensive series of reporting requirements on the board as  
+   supplemental language in the budget.  Among other things,  
+   these reporting requirements require the board to keep the  
+   Legislature apprised of its actions in implementing the  
+   program and how it relates to other regulatory programs  
+   implemented by the board.
+4)  Technical Amendments Suggested  .  The latest amendments to  
+   the bill may need several technical changes.  First, it is  
+   unclear why the board may need to convene more that one  
+   advisory group.  It may make more sense to have one group  
+                                                     AB 982
+                                                      Page 5
+   which may have sub-committees to focus on individual  
+   issues.  Second, it is unclear what is meant when the bill  
+   states that the board shall conduct the advisory group in a  
+   manner which "facilitates the effective participation" of  
+   stakeholders.  It might make more sense to require specific  
+   "participation" mechanisms such as public meetings.  Third,  
+   rather than have a "periodic" reporting requirement for the  
+   board, it would make more sense to require the board to  
+   report at least once annually.  Moreover, the two separate  
+   November 30, 2000 reporting requirements should be  
+   reconciled into one. (It is unclear why the date of  
+   November 30, 2000 was chosen).  Lastly, the reporting  
+   requirements in this bill should be reconciled with those  
+   in the budget Supplemental Report.    
+  SOURCE  :        Assemblymember Ducheny 
+SUPPORT  :       California Association of Sanitation Agencies,  
+               California Farm Bureau Federation, Sierra Club,  
+               Western States Petroleum  
+OPPOSITION  :    None on file  
