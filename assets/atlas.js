@@ -8,6 +8,7 @@ const PLATES = [
   ["plates/who-pays.html", "V · Who Pays"],
   ["plates/benefits.html", "VI · Benefits"],
   ["plates/risks.html", "VII · Risks"],
+  ["plates/priorities.html", "VIII · Next Five Years"],
   ["plates/sources.html", "Sources"],
 ];
 

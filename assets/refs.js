@@ -180,6 +180,8 @@ Object.assign(REFS, {
     f: "State Water Resources Control Board. <i>2024-25 Performance Report</i>, Plan and Assess: SWAMP site visits and collections by fiscal year." },
   swampint: { g: "SWAMP history and budget", s: "SWAMP program records 2026", chk: "p", u: "",
     f: "State Water Resources Control Board, Office of Information Management and Analysis, SWAMP Unit. Program budget records and Regional Water Board coordinator summaries, 2025–2026. Internal working documents; not published." },
+  swamp2027: { g: "SWAMP history and budget", s: "SWAMP Strategic Priorities 2027–2032 (draft)", chk: "v", u: "",
+    f: "State Water Resources Control Board, Office of Information Management and Analysis (2026). <i>Surface Water Ambient Monitoring Program (SWAMP) and SWAMP IQ Strategic Priorities 2027-2032.</i> Draft, July 2026. Internal working document; not published." },
   bls: { g: "SWAMP history and budget", s: "U.S. BLS, CPI-U", chk: "v", u: "https://data.bls.gov/timeseries/CUUR0000SA0",
     f: "U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers, U.S. city average, all items (series CUUR0000SA0). Annual averages 2004–2025 and June 2026." },
 
